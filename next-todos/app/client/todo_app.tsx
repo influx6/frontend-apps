@@ -40,9 +40,17 @@ export default function TodoApp({ tasks }: TodoState) {
   const completed_child = <TodoList tasks={completed_todos} on_change={on_change} />;
   const new_todos_child = <TodoList tasks={new_todos} on_change={on_change} />;
 
+  const pending_count = pending_todos.length;
+  const completed_count = completed_todos.length;
+  const new_count = new_todos.length;
+
   return (
     <main className="flex flex-1 w-full max-w-3xl flex-col gap-8 pt-12 pb-8">
-      <Dashboard></Dashboard>
+      <Dashboard
+        pendingCount={pending_count}
+        completedCount={completed_count}
+        createdTodayCount={new_count}
+      ></Dashboard>
       <TabSheet
         pending_items={pending_child}
         new_items={new_todos_child}
