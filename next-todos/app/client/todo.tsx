@@ -12,19 +12,18 @@ interface TodoProp {
 export function Todo({ data, on_change }: TodoProp) {
   const { id, detail, completed, created } = data;
   return (
-    <section key={id} className="flex flex-row">
-      <div className="completed left-0">
-        <input
-          type="checkbox"
-          checked={completed}
-          onChange={(e) => on_change({ ...data, completed: e.target.checked })}
-        />
-      </div>
-      <div className="details right-0">
-        <div className="message">
-          <p>{detail}</p>
+    <section key={id} className="todo-item flex flex-row items-center gap-3 py-3 border-b border-border">
+      <input
+        type="checkbox"
+        className="appearance-none w-5 h-5 border-2 border-border rounded-md checked:bg-accent checked:border-accent cursor-pointer transition-colors"
+        checked={completed}
+        onChange={(e) => on_change({ ...data, completed: e.target.checked })}
+      />
+      <div className="flex flex-1 min-w-0 items-center justify-between details">
+        <div className="message overflow-hidden">
+          <p className="todo-text text-lg overflow-hidden whitespace-nowrap text-ellipsis">{detail}</p>
         </div>
-        <div className="created_at">
+        <div className="text-muted text-base whitespace-nowrap">
           <p>{created.toDateString()}</p>
         </div>
       </div>

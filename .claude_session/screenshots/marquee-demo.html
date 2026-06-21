@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { font-family: sans-serif; padding: 40px; background: #fafafa; }
+    .demo-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      max-width: 500px;
+      margin-bottom: 24px;
+      padding: 12px 0;
+      border-bottom: 1px solid #e4e4e7;
+    }
+    .marquee-container {
+      flex: 1;
+      overflow: hidden;
+      white-space: nowrap;
+      position: relative;
+    }
+    .marquee-text {
+      display: inline-block;
+      animation: marquee 8s linear infinite;
+    }
+    .marquee-text:hover {
+      animation-play-state: paused;
+    }
+    @keyframes marquee {
+      0%   { transform: translateX(0); }
+      20%  { transform: translateX(0); }
+      80%  { transform: translateX(calc(-100% + 500px)); }
+      100% { transform: translateX(0); }
+    }
+    .label {
+      font-size: 12px;
+      color: #71717a;
+      margin-bottom: 4px;
+    }
+    .short-text {
+      color: #18181b;
+      font-size: 15px;
+    }
+    .date {
+      font-size: 13px;
+      color: #a1a1aa;
+    }
+  </style>
+</head>
+<body>
+  <h2>Marquee Demo</h2>
+  <p style="color:#71717a; margin-bottom: 32px;">Hover to pause. Short text stays still.</p>
+
+  <div class="label">Short text (no scroll needed):</div>
+  <div class="demo-row">
+    <input type="checkbox" />
+    <div class="marquee-container">
+      <span class="short-text">Create nextjs app</span>
+      <div class="date">Wed Mar 11 2026</div>
+    </div>
+  </div>
+
+  <div class="label">Long text (scrolls):</div>
+  <div class="demo-row">
+    <input type="checkbox" />
+    <div class="marquee-container">
+      <span class="short-text marquee-text">Build a comprehensive todo app with Next.js, TypeScript, Tailwind CSS, and server components architecture</span>
+      <div class="date">Sun Jun 21 2026</div>
+    </div>
+  </div>
+
+  <div class="label">Very long text (scrolls):</div>
+  <div class="demo-row">
+    <input type="checkbox" />
+    <div class="marquee-container">
+      <span class="short-text marquee-text">Implement a full-stack productivity application with real-time synchronization, collaborative editing, drag-and-drop reordering, and advanced filtering capabilities across multiple workspaces</span>
+      <div class="date">Mon Jun 22 2026</div>
+    </div>
+  </div>
+</body>
+</html>

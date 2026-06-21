@@ -72,3 +72,25 @@ body {
     color: var(--foreground);
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.todo-text-wrapper {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    transition: max-width.3s ease;
+}
+.todo-item:hover .todo-text-wrapper {
+    white-space: normal;
+    text-overflow: unset;
+}
+
+.todo-text {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    transition: white-space 0.2s ease;
+}
+
+.todo-item:hover .todo-text {
+    white-space: normal;
+}

@@ -1,5 +1,5 @@
 export default interface TodoData {
-  id: string;
+  id: number;
   detail: string;
   completed: boolean;
   created: Date;
