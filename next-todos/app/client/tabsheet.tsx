@@ -1,9 +1,9 @@
 "use client";
 
-import { ReactNode, useEffect, useState } from "react";
+import { ReactNode, useState } from "react";
 import TodoData from "../models/todo";
-import { TodoList } from "./todo";
 import useDebounce from "../hooks/debounce";
+import { VirtualTodoList } from "./todo_list";
 
 interface TabContentProps {
   children: ReactNode | Array<ReactNode>;
@@ -72,7 +72,7 @@ export default function TabSheet({ on_change, pending_items, completed_items, ne
       {/*Todo List*/}
       <div className="tab_content min-h-48 border border-t-0 bg-surface rounded-b-lg">
         <TabContent>
-          <TodoList tasks={filteredItems} on_change={on_change}></TodoList>
+          <VirtualTodoList container_height={400} tasks={filteredItems} on_change={on_change} />
         </TabContent>
       </div>
     </div>

@@ -3,7 +3,6 @@
 import TodoData from "../models/todo";
 import Dashboard from "../server/dashboard";
 import TabSheet from "./tabsheet";
-import { TodoList } from "./todo";
 import { useMemo, useState } from "react";
 
 interface TodoState {
@@ -81,6 +80,7 @@ export default function TodoApp({ tasks }: TodoState) {
         pending_items={pending_todos}
         new_items={new_todos}
         completed_items={completed_todos}
+        on_change={on_change}
       ></TabSheet>
     </main>
   );
