@@ -3,6 +3,7 @@
 import { ReactNode, useEffect, useState } from "react";
 import TodoData from "../models/todo";
 import { TodoList } from "./todo";
+import useDebounce from "../hooks/debounce";
 
 interface TabContentProps {
   children: ReactNode | Array<ReactNode>;
@@ -44,9 +45,11 @@ export default function TabSheet({ on_change, pending_items, completed_items, ne
   const [selected, setSelected] = useState(1);
   const [searchQuery, setSearchQuery] = useState("");
 
+  const debouncedSearch = useDebounce(searchQuery, 300);
+
   const activeItems = selected === 1 ? pending_items : selected === 2 ? completed_items : new_items;
-  const filteredItems = searchQuery.trim()
-    ? activeItems.filter((item) => item.detail.toLowerCase().includes(searchQuery.toLowerCase()))
+  const filteredItems = debouncedSearch.trim()
+    ? activeItems.filter((item) => item.detail.toLowerCase().includes(debouncedSearch.toLowerCase()))
     : activeItems;
 
   return (
