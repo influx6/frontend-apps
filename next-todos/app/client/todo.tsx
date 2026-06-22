@@ -23,7 +23,7 @@ export function Todo({ data, on_change }: TodoProp) {
         <div className="message overflow-hidden">
           <p className="todo-text text-lg overflow-hidden whitespace-nowrap text-ellipsis">{detail}</p>
         </div>
-        <div className="text-muted text-base whitespace-nowrap">
+        <div className="text-muted text-base align-top whitespace-nowrap">
           <p>{created.toDateString()}</p>
         </div>
       </div>

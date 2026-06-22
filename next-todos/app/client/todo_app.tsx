@@ -31,14 +31,24 @@ export default function TodoApp({ tasks }: TodoState) {
     );
   }, [all_todos]);
 
+  const [newTodoText, setNewTodoText] = useState("");
+
   const on_change = (updated: TodoData) => {
     console.log("changing todo");
     set_all_todos(all_todos.map((item) => (item.id === updated.id ? updated : item)));
   };
 
-  const pending_child = <TodoList tasks={pending_todos} on_change={on_change} />;
-  const completed_child = <TodoList tasks={completed_todos} on_change={on_change} />;
-  const new_todos_child = <TodoList tasks={new_todos} on_change={on_change} />;
+  const addTodo = () => {
+    if (!newTodoText.trim()) return;
+    const newTodo: TodoData = {
+      id: crypto.randomUUID(),
+      detail: newTodoText,
+      completed: false,
+      created: new Date(),
+    };
+    set_all_todos([...all_todos, newTodo]);
+    setNewTodoText("");
+  };
 
   const pending_count = pending_todos.length;
   const completed_count = completed_todos.length;
@@ -51,10 +61,26 @@ export default function TodoApp({ tasks }: TodoState) {
         completedCount={completed_count}
         createdTodayCount={new_count}
       ></Dashboard>
+      <div className="flex gap-2 w-full">
+        <input
+          type="text"
+          className="flex-1 border border-border rounded-lg px-4 py-2 text-foreground bg-surface placeholder:text-muted"
+          placeholder="Add a new todo..."
+          value={newTodoText}
+          onChange={(e) => setNewTodoText(e.target.value)}
+          onKeyDown={(e) => e.key === "Enter" && addTodo()}
+        />
+        <button
+          className="bg-accent text-accent-foreground rounded-lg px-4 py-2 font-bold hover:opacity-90 transition-opacity"
+          onClick={addTodo}
+        >
+          +
+        </button>
+      </div>
       <TabSheet
-        pending_items={pending_child}
-        new_items={new_todos_child}
-        completed_items={completed_child}
+        pending_items={pending_todos}
+        new_items={new_todos}
+        completed_items={completed_todos}
       ></TabSheet>
     </main>
   );
