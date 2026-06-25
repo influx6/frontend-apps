@@ -54,6 +54,10 @@ export default function TodoApp({ initialCursor, initialCount }: TodoAppProps) {
 
   const handleToggle = async (id: string, completed: boolean) => {
     await toggleTodo(id, completed);
+
+    // The toggled item no longer matches the current tab — reload it from the
+    // top so it disappears, and refresh the counts.
+    await reload(filterTab);
     const counts = await loadCounts();
     setCounts(counts);
   };
