@@ -1,6 +1,6 @@
 "use client";
 
-import TodoData from "../models/todo";
+import { TodoData } from "../models/todo";
 
 type TodoChange = (todo: TodoData) => void;
 
