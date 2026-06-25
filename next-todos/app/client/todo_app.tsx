@@ -2,7 +2,7 @@
 
 import { useTodoFetcher } from "../hooks/todo_fetcher";
 import { TodoResult } from "../models/todo";
-import { createTodo, loadCounts, toggleTodo } from "../server/actions";
+import { createTodo, loadCounts, loadTodos, toggleTodo } from "../server/actions";
 import Dashboard from "../server/dashboard";
 import TabSheet from "./tabsheet";
 import { useState, useRef } from "react";
@@ -27,20 +27,26 @@ export default function TodoApp({ initialCursor, initialCount }: TodoAppProps) {
   const [newTodoText, setNewTodoText] = useState("");
   const [filterTab, setFilteredTab] = useState("pending" as "pending" | "completed" | "new");
 
+  // Reload the first window for a given tab and reset the sliding window.
+  const reload = async (tab: "pending" | "completed" | "new") => {
+    const result = await loadTodos(0, tab);
+    resetTodoList(
+      { prevCursor: result.prevCursor, nextCursor: result.nextCursor, batchSize: result.batchSize },
+      result.items,
+    );
+  };
+
+  const handleFilter = (tab: "pending" | "completed" | "new") => {
+    setFilteredTab(tab);
+    reload(tab);
+  };
+
   const handleAddTodo = async () => {
     if (!newTodoText.trim()) return;
-    const created = await createTodo(newTodoText);
+    await createTodo(newTodoText);
 
-    // reset back to latest count
-    resetTodoList(
-      {
-        prevCursor: created.prevCursor,
-        nextCursor: created.nextCursor,
-        batchSize: created.batchSize,
-      },
-      created.items,
-    );
-
+    // reload the current tab from the top so the new todo shows if it matches
+    await reload(filterTab);
     loadCounts().then(setCounts);
 
     setNewTodoText("");
@@ -62,6 +68,7 @@ export default function TodoApp({ initialCursor, initialCount }: TodoAppProps) {
 
   const loadPrevious = async () => {
     if (loadingRef.current) return;
+    console.log("Loading previous for tab: ", filterTab);
     loadingRef.current = true;
     await previousTodoList(filterTab);
     loadingRef.current = false;
@@ -93,7 +100,7 @@ export default function TodoApp({ initialCursor, initialCount }: TodoAppProps) {
       <TabSheet
         todos={todos}
         on_toggle={(d) => handleToggle(d.id, d.completed)}
-        on_filter={(v) => setFilteredTab(v)}
+        on_filter={handleFilter}
         load_next={loadNext}
         load_previous={loadPrevious}
       />

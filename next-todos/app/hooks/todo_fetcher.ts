@@ -70,6 +70,10 @@ export function useTodoFetcher(
         const first = windows.current[0];
         if (!first.prevCursor) return;
         const result = await loadTodos(first.prevCursor, tab);
+
+        // dont fire if items are not returned
+        // if (!result || result.items.length === 0) return;
+
         setTodos((prev) => [...result.items, ...prev]);
         windows.current = [
           { batchSize: result.batchSize, prevCursor: result.prevCursor, nextCursor: result.nextCursor },
@@ -86,6 +90,9 @@ export function useTodoFetcher(
       }
 
       const result = await loadTodos(loadCursor, tab);
+      // dont fire if items are not returned
+      // if (!result || result.items.length === 0) return;
+
       const second = windows.current[1];
       const keepCount = second.batchSize * (MAX_BATCHES - 1);
       setTodos((prev) => [...result.items, ...prev.slice(0, keepCount)]);
@@ -111,6 +118,10 @@ export function useTodoFetcher(
 
       if (windows.current.length < MAX_BATCHES) {
         const result = await loadTodos(last.nextCursor, tab);
+
+        // dont fire if items are not returned
+        // if (!result || result.items.length === 0) return;
+
         setTodos((prev) => [...prev, ...result.items]);
         windows.current = [
           ...windows.current,
@@ -124,10 +135,11 @@ export function useTodoFetcher(
 
       const result = await loadTodos(last.nextCursor, tab);
 
-      const keepCount = last.batchSize * (MAX_BATCHES - 1);
-      setTodos((prev) => {
-        return [...prev.slice(keepCount), ...result.items];
-      });
+      // dont fire if items are not returned
+      // if (!result || result.items.length === 0) return;
+
+      // Evict the oldest batch from the front, append the freshly loaded one.
+      setTodos((prev) => [...prev.slice(oldest.batchSize), ...result.items]);
       windowStart.current += oldest.batchSize;
       windows.current = [
         ...windows.current.slice(1),

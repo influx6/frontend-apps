@@ -48,21 +48,11 @@ export default function TabSheet({ todos, on_toggle, on_filter, load_next, load_
 
   const debouncedSearch = useDebounce(searchQuery, 300);
 
-  const today = new Date();
-
-  const tabFiltered = todos.filter((t) => {
-    if (selected === 1) return !t.completed;
-    if (selected === 2) return t.completed;
-    return (
-      t.created.getFullYear() === today.getFullYear() &&
-      t.created.getMonth() === today.getMonth() &&
-      t.created.getDate() === today.getDate()
-    );
-  });
-
+  // Tab filtering is done server-side (see getTodos); here we only apply the
+  // client-side search over the currently loaded window.
   const filteredItems = debouncedSearch.trim()
-    ? tabFiltered.filter((item) => item.detail.toLowerCase().includes(debouncedSearch.toLowerCase()))
-    : tabFiltered;
+    ? todos.filter((item) => item.detail.toLowerCase().includes(debouncedSearch.toLowerCase()))
+    : todos;
 
   const setTab = (selection: number) => {
     setSelected(selection);
@@ -92,7 +82,7 @@ export default function TabSheet({ todos, on_toggle, on_filter, load_next, load_
       <div className="tab_content min-h-48 border border-t-0 bg-surface rounded-b-lg overflow-hidden">
         <TabContent>
           <VirtualTodoList
-            key="virtual-todo-list"
+            key={`virtual-todo-list-${selected}`}
             container_height={600}
             tasks={filteredItems}
             on_change={on_toggle}

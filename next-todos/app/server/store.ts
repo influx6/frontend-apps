@@ -12,6 +12,20 @@ const store = {
 
 const BATCH_SIZE = 20;
 
+type Tab = "pending" | "completed" | "new";
+
+function matchesTab(t: TodoData, tab?: Tab): boolean {
+  if (!tab) return true;
+  if (tab === "pending") return !t.completed;
+  if (tab === "completed") return t.completed;
+  const today = new Date();
+  return (
+    t.created.getFullYear() === today.getFullYear() &&
+    t.created.getMonth() === today.getMonth() &&
+    t.created.getDate() === today.getDate()
+  );
+}
+
 export function updateTodo(id: string, updates: Partial<TodoData>): TodoData | null {
   const idx = store.idToIndex.get(id);
   if (idx === undefined) return null;
@@ -20,53 +34,26 @@ export function updateTodo(id: string, updates: Partial<TodoData>): TodoData | n
   return updated;
 }
 
-export function searchTodos(query: string, tab: "pending" | "completed" | "new"): TodoData[] {
-  const today = new Date();
-  return store.sorted.filter((t) => {
-    const matchesTab =
-      tab === "pending"
-        ? !t.completed
-        : tab === "completed"
-          ? t.completed
-          : t.created.getFullYear() === today.getFullYear() &&
-            t.created.getMonth() === today.getMonth() &&
-            t.created.getDate() === today.getDate();
-    return matchesTab && t.detail.toLowerCase().includes(query.toLowerCase());
-  });
+export function searchTodos(query: string, tab: Tab): TodoData[] {
+  const q = query.toLowerCase();
+  return store.sorted.filter((t) => matchesTab(t, tab) && t.detail.toLowerCase().includes(q));
 }
 
 export function getTodoCounts(): { pending: number; completed: number; newToday: number } {
-  const today = new Date();
   return {
-    pending: store.sorted.filter((t) => !t.completed).length,
-    completed: store.sorted.filter((t) => t.completed).length,
-    newToday: store.sorted.filter(
-      (t) =>
-        t.created.getFullYear() === today.getFullYear() &&
-        t.created.getMonth() === today.getMonth() &&
-        t.created.getDate() === today.getDate(),
-    ).length,
+    pending: store.sorted.filter((t) => matchesTab(t, "pending")).length,
+    completed: store.sorted.filter((t) => matchesTab(t, "completed")).length,
+    newToday: store.sorted.filter((t) => matchesTab(t, "new")).length,
   };
 }
 
-export function getTodos(cursor: number = 0, tab?: "pending" | "completed" | "new"): TodoResult {
-  const items = store.sorted.slice(cursor, cursor + BATCH_SIZE);
+export function getTodos(cursor: number = 0, tab?: Tab): TodoResult {
+  // Paginate over the tab-filtered view so the cursor/window stays aligned with
+  // what the client renders.
+  const filtered = tab ? store.sorted.filter((t) => matchesTab(t, tab)) : store.sorted;
+  const items = filtered.slice(cursor, cursor + BATCH_SIZE);
 
-  const today = new Date();
-  items.filter((t) => {
-    if (tab === undefined || tab === null) return true;
-    const matchesTab =
-      tab === "pending"
-        ? !t.completed
-        : tab === "completed"
-          ? t.completed
-          : t.created.getFullYear() === today.getFullYear() &&
-            t.created.getMonth() === today.getMonth() &&
-            t.created.getDate() === today.getDate();
-    return matchesTab;
-  });
-
-  const nextCursor = cursor + BATCH_SIZE < store.sorted.length ? cursor + BATCH_SIZE : null;
+  const nextCursor = cursor + BATCH_SIZE < filtered.length ? cursor + BATCH_SIZE : null;
   const prevCursor = cursor - BATCH_SIZE >= 0 ? cursor - BATCH_SIZE : null;
   return { items, batchSize: BATCH_SIZE, nextCursor, prevCursor };
 }
