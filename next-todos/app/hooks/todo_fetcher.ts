@@ -93,7 +93,7 @@ export function useTodoFetcher(
       // dont fire if items are not returned
       // if (!result || result.items.length === 0) return;
 
-      const second = windows.current[1];
+      const second = windows.current.length == 2 ? windows.current[1] : windows.current[0];
       const keepCount = second.batchSize * (MAX_BATCHES - 1);
       setTodos((prev) => [...result.items, ...prev.slice(0, keepCount)]);
       windowStart.current = loadCursor;
