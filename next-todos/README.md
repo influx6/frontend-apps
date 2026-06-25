@@ -5,7 +5,7 @@
 > scroll, DOM virtualization, and a bounded in-memory working set — all behind an
 > interface that feels like an ordinary checklist.
 
-**Live demo:** https://next-todos-7itnl0853-influx6s-projects.vercel.app
+**Live demo:** https://next-todos-influx6-influx6s-projects.vercel.app
 
 Built with **Next.js 16 (App Router)**, **React 19**, **Server Actions**,
 **TypeScript**, and **Tailwind CSS v4**.
