@@ -1,7 +1,7 @@
 "use client";
 
 import { useRef, useState } from "react";
-import TodoData from "../models/todo";
+import { TodoData } from "../models/todo";
 import { loadTodos } from "../server/actions";
 import { useAsyncGuard } from "./async_guard";
 

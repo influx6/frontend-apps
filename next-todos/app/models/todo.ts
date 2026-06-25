@@ -1,4 +1,11 @@
-export default interface TodoData {
+export interface TodoJSON {
+  id: string;
+  detail: string;
+  completed: boolean;
+  created: string;
+}
+
+export interface TodoData {
   id: string;
   detail: string;
   completed: boolean;

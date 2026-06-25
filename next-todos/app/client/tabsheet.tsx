@@ -1,7 +1,7 @@
 "use client";
 
 import { ReactNode, useState } from "react";
-import TodoData from "../models/todo";
+import { TodoData } from "../models/todo";
 import useDebounce from "../hooks/debounce";
 import { VirtualTodoList } from "./todo_list";
 

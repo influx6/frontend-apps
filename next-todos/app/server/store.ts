@@ -1,13 +1,13 @@
-import TodoData, { TodoResult } from "../models/todo";
+import { TodoData, TodoJSON, TodoResult } from "../models/todo";
 import todosJson from "./todos.json";
 import crypto from "crypto";
 
 const store = {
-  sorted: (todosJson as TodoData[]).map((t) => ({
+  sorted: (todosJson as TodoJSON[]).map((t) => ({
     ...t,
     created: new Date(t.created as unknown as string),
   })),
-  idToIndex: new Map((todosJson as TodoData[]).map((t, i) => [t.id, i])),
+  idToIndex: new Map((todosJson as TodoJSON[]).map((t, i) => [t.id, i])),
 };
 
 const BATCH_SIZE = 20;

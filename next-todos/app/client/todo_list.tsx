@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
-import TodoData from "../models/todo";
+import { TodoData } from "../models/todo";
 import { Todo } from "./todo";
 import { useIntersectionObserver } from "../hooks/useIntersectionObserver";
 
@@ -74,13 +74,17 @@ export function VirtualTodoList({
   const handleLoadPrevious = () => {
     if (loadingRef.current || !load_previous) return;
     loadingRef.current = true;
-    load_previous().finally(() => { loadingRef.current = false; });
+    load_previous().finally(() => {
+      loadingRef.current = false;
+    });
   };
 
   const handleLoadNext = () => {
     if (loadingRef.current || !load_next) return;
     loadingRef.current = true;
-    load_next().finally(() => { loadingRef.current = false; });
+    load_next().finally(() => {
+      loadingRef.current = false;
+    });
   };
 
   // Virtualization math
@@ -95,14 +99,18 @@ export function VirtualTodoList({
   // IntersectionObserver sentinels
   const topRef = useIntersectionObserver(
     containerRef,
-    (entry) => { if (entry.isIntersecting) handleLoadPrevious(); },
-    { rootMargin: "200px 0px 0px 0px" }
+    (entry) => {
+      if (entry.isIntersecting) handleLoadPrevious();
+    },
+    { rootMargin: "200px 0px 0px 0px" },
   );
 
   const bottomRef = useIntersectionObserver(
     containerRef,
-    (entry) => { if (entry.isIntersecting) handleLoadNext(); },
-    { rootMargin: "0px 0px 200px 0px" }
+    (entry) => {
+      if (entry.isIntersecting) handleLoadNext();
+    },
+    { rootMargin: "0px 0px 200px 0px" },
   );
 
   return (

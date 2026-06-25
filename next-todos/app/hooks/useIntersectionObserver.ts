@@ -22,7 +22,6 @@ export function useIntersectionObserver(
   options?: Omit<IntersectionObserverInit, "root">,
 ): React.RefCallback<HTMLElement | null> {
   const callbackRef = useRef(callback);
-  callbackRef.current = callback;
 
   const [element, setElement] = useState<HTMLElement | null>(null);
 
@@ -33,10 +32,11 @@ export function useIntersectionObserver(
     const root = rootRef.current;
     if (!element || !root) return;
 
-    const observer = new IntersectionObserver(
-      ([entry]) => callbackRef.current(entry),
-      { root, rootMargin, threshold },
-    );
+    const observer = new IntersectionObserver(([entry]) => callbackRef.current(entry), {
+      root,
+      rootMargin,
+      threshold,
+    });
     observer.observe(element);
 
     return () => observer.disconnect();
