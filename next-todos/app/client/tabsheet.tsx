@@ -35,29 +35,48 @@ function Tab({ title, selected, on_click }: TabProps) {
 }
 
 interface TabSheetState {
-  pending_items: TodoData[];
-  completed_items: TodoData[];
-  new_items: TodoData[];
-  on_change: (todo: TodoData) => void;
+  todos: TodoData[];
+  on_toggle: (todo: TodoData) => void;
+  load_next?: () => Promise<void>;
+  load_previous?: () => Promise<void>;
+  on_filter?: (tab: "pending" | "completed" | "new") => void;
 }
 
-export default function TabSheet({ on_change, pending_items, completed_items, new_items }: TabSheetState) {
+export default function TabSheet({ todos, on_toggle, on_filter, load_next, load_previous }: TabSheetState) {
   const [selected, setSelected] = useState(1);
   const [searchQuery, setSearchQuery] = useState("");
 
   const debouncedSearch = useDebounce(searchQuery, 300);
 
-  const activeItems = selected === 1 ? pending_items : selected === 2 ? completed_items : new_items;
+  const today = new Date();
+
+  const tabFiltered = todos.filter((t) => {
+    if (selected === 1) return !t.completed;
+    if (selected === 2) return t.completed;
+    return (
+      t.created.getFullYear() === today.getFullYear() &&
+      t.created.getMonth() === today.getMonth() &&
+      t.created.getDate() === today.getDate()
+    );
+  });
+
   const filteredItems = debouncedSearch.trim()
-    ? activeItems.filter((item) => item.detail.toLowerCase().includes(debouncedSearch.toLowerCase()))
-    : activeItems;
+    ? tabFiltered.filter((item) => item.detail.toLowerCase().includes(debouncedSearch.toLowerCase()))
+    : tabFiltered;
+
+  const setTab = (selection: number) => {
+    setSelected(selection);
+    if (on_filter) {
+      on_filter(selection === 1 ? "pending" : selection === 2 ? "completed" : "new");
+    }
+  };
 
   return (
     <div className="bg-surface rounded-b-lg  flex flex-col ">
       <div className="flex">
-        <Tab title="Pending" selected={selected === 1} on_click={() => setSelected(1)}></Tab>
-        <Tab title="Completed" selected={selected === 2} on_click={() => setSelected(2)}></Tab>
-        <Tab title="New" selected={selected === 3} on_click={() => setSelected(3)}></Tab>
+        <Tab title="Pending" selected={selected === 1} on_click={() => setTab(1)}></Tab>
+        <Tab title="Completed" selected={selected === 2} on_click={() => setTab(2)}></Tab>
+        <Tab title="New" selected={selected === 3} on_click={() => setTab(3)}></Tab>
       </div>
       {/*Search bar*/}
       <div className="py-5 px-4 pb-3">
@@ -70,9 +89,16 @@ export default function TabSheet({ on_change, pending_items, completed_items, ne
         />
       </div>
       {/*Todo List*/}
-      <div className="tab_content min-h-48 border border-t-0 bg-surface rounded-b-lg">
+      <div className="tab_content min-h-48 border border-t-0 bg-surface rounded-b-lg overflow-hidden">
         <TabContent>
-          <VirtualTodoList container_height={400} tasks={filteredItems} on_change={on_change} />
+          <VirtualTodoList
+            key="virtual-todo-list"
+            container_height={600}
+            tasks={filteredItems}
+            on_change={on_toggle}
+            load_next={load_next}
+            load_previous={load_previous}
+          />
         </TabContent>
       </div>
     </div>

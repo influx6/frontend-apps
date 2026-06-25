@@ -4,3 +4,10 @@ export default interface TodoData {
   completed: boolean;
   created: Date;
 }
+
+export interface TodoResult {
+  items: TodoData[];
+  batchSize: number;
+  nextCursor: number | null;
+  prevCursor: number | null;
+}

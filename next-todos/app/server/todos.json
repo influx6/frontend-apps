@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "4fb9fc1e-88da-4ea0-84f5-5b7dba8a6da7",
+    "detail": "Setup load balancer config with full documentation",
+    "completed": true,
+    "created": "2026-06-23T15:50:02.542Z"
+  },
+  {
+    "id": "52b967cb-9736-4705-b994-3ae032f9b2b2",
+    "detail": "Design authentication flow and write unit tests",
+    "completed": false,
+    "created": "2026-06-22T15:50:02.542Z"
+  },
+  {
+    "id": "04bfe7bb-8b8f-4c64-86be-6f9640661b6e",
+    "detail": "Automate GraphQL endpoint using React Server Components",
+    "completed": true,
+    "created": "2026-06-19T15:50:02.542Z"
+  },
+  {
+    "id": "06bc121e-634c-428a-ad27-ce25aad251dd",
+    "detail": "Build logging system with performance monitoring",
+    "completed": false,
+    "created": "2026-06-18T15:50:02.542Z"
+  },
+  {
+    "id": "0b0b1c64-c5bf-427c-96c2-057945f05027",
+    "detail": "Debug angularjs app with TypeScript and Tailwind CSS",
+    "completed": true,
+    "created": "2026-06-18T15:50:02.542Z"
+  },
+  {
+    "id": "db6a0cb6-a7b2-44c5-8525-de75929b478f",
+    "detail": "Implement kubernetes cluster before the sprint review",
+    "completed": false,
+    "created": "2026-06-18T15:50:02.542Z"
+  },
+  {
+    "id": "da5f2501-741e-4de7-8315-5ad55911de1f",
+    "detail": "Integrate notification service with performance monitoring",
+    "completed": false,
+    "created": "2026-06-18T15:50:02.542Z"
+  },
+  {
+    "id": "a83b5eca-cc8a-443a-966c-a80b964eeca2",
+    "detail": "Automate admin panel before the sprint review",
+    "completed": false,
+    "created": "2026-06-18T15:50:02.542Z"
+  },
+  {
+    "id": "f516c55b-beff-4c10-a008-a2d78b0e3c0f",
+    "detail": "Setup database schema with dark mode support",
+    "completed": true,
+    "created": "2026-06-18T15:50:02.542Z"
+  },
+  {
+    "id": "812e7b66-80e1-4939-9383-111fcf23278c",
+    "detail": "Document notification service and add proper logging",
+    "completed": false,
+    "created": "2026-06-17T15:50:02.542Z"
+  },
+  {
+    "id": "7ed40e0d-72d1-47db-bf0d-f52584ea5d33",
+    "detail": "Document database schema using the new design system",
+    "completed": false,
+    "created": "2026-06-17T15:50:02.542Z"
+  },
+  {
+    "id": "17cb4dbb-63fe-4ab3-87f9-495375d5f318",
+    "detail": "Setup unit tests for the production environment",
+    "completed": false,
+    "created": "2026-06-17T15:50:02.542Z"
+  },
+  {
+    "id": "51fb2e9b-790b-47cf-b7a7-1cf48465d18e",
+    "detail": "Document database schema and add integration tests",
+    "completed": false,
+    "created": "2026-06-17T15:50:02.542Z"
+  },
+  {
+    "id": "31965431-c232-43cd-a0ec-c200c2947089",
+    "detail": "Integrate microservice using React Server Components",
+    "completed": true,
+    "created": "2026-06-17T15:50:02.542Z"
+  },
+  {
+    "id": "23476bc5-d50a-421f-a035-4ef32a38b1d1",
+    "detail": "Optimize unit tests with dark mode support",
+    "completed": false,
+    "created": "2026-06-17T15:50:02.542Z"
+  },
+  {
+    "id": "f6b4dfce-658e-4669-b953-56cbb24925f4",
+    "detail": "Deploy microservice across all browsers",
+    "completed": false,
+    "created": "2026-06-16T15:50:02.542Z"
+  },
+  {
+    "id": "a76a4c55-4e94-4b71-933b-a505d6e44376",
+    "detail": "Refactor analytics dashboard with optimistic updates",
+    "completed": false,
+    "created": "2026-06-16T15:50:02.542Z"
+  },
+  {
+    "id": "a29f1433-e8b5-4315-a14a-56d1f8ada799",
+    "detail": "Implement admin panel using the existing API",
+    "completed": false,
+    "created": "2026-06-16T15:50:02.542Z"
+  },
+  {
+    "id": "916bb0d0-3a5d-49ab-a6d0-82c91c8297e6",
+    "detail": "Build authentication flow with proper error handling",
+    "completed": false,
+    "created": "2026-06-15T15:50:02.542Z"
+  },
+  {
+    "id": "f81e79cf-3d79-4d67-bb3a-c461036cfde0",
+    "detail": "Deploy mobile app with optimistic updates",
+    "completed": true,
+    "created": "2026-06-15T15:50:02.542Z"
+  },
+  {
+    "id": "74d7eabb-8816-47f5-8f55-5086ce1c7252",
+    "detail": "Implement admin panel with dark mode support",
+    "completed": false,
+    "created": "2026-06-15T15:50:02.542Z"
+  },
+  {
+    "id": "f9cbe9b0-f6eb-4123-a68d-66d097326c9e",
+    "detail": "Test CI/CD pipeline and add integration tests",
+    "completed": false,
+    "created": "2026-06-14T15:50:02.542Z"
+  },
+  {
+    "id": "18b53207-9128-4f84-8351-7701d752443b",
+    "detail": "Build search functionality with accessibility support",
+    "completed": false,
+    "created": "2026-06-13T15:50:02.542Z"
+  },
+  {
+    "id": "fffdbf3b-2612-4c6c-97c7-26bd03c630e9",
+    "detail": "Build user dashboard with proper error handling",
+    "completed": false,
+    "created": "2026-06-13T15:50:02.542Z"
+  },
+  {
+    "id": "a1db2127-b5bd-4739-a23a-6695dcfba777",
+    "detail": "Test REST API with real-time sync",
+    "completed": false,
+    "created": "2026-06-13T15:50:02.542Z"
+  },
+  {
+    "id": "509471e9-798e-41b3-9f0f-f646962c88b3",
+    "detail": "Deploy authentication flow and write unit tests",
+    "completed": false,
+    "created": "2026-06-13T15:50:02.542Z"
+  },
+  {
+    "id": "f5aac8e6-62db-4ed1-9b41-6453f8b522bb",
+    "detail": "Optimize user dashboard before the sprint review",
+    "completed": false,
+    "created": "2026-06-13T15:50:02.542Z"
+  },
+  {
+    "id": "d70252bf-424e-4330-9f6c-4caaf59165e4",
+    "detail": "Refactor frontend project with dark mode support",
+    "completed": false,
+    "created": "2026-06-13T15:50:02.542Z"
+  },
+  {
+    "id": "66c0a90d-d70c-49fd-ac22-255a1220bc35",
+    "detail": "Document REST API for the production environment",
+    "completed": false,
+    "created": "2026-06-13T15:50:02.542Z"
+  },
+  {
+    "id": "f0d3a00e-ef56-48f8-9a69-6b7a280c2dd9",
+    "detail": "Build user dashboard with optimistic updates",
+    "completed": true,
+    "created": "2026-06-12T15:50:02.542Z"
+  },
+  {
+    "id": "e3efb5da-2a0f-4586-8cca-c81ba561ef01",
+    "detail": "Implement notification service before the sprint review",
+    "completed": true,
+    "created": "2026-06-12T15:50:02.542Z"
+  },
+  {
+    "id": "51522de6-a103-4433-96c9-e5be4aebbc8b",
+    "detail": "Build landing page with full documentation",
+    "completed": false,
+    "created": "2026-06-12T15:50:02.542Z"
+  },
+  {
+    "id": "a7db44d6-6381-4ce7-905f-5e20805967f3",
+    "detail": "Review angularjs app and write unit tests",
+    "completed": false,
+    "created": "2026-06-12T15:50:02.542Z"
+  },
+  {
+    "id": "32550de5-0f8d-4c06-b7e1-143cbfe5511d",
+    "detail": "Automate load balancer config with proper error handling",
+    "completed": true,
+    "created": "2026-06-12T15:50:02.542Z"
+  },
+  {
+    "id": "b7def207-66ee-4842-8e36-2dd56c18b91b",
+    "detail": "Document REST API across all browsers",
+    "completed": false,
+    "created": "2026-06-12T15:50:02.542Z"
+  },
+  {
+    "id": "71c4c892-826c-42d8-90b2-70ebc02e41e3",
+    "detail": "Create file upload system and add proper logging",
+    "completed": false,
+    "created": "2026-06-11T15:50:02.542Z"
+  },
+  {
+    "id": "c89b2328-1fbb-44e1-b621-9c004e88d448",
+    "detail": "Integrate GraphQL endpoint with accessibility support",
+    "completed": false,
+    "created": "2026-06-11T15:50:02.542Z"
+  },
+  {
+    "id": "77f15138-a101-40c8-bd71-b425bfa7c429",
+    "detail": "Implement cache layer using the new design system",
+    "completed": true,
+    "created": "2026-06-11T15:50:02.542Z"
+  },
+  {
+    "id": "f993d422-2e90-4f35-8fa6-91a92c60b558",
+    "detail": "Refactor user dashboard for mobile responsiveness",
+    "completed": true,
+    "created": "2026-06-11T15:50:02.542Z"
+  },
+  {
+    "id": "695ce83b-a202-4343-9d36-cdd6d7fa145c",
+    "detail": "Migrate angularjs app before the sprint review",
+    "completed": false,
+    "created": "2026-06-10T15:50:02.542Z"
+  },
+  {
+    "id": "8825cc17-f90e-4a23-b661-59d1ec05e945",
+    "detail": "Deploy websocket server using React Server Components",
+    "completed": false,
+    "created": "2026-06-10T15:50:02.542Z"
+  },
+  {
+    "id": "71168377-0c19-4f17-afde-cefc6f5c476a",
+    "detail": "Automate analytics dashboard with dark mode support",
+    "completed": true,
+    "created": "2026-06-10T15:50:02.542Z"
+  },
+  {
+    "id": "4b0dfb8d-23e4-4c2f-b4b9-57a55c1f2aff",
+    "detail": "Design kubernetes cluster using React Server Components",
+    "completed": false,
+    "created": "2026-06-09T15:50:02.542Z"
+  },
+  {
+    "id": "6774cdaf-3057-4fad-aecf-bfeaae43fb47",
+    "detail": "Refactor svelte app before the sprint review",
+    "completed": false,
+    "created": "2026-06-09T15:50:02.542Z"
+  },
+  {
+    "id": "f955430e-c7a2-4f16-b6bd-b63e3253c81d",
+    "detail": "Design cache layer with proper error handling",
+    "completed": false,
+    "created": "2026-06-09T15:50:02.542Z"
+  },
+  {
+    "id": "9bce7577-35ae-45c6-970c-33d84dd5bcdc",
+    "detail": "Setup microservice with optimistic updates",
+    "completed": false,
+    "created": "2026-06-09T15:50:02.542Z"
+  },
+  {
+    "id": "23369f16-bd93-4cde-8c41-a403e4231280",
+    "detail": "Integrate GraphQL endpoint with accessibility support",
+    "completed": false,
+    "created": "2026-06-08T15:50:02.542Z"
+  },
+  {
+    "id": "aa0625d8-aa8c-4ea9-8ed3-66b8df3e89c0",
+    "detail": "Refactor database schema and add proper logging",
+    "completed": false,
+    "created": "2026-06-08T15:50:02.542Z"
+  },
+  {
+    "id": "5ae1fb0e-58cc-4c1f-ab1f-c43c22b611be",
+    "detail": "Migrate payment system with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2026-06-08T15:50:02.542Z"
+  },
+  {
+    "id": "b7b0a8e5-17ef-43db-bd4d-1e0ecd073a5d",
+    "detail": "Debug payment system with dark mode support",
+    "completed": false,
+    "created": "2026-06-08T15:50:02.542Z"
+  },
+  {
+    "id": "7563f9db-f841-4d3f-937b-b4559825277d",
+    "detail": "Review admin panel with accessibility support",
+    "completed": false,
+    "created": "2026-06-08T15:50:02.542Z"
+  },
+  {
+    "id": "bd06145d-040e-4766-9d4f-1d0de36b8551",
+    "detail": "Review authentication flow before the sprint review",
+    "completed": false,
+    "created": "2026-06-07T15:50:02.542Z"
+  },
+  {
+    "id": "d098953a-bc28-43dc-b899-b0aebd66da21",
+    "detail": "Integrate angularjs app and add proper logging",
+    "completed": false,
+    "created": "2026-06-06T15:50:02.542Z"
+  },
+  {
+    "id": "e0e08be4-ec98-41d1-95f4-391a7b060621",
+    "detail": "Optimize user dashboard with real-time sync",
+    "completed": false,
+    "created": "2026-06-05T15:50:02.542Z"
+  },
+  {
+    "id": "8c83c15c-1ea3-442c-b2eb-babbdfe58378",
+    "detail": "Integrate docker container using React Server Components",
+    "completed": false,
+    "created": "2026-06-05T15:50:02.542Z"
+  },
+  {
+    "id": "82bf128f-d6fd-4a17-b871-2b6861443895",
+    "detail": "Migrate logging system with optimistic updates",
+    "completed": false,
+    "created": "2026-06-05T15:50:02.542Z"
+  },
+  {
+    "id": "e883f47b-e1ee-4f1d-8ceb-b5acc89e586e",
+    "detail": "Review logging system for the beta release",
+    "completed": false,
+    "created": "2026-06-05T15:50:02.542Z"
+  },
+  {
+    "id": "483384f7-bfcf-4d49-82da-a97e733bf25b",
+    "detail": "Build svelte app for the production environment",
+    "completed": false,
+    "created": "2026-06-05T15:50:02.542Z"
+  },
+  {
+    "id": "64d81926-ce56-455d-83c2-6b0f62a6caa7",
+    "detail": "Integrate admin panel across all browsers",
+    "completed": false,
+    "created": "2026-06-05T15:50:02.542Z"
+  },
+  {
+    "id": "b4cf9b08-0b07-422b-b83c-7c5ecf0536f0",
+    "detail": "Review load balancer config with performance monitoring",
+    "completed": false,
+    "created": "2026-06-04T15:50:02.542Z"
+  },
+  {
+    "id": "af5f8019-2cdd-4fd0-84c8-5d5c60a1faa1",
+    "detail": "Migrate GraphQL endpoint using the existing API",
+    "completed": false,
+    "created": "2026-06-03T15:50:02.542Z"
+  },
+  {
+    "id": "54e2d36e-65e9-4a5a-a68c-d4772547f637",
+    "detail": "Document landing page and add proper logging",
+    "completed": true,
+    "created": "2026-06-02T15:50:02.542Z"
+  },
+  {
+    "id": "47ab516c-a5f2-4f8b-b59b-feb10ae273d3",
+    "detail": "Optimize microservice using React Server Components",
+    "completed": false,
+    "created": "2026-06-02T15:50:02.542Z"
+  },
+  {
+    "id": "70efa210-c105-4497-8b13-5bfc1d188656",
+    "detail": "Build angularjs app for the beta release",
+    "completed": false,
+    "created": "2026-06-01T15:50:02.542Z"
+  },
+  {
+    "id": "24ae381d-0a4b-43d2-b318-aceb18aa8940",
+    "detail": "Optimize database schema before the sprint review",
+    "completed": true,
+    "created": "2026-06-01T15:50:02.542Z"
+  },
+  {
+    "id": "4fce770e-dedd-4cdb-bd4c-a61c3db1c7f9",
+    "detail": "Debug admin panel before the sprint review",
+    "completed": false,
+    "created": "2026-05-31T15:50:02.542Z"
+  },
+  {
+    "id": "752a29fa-b97b-4e8f-848f-ee8ab8c3e37e",
+    "detail": "Design REST API with performance monitoring",
+    "completed": false,
+    "created": "2026-05-31T15:50:02.542Z"
+  },
+  {
+    "id": "f0c01774-5991-42f1-8137-1278af4d9517",
+    "detail": "Setup user dashboard with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2026-05-31T15:50:02.542Z"
+  },
+  {
+    "id": "b2a25ed7-cde9-42d7-8b59-484270a56ccf",
+    "detail": "Build error tracking and write unit tests",
+    "completed": false,
+    "created": "2026-05-31T15:50:02.542Z"
+  },
+  {
+    "id": "3b62434c-5cbe-4eaf-ba51-bfc935807d37",
+    "detail": "Test CI/CD pipeline using React Server Components",
+    "completed": false,
+    "created": "2026-05-30T15:50:02.542Z"
+  },
+  {
+    "id": "d768af49-f15b-4643-a17d-90add3e81fd9",
+    "detail": "Migrate search functionality with real-time sync",
+    "completed": false,
+    "created": "2026-05-30T15:50:02.542Z"
+  },
+  {
+    "id": "6f4ebc86-d9c0-48be-a6df-38d3d21fc6b9",
+    "detail": "Implement admin panel with proper error handling",
+    "completed": true,
+    "created": "2026-05-30T15:50:02.542Z"
+  },
+  {
+    "id": "6b134de5-d366-48a4-ae57-211f4ebe0ba2",
+    "detail": "Test cache layer using React Server Components",
+    "completed": true,
+    "created": "2026-05-30T15:50:02.542Z"
+  },
+  {
+    "id": "03e66514-e53c-4872-bef2-c47af32c95ae",
+    "detail": "Optimize user dashboard and add proper logging",
+    "completed": true,
+    "created": "2026-05-29T15:50:02.542Z"
+  },
+  {
+    "id": "1b4a2c90-c9f5-40ac-9130-4de0b83714e4",
+    "detail": "Optimize landing page with proper error handling",
+    "completed": false,
+    "created": "2026-05-29T15:50:02.542Z"
+  },
+  {
+    "id": "08e9429b-f818-4deb-84ac-4ccd6a8609a3",
+    "detail": "Refactor authentication flow with accessibility support",
+    "completed": true,
+    "created": "2026-05-29T15:50:02.542Z"
+  },
+  {
+    "id": "5213facc-7d13-4b9f-bef8-cae12a656bc1",
+    "detail": "Design email template and add proper logging",
+    "completed": false,
+    "created": "2026-05-28T15:50:02.542Z"
+  },
+  {
+    "id": "ac320778-75a0-4625-9343-50a61126ee15",
+    "detail": "Implement file upload system and add proper logging",
+    "completed": false,
+    "created": "2026-05-28T15:50:02.542Z"
+  },
+  {
+    "id": "ac3482c5-f453-49f1-b3c0-d9744f44be0e",
+    "detail": "Build svelte app with optimistic updates",
+    "completed": false,
+    "created": "2026-05-27T15:50:02.542Z"
+  },
+  {
+    "id": "a93e2a41-117e-4066-89ec-b944466e2ab4",
+    "detail": "Test search functionality for the beta release",
+    "completed": false,
+    "created": "2026-05-27T15:50:02.542Z"
+  },
+  {
+    "id": "9ebea736-9db8-4b1b-a6cd-c1fccaadc4ca",
+    "detail": "Deploy GraphQL endpoint and write unit tests",
+    "completed": false,
+    "created": "2026-05-26T15:50:02.542Z"
+  },
+  {
+    "id": "6cd21f67-1a95-43c8-a1c8-d9d56c936358",
+    "detail": "Debug database schema and write unit tests",
+    "completed": true,
+    "created": "2026-05-26T15:50:02.542Z"
+  },
+  {
+    "id": "981855e8-4603-4df7-b6b4-b997bc62f210",
+    "detail": "Deploy search functionality for mobile responsiveness",
+    "completed": true,
+    "created": "2026-05-26T15:50:02.542Z"
+  },
+  {
+    "id": "c513e45a-207e-4e10-949d-629f71fc3c39",
+    "detail": "Review authentication flow across all browsers",
+    "completed": false,
+    "created": "2026-05-25T15:50:02.542Z"
+  },
+  {
+    "id": "3d672506-a24b-49a7-99b7-3a7e77b64636",
+    "detail": "Document authentication flow using the new design system",
+    "completed": true,
+    "created": "2026-05-25T15:50:02.542Z"
+  },
+  {
+    "id": "d2b3ff76-23ba-407b-a991-50a89b441f53",
+    "detail": "Document notification service using the new design system",
+    "completed": false,
+    "created": "2026-05-25T15:50:02.542Z"
+  },
+  {
+    "id": "eba8ea30-fda5-45d2-95b6-3dd6fb44b56c",
+    "detail": "Debug nextjs app with proper error handling",
+    "completed": true,
+    "created": "2026-05-25T15:50:02.542Z"
+  },
+  {
+    "id": "90cd224b-9608-4bcf-9060-e9e33bb5163e",
+    "detail": "Integrate payment system with full documentation",
+    "completed": false,
+    "created": "2026-05-25T15:50:02.542Z"
+  },
+  {
+    "id": "d5247049-13d5-40d0-abc7-fa2163a1a682",
+    "detail": "Setup websocket server using the existing API",
+    "completed": false,
+    "created": "2026-05-25T15:50:02.542Z"
+  },
+  {
+    "id": "79b19ca2-62aa-4ecf-a105-015647707818",
+    "detail": "Implement nextjs app with performance monitoring",
+    "completed": true,
+    "created": "2026-05-25T15:50:02.542Z"
+  },
+  {
+    "id": "1274f21d-533b-4b6a-a95b-d3c70a5fad1e",
+    "detail": "Automate microservice with optimistic updates",
+    "completed": false,
+    "created": "2026-05-24T15:50:02.542Z"
+  },
+  {
+    "id": "4dd65924-c705-49c8-a83a-c057e185487b",
+    "detail": "Optimize frontend project using the existing API",
+    "completed": false,
+    "created": "2026-05-24T15:50:02.542Z"
+  },
+  {
+    "id": "7ded11a7-a644-41ed-8d8a-3b92434bf6bd",
+    "detail": "Create error tracking using the existing API",
+    "completed": false,
+    "created": "2026-05-24T15:50:02.542Z"
+  },
+  {
+    "id": "f8583aec-2946-40b8-8bba-0077b1882756",
+    "detail": "Debug cache layer with performance monitoring",
+    "completed": false,
+    "created": "2026-05-23T15:50:02.542Z"
+  },
+  {
+    "id": "48d55f7c-0383-4b2f-8dbf-3b1edb38ab88",
+    "detail": "Automate microservice for the production environment",
+    "completed": false,
+    "created": "2026-05-23T15:50:02.542Z"
+  },
+  {
+    "id": "b82bac23-1895-4d45-b1cd-6a0c5ebd06af",
+    "detail": "Debug search functionality with TypeScript and Tailwind CSS",
+    "completed": true,
+    "created": "2026-05-23T15:50:02.542Z"
+  },
+  {
+    "id": "92d0102f-4a32-4f2b-a52b-300cf47f5d8c",
+    "detail": "Implement angularjs app and write unit tests",
+    "completed": true,
+    "created": "2026-05-23T15:50:02.542Z"
+  },
+  {
+    "id": "c7873040-8440-4734-9197-ccd57760eba3",
+    "detail": "Optimize CI/CD pipeline with full documentation",
+    "completed": false,
+    "created": "2026-05-23T15:50:02.542Z"
+  },
+  {
+    "id": "82d4c887-e03f-4b8a-a1d8-879acde14dd1",
+    "detail": "Create websocket server and write unit tests",
+    "completed": false,
+    "created": "2026-05-23T15:50:02.542Z"
+  },
+  {
+    "id": "34af5793-2e1d-4f59-b4a0-c490cd2e9969",
+    "detail": "Test payment system and add proper logging",
+    "completed": false,
+    "created": "2026-05-22T15:50:02.542Z"
+  },
+  {
+    "id": "0e5d3309-dad1-4f00-8996-9ae0c964d359",
+    "detail": "Review payment system and add integration tests",
+    "completed": false,
+    "created": "2026-05-22T15:50:02.542Z"
+  },
+  {
+    "id": "cf6cf03d-8eb3-4920-9ccc-3e7d351c5392",
+    "detail": "Review integration tests with performance monitoring",
+    "completed": true,
+    "created": "2026-05-22T15:50:02.542Z"
+  },
+  {
+    "id": "be018ced-42a0-4c6c-9a8f-8141a28b6e10",
+    "detail": "Design unit tests across all browsers",
+    "completed": false,
+    "created": "2026-05-21T15:50:02.542Z"
+  },
+  {
+    "id": "aaea06af-7b2c-4126-8674-5c5f438eee96",
+    "detail": "Document microservice using the new design system",
+    "completed": false,
+    "created": "2026-05-21T15:50:02.542Z"
+  },
+  {
+    "id": "c8aaec6b-2444-4aa4-9f1d-f540be5d21f6",
+    "detail": "Review notification service using the existing API",
+    "completed": false,
+    "created": "2026-05-21T15:50:02.542Z"
+  },
+  {
+    "id": "88e08190-45eb-4276-b67b-8f6726edca0d",
+    "detail": "Build user dashboard with proper error handling",
+    "completed": true,
+    "created": "2026-05-20T15:50:02.542Z"
+  },
+  {
+    "id": "f265e90c-ff48-4d07-85f5-fd71329d1642",
+    "detail": "Debug integration tests and add integration tests",
+    "completed": true,
+    "created": "2026-05-20T15:50:02.542Z"
+  },
+  {
+    "id": "760f52a9-1f60-4f47-aeca-e3eb2a28b4b0",
+    "detail": "Automate frontend project using the new design system",
+    "completed": false,
+    "created": "2026-05-19T15:50:02.542Z"
+  },
+  {
+    "id": "0896e65d-2802-4fbe-88c4-8e5a3c261f40",
+    "detail": "Migrate admin panel with real-time sync",
+    "completed": false,
+    "created": "2026-05-18T15:50:02.542Z"
+  },
+  {
+    "id": "94c8d3d1-10b8-48a3-bc41-d9292235f551",
+    "detail": "Review websocket server with performance monitoring",
+    "completed": false,
+    "created": "2026-05-18T15:50:02.542Z"
+  },
+  {
+    "id": "b0b6c592-a3c3-406d-b681-6d734793fa10",
+    "detail": "Deploy authentication flow using React Server Components",
+    "completed": false,
+    "created": "2026-05-18T15:50:02.542Z"
+  },
+  {
+    "id": "3eb8a661-49f3-4ca4-9599-1f5e74572c8e",
+    "detail": "Implement angularjs app and add proper logging",
+    "completed": false,
+    "created": "2026-05-18T15:50:02.542Z"
+  },
+  {
+    "id": "392097ee-5678-4369-9f7e-8f4ece39a9d8",
+    "detail": "Build file upload system for the production environment",
+    "completed": false,
+    "created": "2026-05-17T15:50:02.542Z"
+  },
+  {
+    "id": "079c8642-dca5-4617-a6e7-1377456ce6ca",
+    "detail": "Setup admin panel with dark mode support",
+    "completed": false,
+    "created": "2026-05-17T15:50:02.542Z"
+  },
+  {
+    "id": "0848562f-d5a6-4c39-89e4-08f80ee05b92",
+    "detail": "Build load balancer config with full documentation",
+    "completed": false,
+    "created": "2026-05-17T15:50:02.542Z"
+  },
+  {
+    "id": "dc12baf6-077a-4fe2-873f-425a24a34c39",
+    "detail": "Setup svelte app using the existing API",
+    "completed": false,
+    "created": "2026-05-17T15:50:02.542Z"
+  },
+  {
+    "id": "230c9b14-6fe9-4aec-b11c-2800a4881cfa",
+    "detail": "Build REST API with proper error handling",
+    "completed": true,
+    "created": "2026-05-16T15:50:02.542Z"
+  },
+  {
+    "id": "81a056da-9279-483f-8f35-d78a20ee32e2",
+    "detail": "Test nextjs app with dark mode support",
+    "completed": false,
+    "created": "2026-05-16T15:50:02.542Z"
+  },
+  {
+    "id": "ad404abf-0ab2-4d48-a5d9-65e3200b91a1",
+    "detail": "Optimize svelte app and add proper logging",
+    "completed": false,
+    "created": "2026-05-15T15:50:02.542Z"
+  },
+  {
+    "id": "ee15fb52-36d4-4406-9e7d-46cb2fea61b3",
+    "detail": "Refactor unit tests with real-time sync",
+    "completed": false,
+    "created": "2026-05-14T15:50:02.542Z"
+  },
+  {
+    "id": "034a3084-2432-4322-94c6-273ee9f5844b",
+    "detail": "Optimize REST API using server-side rendering",
+    "completed": false,
+    "created": "2026-05-14T15:50:02.542Z"
+  },
+  {
+    "id": "819550a6-f731-4d1b-995d-c329f4645c21",
+    "detail": "Create CI/CD pipeline with accessibility support",
+    "completed": false,
+    "created": "2026-05-14T15:50:02.542Z"
+  },
+  {
+    "id": "254c48d6-d2d8-4a1c-afb4-03bac4c92d02",
+    "detail": "Integrate mobile app for mobile responsiveness",
+    "completed": false,
+    "created": "2026-05-14T15:50:02.542Z"
+  },
+  {
+    "id": "fd039ade-2632-4f6f-8d6a-8836d6abc414",
+    "detail": "Automate unit tests using server-side rendering",
+    "completed": false,
+    "created": "2026-05-14T15:50:02.542Z"
+  },
+  {
+    "id": "0d3ccde7-dd00-4053-9c8f-80c543688c55",
+    "detail": "Design email template using the new design system",
+    "completed": false,
+    "created": "2026-05-13T15:50:02.542Z"
+  },
+  {
+    "id": "8f6fa525-dbd5-4871-a674-d38c9e949c91",
+    "detail": "Migrate logging system for mobile responsiveness",
+    "completed": false,
+    "created": "2026-05-13T15:50:02.542Z"
+  },
+  {
+    "id": "71b5c7a2-7d34-4fc6-a6c3-bce21df2d163",
+    "detail": "Optimize user dashboard using the new design system",
+    "completed": true,
+    "created": "2026-05-13T15:50:02.542Z"
+  },
+  {
+    "id": "811dab2d-6f47-4a6b-827b-8cb418542248",
+    "detail": "Debug kubernetes cluster with accessibility support",
+    "completed": false,
+    "created": "2026-05-13T15:50:02.542Z"
+  },
+  {
+    "id": "87551eda-12e0-4523-b135-c6940182da8f",
+    "detail": "Refactor landing page with dark mode support",
+    "completed": false,
+    "created": "2026-05-13T15:50:02.542Z"
+  },
+  {
+    "id": "961b6af5-dc9b-46bd-8462-281def54d3be",
+    "detail": "Create user dashboard with real-time sync",
+    "completed": false,
+    "created": "2026-05-13T15:50:02.542Z"
+  },
+  {
+    "id": "695ad058-0b93-450c-8b3f-05b829b9da42",
+    "detail": "Implement database schema with real-time sync",
+    "completed": false,
+    "created": "2026-05-12T15:50:02.542Z"
+  },
+  {
+    "id": "791ab79a-4857-46cf-8e8c-5ad92307fdef",
+    "detail": "Build email template with performance monitoring",
+    "completed": false,
+    "created": "2026-05-12T15:50:02.542Z"
+  },
+  {
+    "id": "a434c015-938e-4a53-981a-fd91f2afd600",
+    "detail": "Setup integration tests with dark mode support",
+    "completed": false,
+    "created": "2026-05-12T15:50:02.542Z"
+  },
+  {
+    "id": "4181c3d6-40cc-46de-9ec6-8921c89b172e",
+    "detail": "Document angularjs app for mobile responsiveness",
+    "completed": false,
+    "created": "2026-05-12T15:50:02.542Z"
+  },
+  {
+    "id": "134e018e-2dec-42c2-abfb-8717ff7baf37",
+    "detail": "Migrate CI/CD pipeline and add proper logging",
+    "completed": true,
+    "created": "2026-05-12T15:50:02.542Z"
+  },
+  {
+    "id": "feb48d8f-0c8f-4329-b568-5504d823497a",
+    "detail": "Deploy svelte app before the sprint review",
+    "completed": false,
+    "created": "2026-05-11T15:50:02.542Z"
+  },
+  {
+    "id": "019146e3-4072-4c0a-9090-dca9640ccc16",
+    "detail": "Design docker container with performance monitoring",
+    "completed": true,
+    "created": "2026-05-11T15:50:02.542Z"
+  },
+  {
+    "id": "6f194fb4-bcb2-4e87-8253-9917f22db8e9",
+    "detail": "Review admin panel with proper error handling",
+    "completed": false,
+    "created": "2026-05-11T15:50:02.542Z"
+  },
+  {
+    "id": "9d9ffc93-9ac8-49eb-b832-ca441419e894",
+    "detail": "Optimize error tracking for the production environment",
+    "completed": false,
+    "created": "2026-05-11T15:50:02.542Z"
+  },
+  {
+    "id": "c0eca173-b9fc-4dbd-8cc2-bb84154de59f",
+    "detail": "Refactor GraphQL endpoint with full documentation",
+    "completed": true,
+    "created": "2026-05-10T15:50:02.542Z"
+  },
+  {
+    "id": "d9b1b62a-f07b-44ae-9f5b-256278db9a16",
+    "detail": "Automate payment system using the existing API",
+    "completed": false,
+    "created": "2026-05-10T15:50:02.542Z"
+  },
+  {
+    "id": "ca3e361c-aad9-4024-9aa1-a47fbacae50c",
+    "detail": "Integrate analytics dashboard using React Server Components",
+    "completed": false,
+    "created": "2026-05-10T15:50:02.542Z"
+  },
+  {
+    "id": "9e81aa54-a871-4a42-b68c-128a908e8ab0",
+    "detail": "Debug integration tests with accessibility support",
+    "completed": false,
+    "created": "2026-05-10T15:50:02.542Z"
+  },
+  {
+    "id": "6a3534c9-ea15-403d-a069-a5ac321958f9",
+    "detail": "Debug kubernetes cluster for the beta release",
+    "completed": false,
+    "created": "2026-05-09T15:50:02.542Z"
+  },
+  {
+    "id": "b7439b0b-ecfd-4c9b-97f5-27925c559e52",
+    "detail": "Debug authentication flow using the existing API",
+    "completed": false,
+    "created": "2026-05-09T15:50:02.542Z"
+  },
+  {
+    "id": "ca365877-9483-42c9-b796-b19d05465d61",
+    "detail": "Integrate angularjs app and add proper logging",
+    "completed": false,
+    "created": "2026-05-09T15:50:02.542Z"
+  },
+  {
+    "id": "60667dc3-6671-4ba7-add2-a7bf9581b6b6",
+    "detail": "Migrate mobile app and add proper logging",
+    "completed": false,
+    "created": "2026-05-08T15:50:02.542Z"
+  },
+  {
+    "id": "61b8d5de-8996-4dd4-af90-15ac0b7d83b5",
+    "detail": "Design cache layer with real-time sync",
+    "completed": true,
+    "created": "2026-05-08T15:50:02.542Z"
+  },
+  {
+    "id": "679de69a-5a35-4e98-ae66-5a4ee72352c0",
+    "detail": "Setup user dashboard for mobile responsiveness",
+    "completed": false,
+    "created": "2026-05-08T15:50:02.542Z"
+  },
+  {
+    "id": "6e27eabf-64b7-4b50-8c4b-6871f6aadccc",
+    "detail": "Review payment system before the sprint review",
+    "completed": true,
+    "created": "2026-05-07T15:50:02.542Z"
+  },
+  {
+    "id": "a3f6b4da-58bc-4ccc-839f-357932b7e411",
+    "detail": "Implement notification service with proper error handling",
+    "completed": false,
+    "created": "2026-05-07T15:50:02.542Z"
+  },
+  {
+    "id": "6d7b59a6-36c8-4f92-b309-c8d271b41ae5",
+    "detail": "Integrate notification service using server-side rendering",
+    "completed": true,
+    "created": "2026-05-07T15:50:02.542Z"
+  },
+  {
+    "id": "9980b11b-e7ab-4091-b37a-0c2b95e9ee67",
+    "detail": "Refactor admin panel with dark mode support",
+    "completed": false,
+    "created": "2026-05-06T15:50:02.542Z"
+  },
+  {
+    "id": "a9652467-21db-44d3-b624-4a9e262d39ab",
+    "detail": "Test payment system for mobile responsiveness",
+    "completed": true,
+    "created": "2026-05-06T15:50:02.542Z"
+  },
+  {
+    "id": "73daac0b-3a6c-433c-9693-2650cf281f7c",
+    "detail": "Integrate load balancer config using the new design system",
+    "completed": false,
+    "created": "2026-05-06T15:50:02.542Z"
+  },
+  {
+    "id": "dd01e995-79a4-4662-a94e-0cd8b298fd9e",
+    "detail": "Design landing page using the existing API",
+    "completed": false,
+    "created": "2026-05-06T15:50:02.542Z"
+  },
+  {
+    "id": "c1079ec4-4436-44d0-bd63-d384795bb40d",
+    "detail": "Integrate user dashboard and write unit tests",
+    "completed": true,
+    "created": "2026-05-06T15:50:02.542Z"
+  },
+  {
+    "id": "90c03235-4122-4aab-840e-0464ae94eab2",
+    "detail": "Implement file upload system with dark mode support",
+    "completed": true,
+    "created": "2026-05-05T15:50:02.542Z"
+  },
+  {
+    "id": "4deae062-f797-4851-9b28-bac001a5e788",
+    "detail": "Debug logging system for the production environment",
+    "completed": false,
+    "created": "2026-05-05T15:50:02.542Z"
+  },
+  {
+    "id": "249be211-7049-449e-90ec-5b92eaaafe58",
+    "detail": "Implement analytics dashboard with performance monitoring",
+    "completed": true,
+    "created": "2026-05-04T15:50:02.542Z"
+  },
+  {
+    "id": "d444f2b6-2bc1-43ce-aac5-8acbb3d40303",
+    "detail": "Debug websocket server with optimistic updates",
+    "completed": false,
+    "created": "2026-05-04T15:50:02.542Z"
+  },
+  {
+    "id": "1e4e23e4-15ff-40bd-a886-4877657008fe",
+    "detail": "Document email template with optimistic updates",
+    "completed": true,
+    "created": "2026-05-03T15:50:02.542Z"
+  },
+  {
+    "id": "048a5246-6d8a-4355-b16c-6c1ae428350e",
+    "detail": "Refactor unit tests with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2026-05-03T15:50:02.542Z"
+  },
+  {
+    "id": "8c85745e-2bcc-4bff-b37a-7f25aa69a0c6",
+    "detail": "Create cache layer with accessibility support",
+    "completed": false,
+    "created": "2026-05-02T15:50:02.542Z"
+  },
+  {
+    "id": "36d48709-4eb4-4696-9a0d-0b65d0e5726b",
+    "detail": "Automate user dashboard and write unit tests",
+    "completed": true,
+    "created": "2026-05-02T15:50:02.542Z"
+  },
+  {
+    "id": "a42e21a0-2ade-4d32-a1d4-fc66aa2ed276",
+    "detail": "Debug REST API and add proper logging",
+    "completed": false,
+    "created": "2026-05-02T15:50:02.542Z"
+  },
+  {
+    "id": "ccffdfdc-9797-4299-a44d-a2460ab9911e",
+    "detail": "Document integration tests across all browsers",
+    "completed": false,
+    "created": "2026-05-01T15:50:02.542Z"
+  },
+  {
+    "id": "3cd56685-ae1a-410b-b601-086b88870d33",
+    "detail": "Refactor REST API using React Server Components",
+    "completed": true,
+    "created": "2026-05-01T15:50:02.542Z"
+  },
+  {
+    "id": "711f2bb7-69ee-4b02-9457-ff438eef4315",
+    "detail": "Test cache layer and add integration tests",
+    "completed": false,
+    "created": "2026-04-30T15:50:02.542Z"
+  },
+  {
+    "id": "1ed49aa8-993d-4b09-a036-e99f7a98bcda",
+    "detail": "Build authentication flow with dark mode support",
+    "completed": false,
+    "created": "2026-04-29T15:50:02.542Z"
+  },
+  {
+    "id": "b0129cc3-08e7-41bf-8564-d9a788e1de3d",
+    "detail": "Migrate analytics dashboard with full documentation",
+    "completed": true,
+    "created": "2026-04-28T15:50:02.542Z"
+  },
+  {
+    "id": "a4ef8f28-3c7c-4da5-a2c8-a7a3511f5e19",
+    "detail": "Create REST API for the beta release",
+    "completed": true,
+    "created": "2026-04-27T15:50:02.542Z"
+  },
+  {
+    "id": "26d2bfe2-82a5-440b-9e6a-29cb385d96f3",
+    "detail": "Implement error tracking with performance monitoring",
+    "completed": true,
+    "created": "2026-04-27T15:50:02.542Z"
+  },
+  {
+    "id": "745a9cbc-1c3a-4f0b-a641-20f86181a25e",
+    "detail": "Debug rate limiter with proper error handling",
+    "completed": false,
+    "created": "2026-04-27T15:50:02.542Z"
+  },
+  {
+    "id": "6bb48715-7391-4bf3-9e6e-f92066cf81a0",
+    "detail": "Integrate microservice and write unit tests",
+    "completed": false,
+    "created": "2026-04-26T15:50:02.542Z"
+  },
+  {
+    "id": "6ef95f4f-5332-4448-bf2d-60637fd6e53f",
+    "detail": "Review angularjs app before the sprint review",
+    "completed": true,
+    "created": "2026-04-25T15:50:02.542Z"
+  },
+  {
+    "id": "217f7e69-03cc-479d-b29c-4e6626bf4a3d",
+    "detail": "Implement file upload system with accessibility support",
+    "completed": false,
+    "created": "2026-04-23T15:50:02.542Z"
+  },
+  {
+    "id": "07b338c5-3d5c-443f-a96c-64da3268add4",
+    "detail": "Migrate user dashboard with optimistic updates",
+    "completed": false,
+    "created": "2026-04-23T15:50:02.542Z"
+  },
+  {
+    "id": "6641504f-0d27-4a93-8f51-f86cbff45858",
+    "detail": "Setup logging system for mobile responsiveness",
+    "completed": true,
+    "created": "2026-04-23T15:50:02.542Z"
+  },
+  {
+    "id": "1997c135-bcd5-4de1-9a58-6394515b6b79",
+    "detail": "Deploy cache layer with optimistic updates",
+    "completed": true,
+    "created": "2026-04-22T15:50:02.542Z"
+  },
+  {
+    "id": "0b9890e1-a1bb-471f-a656-9c9d72972c3e",
+    "detail": "Deploy error tracking with performance monitoring",
+    "completed": true,
+    "created": "2026-04-22T15:50:02.542Z"
+  },
+  {
+    "id": "194b9b9f-5741-4286-a41b-23c56716035a",
+    "detail": "Automate notification service across all browsers",
+    "completed": false,
+    "created": "2026-04-21T15:50:02.542Z"
+  },
+  {
+    "id": "03777074-38c1-4238-ab81-76ea18e3b0ee",
+    "detail": "Review GraphQL endpoint using server-side rendering",
+    "completed": true,
+    "created": "2026-04-21T15:50:02.542Z"
+  },
+  {
+    "id": "4dfbe584-3717-4381-aeb6-8d8495b6354d",
+    "detail": "Refactor integration tests with proper error handling",
+    "completed": true,
+    "created": "2026-04-20T15:50:02.542Z"
+  },
+  {
+    "id": "6f5a35e8-f69a-457d-976a-e8dced808275",
+    "detail": "Build frontend project using the existing API",
+    "completed": false,
+    "created": "2026-04-20T15:50:02.542Z"
+  },
+  {
+    "id": "8b7c6061-3aaa-4c48-bea2-8d6cf21257dd",
+    "detail": "Create GraphQL endpoint for the production environment",
+    "completed": false,
+    "created": "2026-04-19T15:50:02.542Z"
+  },
+  {
+    "id": "fc2453f8-6a4a-4321-a285-9d243df76011",
+    "detail": "Deploy docker container using the existing API",
+    "completed": false,
+    "created": "2026-04-19T15:50:02.542Z"
+  },
+  {
+    "id": "f0cd300b-c952-40f8-9ae7-565a256bf755",
+    "detail": "Automate analytics dashboard with optimistic updates",
+    "completed": false,
+    "created": "2026-04-19T15:50:02.542Z"
+  },
+  {
+    "id": "362a0eff-5536-4ba8-8e73-944b39088e17",
+    "detail": "Integrate nextjs app and add integration tests",
+    "completed": false,
+    "created": "2026-04-18T15:50:02.542Z"
+  },
+  {
+    "id": "954dcc11-f401-4efd-bde8-74f443fc1b0d",
+    "detail": "Implement payment system and write unit tests",
+    "completed": false,
+    "created": "2026-04-18T15:50:02.542Z"
+  },
+  {
+    "id": "8df878b5-423b-41db-824a-1a1d9e4ee5b8",
+    "detail": "Deploy admin panel with accessibility support",
+    "completed": false,
+    "created": "2026-04-18T15:50:02.542Z"
+  },
+  {
+    "id": "56f96f9e-632b-4f19-8b34-9069688e0a34",
+    "detail": "Optimize email template for the production environment",
+    "completed": false,
+    "created": "2026-04-18T15:50:02.542Z"
+  },
+  {
+    "id": "e32b26f6-7878-484a-b6cb-6fd7971cfeff",
+    "detail": "Implement REST API with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2026-04-18T15:50:02.542Z"
+  },
+  {
+    "id": "eaabcb5b-0b98-4ba2-8e55-7d784bc8e065",
+    "detail": "Implement docker container for the production environment",
+    "completed": true,
+    "created": "2026-04-18T15:50:02.542Z"
+  },
+  {
+    "id": "2a0e6b36-47b9-4662-845d-0dfd458dc05e",
+    "detail": "Automate microservice with real-time sync",
+    "completed": false,
+    "created": "2026-04-18T15:50:02.542Z"
+  },
+  {
+    "id": "7ed90cb7-a25a-4031-ad88-51b425c675a2",
+    "detail": "Migrate file upload system with accessibility support",
+    "completed": false,
+    "created": "2026-04-18T15:50:02.542Z"
+  },
+  {
+    "id": "e5bef3f0-2920-4bc9-90a4-c59838110bfb",
+    "detail": "Debug kubernetes cluster with full documentation",
+    "completed": false,
+    "created": "2026-04-17T15:50:02.542Z"
+  },
+  {
+    "id": "d82da2c6-e7d0-4497-9368-672160b4a602",
+    "detail": "Automate nextjs app and add proper logging",
+    "completed": true,
+    "created": "2026-04-17T15:50:02.542Z"
+  },
+  {
+    "id": "b0ca18a4-2745-4eef-9f49-76f70dee2b5a",
+    "detail": "Create email template with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2026-04-16T15:50:02.542Z"
+  },
+  {
+    "id": "44366b2b-8ea0-4fa8-8ab3-ac8e0f2b34c9",
+    "detail": "Integrate nextjs app with performance monitoring",
+    "completed": true,
+    "created": "2026-04-16T15:50:02.542Z"
+  },
+  {
+    "id": "2041fb82-20da-4c5d-b86b-0118be27c1e1",
+    "detail": "Design logging system and write unit tests",
+    "completed": false,
+    "created": "2026-04-16T15:50:02.542Z"
+  },
+  {
+    "id": "195b240b-729f-4078-9a46-a79b6178d510",
+    "detail": "Test notification service using the existing API",
+    "completed": false,
+    "created": "2026-04-16T15:50:02.542Z"
+  },
+  {
+    "id": "505b1bce-9dfa-45f4-94c8-d44128b5aff9",
+    "detail": "Integrate notification service and add proper logging",
+    "completed": true,
+    "created": "2026-04-16T15:50:02.542Z"
+  },
+  {
+    "id": "dafb08d4-1eef-4198-94ce-8318639b8d7e",
+    "detail": "Setup docker container for the beta release",
+    "completed": false,
+    "created": "2026-04-15T15:50:02.542Z"
+  },
+  {
+    "id": "bfc2c6c6-9509-4f4e-b2e3-1bc69b045d4a",
+    "detail": "Automate kubernetes cluster for the production environment",
+    "completed": true,
+    "created": "2026-04-14T15:50:02.542Z"
+  },
+  {
+    "id": "97702cc7-f16b-4ecb-9d5f-ebea3d2e02ea",
+    "detail": "Debug email template for mobile responsiveness",
+    "completed": false,
+    "created": "2026-04-14T15:50:02.542Z"
+  },
+  {
+    "id": "1092ebfd-99e8-4543-bcb2-8655b48657f1",
+    "detail": "Migrate angularjs app and write unit tests",
+    "completed": false,
+    "created": "2026-04-13T15:50:02.542Z"
+  },
+  {
+    "id": "9b08d8a1-705e-4cb0-ba3e-f7c25d142021",
+    "detail": "Build admin panel with proper error handling",
+    "completed": true,
+    "created": "2026-04-13T15:50:02.542Z"
+  },
+  {
+    "id": "c82aec06-f43f-433b-9db2-d3c31150ab13",
+    "detail": "Build logging system with optimistic updates",
+    "completed": true,
+    "created": "2026-04-13T15:50:02.542Z"
+  },
+  {
+    "id": "402b2dcb-0df6-43b0-b774-106f19947ec5",
+    "detail": "Integrate REST API and add integration tests",
+    "completed": true,
+    "created": "2026-04-13T15:50:02.542Z"
+  },
+  {
+    "id": "8939b1dd-6ac7-4bfb-b052-d4cc0f60d682",
+    "detail": "Design error tracking for the beta release",
+    "completed": false,
+    "created": "2026-04-13T15:50:02.542Z"
+  },
+  {
+    "id": "244386a9-0b75-4153-9866-dd8d1c460ae7",
+    "detail": "Review file upload system with accessibility support",
+    "completed": false,
+    "created": "2026-04-12T15:50:02.542Z"
+  },
+  {
+    "id": "7a60637b-eec5-4f06-a65a-e7ec1cb2fa81",
+    "detail": "Migrate database schema with proper error handling",
+    "completed": false,
+    "created": "2026-04-11T15:50:02.542Z"
+  },
+  {
+    "id": "291367d7-3837-4947-9a84-452249589cb8",
+    "detail": "Build rate limiter using server-side rendering",
+    "completed": true,
+    "created": "2026-04-11T15:50:02.542Z"
+  },
+  {
+    "id": "d18efb56-3ca7-4dd0-8fc2-a94300f1ac61",
+    "detail": "Build analytics dashboard with accessibility support",
+    "completed": false,
+    "created": "2026-04-11T15:50:02.542Z"
+  },
+  {
+    "id": "db37d881-691a-40c4-99a7-e2296f96e859",
+    "detail": "Test file upload system using the new design system",
+    "completed": false,
+    "created": "2026-04-10T15:50:02.542Z"
+  },
+  {
+    "id": "86898287-1023-4592-8709-d9a93f2f8abc",
+    "detail": "Integrate user dashboard with proper error handling",
+    "completed": true,
+    "created": "2026-04-10T15:50:02.542Z"
+  },
+  {
+    "id": "417345ab-6bc0-441e-a143-8d5207f2f9f6",
+    "detail": "Migrate nextjs app for the production environment",
+    "completed": false,
+    "created": "2026-04-10T15:50:02.542Z"
+  },
+  {
+    "id": "4d1721e7-4b05-472e-9971-0d4d916180ad",
+    "detail": "Deploy REST API with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2026-04-09T15:50:02.542Z"
+  },
+  {
+    "id": "19f7fab3-0480-4675-af32-3dbfc7c311b2",
+    "detail": "Automate integration tests with proper error handling",
+    "completed": true,
+    "created": "2026-04-09T15:50:02.542Z"
+  },
+  {
+    "id": "75a06120-645e-43ed-b46e-f64192896a64",
+    "detail": "Setup admin panel with dark mode support",
+    "completed": false,
+    "created": "2026-04-09T15:50:02.542Z"
+  },
+  {
+    "id": "26c7638a-7926-4a2b-ae3f-3566dbdae760",
+    "detail": "Optimize integration tests using the new design system",
+    "completed": false,
+    "created": "2026-04-09T15:50:02.542Z"
+  },
+  {
+    "id": "befb899e-646e-4ae6-aed0-e7b97f300308",
+    "detail": "Integrate angularjs app and add proper logging",
+    "completed": false,
+    "created": "2026-04-09T15:50:02.542Z"
+  },
+  {
+    "id": "9b3fe011-5ddb-4894-8690-96cad0d8b387",
+    "detail": "Integrate unit tests with accessibility support",
+    "completed": false,
+    "created": "2026-04-09T15:50:02.542Z"
+  },
+  {
+    "id": "ef07a742-3324-4f55-bffc-ca3b5d8aa62a",
+    "detail": "Debug cache layer for the production environment",
+    "completed": false,
+    "created": "2026-04-09T15:50:02.542Z"
+  },
+  {
+    "id": "d97e620e-60d6-4cc4-8ccb-36575b4636c9",
+    "detail": "Create search functionality with performance monitoring",
+    "completed": false,
+    "created": "2026-04-08T15:50:02.542Z"
+  },
+  {
+    "id": "5a00f23f-b74d-4c93-9503-87c765180804",
+    "detail": "Implement unit tests for mobile responsiveness",
+    "completed": false,
+    "created": "2026-04-07T15:50:02.542Z"
+  },
+  {
+    "id": "40b9fd43-7d27-43a5-86e6-6953d0b909d3",
+    "detail": "Document landing page and add integration tests",
+    "completed": true,
+    "created": "2026-04-06T15:50:02.542Z"
+  },
+  {
+    "id": "967e61e7-2159-45b2-aa03-a6dd57c8bcd9",
+    "detail": "Automate search functionality with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2026-04-06T15:50:02.542Z"
+  },
+  {
+    "id": "8359e0cb-ae9c-468f-9c0f-a6164b008e93",
+    "detail": "Optimize mobile app with proper error handling",
+    "completed": true,
+    "created": "2026-04-06T15:50:02.542Z"
+  },
+  {
+    "id": "73f43f56-921d-4594-b25f-30bf5bda52bb",
+    "detail": "Deploy GraphQL endpoint with real-time sync",
+    "completed": true,
+    "created": "2026-04-06T15:50:02.542Z"
+  },
+  {
+    "id": "d795360e-eee6-4db4-8871-b72e76f07b3b",
+    "detail": "Create frontend project using the existing API",
+    "completed": false,
+    "created": "2026-04-04T15:50:02.542Z"
+  },
+  {
+    "id": "3b07b712-4461-41be-8a97-e0062fc17fd2",
+    "detail": "Test mobile app for the production environment",
+    "completed": false,
+    "created": "2026-04-03T15:50:02.542Z"
+  },
+  {
+    "id": "836f7eec-ab21-4359-b47c-059f00276245",
+    "detail": "Design GraphQL endpoint for mobile responsiveness",
+    "completed": true,
+    "created": "2026-04-03T15:50:02.542Z"
+  },
+  {
+    "id": "d26580c8-7850-49e0-90d9-ed3fd1e14b85",
+    "detail": "Integrate file upload system and add integration tests",
+    "completed": false,
+    "created": "2026-04-02T15:50:02.542Z"
+  },
+  {
+    "id": "67c1394e-47f1-4c08-8747-ab4bd3f25133",
+    "detail": "Optimize search functionality with proper error handling",
+    "completed": false,
+    "created": "2026-04-01T15:50:02.542Z"
+  },
+  {
+    "id": "5c0dde48-daf0-42be-8481-4c8e26ad0c52",
+    "detail": "Implement email template for the production environment",
+    "completed": false,
+    "created": "2026-04-01T15:50:02.542Z"
+  },
+  {
+    "id": "85954d3a-c0b3-4163-866c-3147048ac042",
+    "detail": "Migrate microservice with TypeScript and Tailwind CSS",
+    "completed": true,
+    "created": "2026-04-01T15:50:02.542Z"
+  },
+  {
+    "id": "5975954e-dcec-4889-841f-22f00411737a",
+    "detail": "Automate error tracking and write unit tests",
+    "completed": false,
+    "created": "2026-03-31T15:50:02.542Z"
+  },
+  {
+    "id": "b2098afd-50c0-43eb-b40e-2a12ebc3a353",
+    "detail": "Deploy search functionality with proper error handling",
+    "completed": false,
+    "created": "2026-03-31T15:50:02.542Z"
+  },
+  {
+    "id": "ad6f54cc-e794-421c-af0f-c238273da597",
+    "detail": "Create nextjs app for mobile responsiveness",
+    "completed": true,
+    "created": "2026-03-30T15:50:02.542Z"
+  },
+  {
+    "id": "dd6d3cce-2f93-499c-8503-c4ada7967576",
+    "detail": "Create load balancer config with real-time sync",
+    "completed": false,
+    "created": "2026-03-30T15:50:02.542Z"
+  },
+  {
+    "id": "98c3196f-8135-40ae-88db-19136d6a09db",
+    "detail": "Create file upload system with proper error handling",
+    "completed": false,
+    "created": "2026-03-29T15:50:02.542Z"
+  },
+  {
+    "id": "9218b96a-3610-45d9-89f4-7b291fd3e427",
+    "detail": "Debug CI/CD pipeline with real-time sync",
+    "completed": true,
+    "created": "2026-03-29T15:50:02.542Z"
+  },
+  {
+    "id": "1e6d1dd8-0c2e-480f-a0e9-961c56710542",
+    "detail": "Create user dashboard using the existing API",
+    "completed": true,
+    "created": "2026-03-29T15:50:02.542Z"
+  },
+  {
+    "id": "bcf80f45-e6ef-436b-8c76-72a8f6694521",
+    "detail": "Automate authentication flow and write unit tests",
+    "completed": true,
+    "created": "2026-03-28T15:50:02.542Z"
+  },
+  {
+    "id": "775785d7-5629-462d-ad36-17d7d8fdc508",
+    "detail": "Create microservice using the new design system",
+    "completed": false,
+    "created": "2026-03-28T15:50:02.542Z"
+  },
+  {
+    "id": "cb6cfe1b-f25a-40d4-a00e-8f49f2bb6d82",
+    "detail": "Implement cache layer and add integration tests",
+    "completed": false,
+    "created": "2026-03-28T15:50:02.542Z"
+  },
+  {
+    "id": "57559682-145d-4ccd-a5c9-0d7060bbe147",
+    "detail": "Implement mobile app before the sprint review",
+    "completed": true,
+    "created": "2026-03-27T15:50:02.542Z"
+  },
+  {
+    "id": "1c83c841-4343-4d22-bc24-f5d2bda785b4",
+    "detail": "Optimize rate limiter for the beta release",
+    "completed": false,
+    "created": "2026-03-27T15:50:02.542Z"
+  },
+  {
+    "id": "a7ec63fd-9cbb-4ad0-ad1c-8ff984d280f8",
+    "detail": "Build unit tests using React Server Components",
+    "completed": false,
+    "created": "2026-03-27T15:50:02.542Z"
+  },
+  {
+    "id": "6dd54554-48a5-4a72-a003-41896de6ad05",
+    "detail": "Build search functionality for the beta release",
+    "completed": true,
+    "created": "2026-03-26T15:50:02.542Z"
+  },
+  {
+    "id": "eb77ebfb-66fb-4a0c-a48e-0446dab962c9",
+    "detail": "Migrate angularjs app and add integration tests",
+    "completed": true,
+    "created": "2026-03-26T15:50:02.542Z"
+  },
+  {
+    "id": "40da5c3a-c30d-46ae-9bbb-24185ee347b1",
+    "detail": "Refactor docker container with dark mode support",
+    "completed": false,
+    "created": "2026-03-25T15:50:02.542Z"
+  },
+  {
+    "id": "2f45fc27-5274-4b2f-9bd4-e840ab03572e",
+    "detail": "Test landing page with optimistic updates",
+    "completed": true,
+    "created": "2026-03-25T15:50:02.542Z"
+  },
+  {
+    "id": "d01e24e5-fa8b-4feb-a8b0-5fd818d8429a",
+    "detail": "Automate admin panel using server-side rendering",
+    "completed": false,
+    "created": "2026-03-25T15:50:02.542Z"
+  },
+  {
+    "id": "039d74f0-36eb-494a-8f99-29f2f9ddf0ab",
+    "detail": "Build docker container for the production environment",
+    "completed": false,
+    "created": "2026-03-24T15:50:02.542Z"
+  },
+  {
+    "id": "ae612c99-d939-4cb9-9d3d-8439b278496c",
+    "detail": "Create CI/CD pipeline and write unit tests",
+    "completed": false,
+    "created": "2026-03-24T15:50:02.542Z"
+  },
+  {
+    "id": "74a332ae-7e34-45c6-a8ce-27e941a3a384",
+    "detail": "Optimize search functionality and add integration tests",
+    "completed": false,
+    "created": "2026-03-22T15:50:02.542Z"
+  },
+  {
+    "id": "33b6e860-b132-44e4-8020-680a190b6f8d",
+    "detail": "Create GraphQL endpoint with real-time sync",
+    "completed": true,
+    "created": "2026-03-22T15:50:02.542Z"
+  },
+  {
+    "id": "7a32bafc-89a6-49dd-978b-4a2e1f43623e",
+    "detail": "Optimize GraphQL endpoint with accessibility support",
+    "completed": false,
+    "created": "2026-03-22T15:50:02.542Z"
+  },
+  {
+    "id": "3e8373c4-6f73-4423-b301-da1c5adc3522",
+    "detail": "Document notification service with real-time sync",
+    "completed": false,
+    "created": "2026-03-22T15:50:02.542Z"
+  },
+  {
+    "id": "89071a2c-1ca6-466e-a750-c26ca8962ac7",
+    "detail": "Review svelte app and add integration tests",
+    "completed": false,
+    "created": "2026-03-21T15:50:02.542Z"
+  },
+  {
+    "id": "109f6dc8-aada-4be1-bb16-49fbea9317d3",
+    "detail": "Optimize microservice with real-time sync",
+    "completed": false,
+    "created": "2026-03-21T15:50:02.542Z"
+  },
+  {
+    "id": "a40238b0-07c5-47cd-b1a8-336f9d10ce1b",
+    "detail": "Automate microservice for the production environment",
+    "completed": false,
+    "created": "2026-03-20T15:50:02.542Z"
+  },
+  {
+    "id": "016ec2ca-58a2-453a-9daa-782d4212234f",
+    "detail": "Integrate rate limiter for the production environment",
+    "completed": true,
+    "created": "2026-03-20T15:50:02.542Z"
+  },
+  {
+    "id": "06bf2a13-ed0d-4036-8651-062c25f4fda0",
+    "detail": "Implement CI/CD pipeline with performance monitoring",
+    "completed": false,
+    "created": "2026-03-20T15:50:02.542Z"
+  },
+  {
+    "id": "e5a7b48b-fc4c-4bba-ac29-c9f082dd5448",
+    "detail": "Integrate unit tests using React Server Components",
+    "completed": false,
+    "created": "2026-03-20T15:50:02.542Z"
+  },
+  {
+    "id": "d9586eff-53e2-4514-a6a0-9ed999277dd0",
+    "detail": "Design REST API and add integration tests",
+    "completed": true,
+    "created": "2026-03-19T15:50:02.542Z"
+  },
+  {
+    "id": "5b7e7a43-520b-4774-bee1-b767fe5ed3f8",
+    "detail": "Test landing page with performance monitoring",
+    "completed": false,
+    "created": "2026-03-19T15:50:02.542Z"
+  },
+  {
+    "id": "2ea79416-5741-4077-955e-fcf2e9b21c47",
+    "detail": "Review kubernetes cluster for the beta release",
+    "completed": true,
+    "created": "2026-03-17T15:50:02.542Z"
+  },
+  {
+    "id": "07a17b82-f8e5-4c31-aa37-fdc4adbcb1e6",
+    "detail": "Design REST API with full documentation",
+    "completed": false,
+    "created": "2026-03-17T15:50:02.542Z"
+  },
+  {
+    "id": "d467d030-18c3-4ee6-96d5-dce531186272",
+    "detail": "Implement websocket server with proper error handling",
+    "completed": true,
+    "created": "2026-03-17T15:50:02.542Z"
+  },
+  {
+    "id": "8f2eef0c-f6bf-4095-a135-83ddb6698b47",
+    "detail": "Create notification service before the sprint review",
+    "completed": true,
+    "created": "2026-03-16T15:50:02.542Z"
+  },
+  {
+    "id": "b6523580-8b59-4331-9429-725889e0f5a8",
+    "detail": "Setup error tracking using server-side rendering",
+    "completed": false,
+    "created": "2026-03-16T15:50:02.542Z"
+  },
+  {
+    "id": "9d1d9449-e896-46b6-b836-dde448010c8e",
+    "detail": "Integrate kubernetes cluster before the sprint review",
+    "completed": false,
+    "created": "2026-03-15T15:50:02.542Z"
+  },
+  {
+    "id": "a056baea-30dc-4030-85e5-d69763e46d34",
+    "detail": "Test analytics dashboard and add integration tests",
+    "completed": false,
+    "created": "2026-03-15T15:50:02.542Z"
+  },
+  {
+    "id": "e2f70e12-497a-4b8b-a2ce-32b12a75631a",
+    "detail": "Refactor admin panel and write unit tests",
+    "completed": false,
+    "created": "2026-03-13T15:50:02.542Z"
+  },
+  {
+    "id": "dead2e9a-4db5-4e09-bae0-7faf4f17e8f6",
+    "detail": "Test payment system using the existing API",
+    "completed": true,
+    "created": "2026-03-12T15:50:02.542Z"
+  },
+  {
+    "id": "b0301001-9fc7-4fdd-9e52-b532d8a0bac0",
+    "detail": "Test payment system across all browsers",
+    "completed": false,
+    "created": "2026-03-11T15:50:02.542Z"
+  },
+  {
+    "id": "e47f529c-791a-4e3e-be32-67b906038fa1",
+    "detail": "Deploy svelte app for the beta release",
+    "completed": false,
+    "created": "2026-03-11T15:50:02.542Z"
+  },
+  {
+    "id": "2eeb7ce9-e4bf-454c-ad55-9f1978ef6fa0",
+    "detail": "Setup analytics dashboard with accessibility support",
+    "completed": false,
+    "created": "2026-03-11T15:50:02.542Z"
+  },
+  {
+    "id": "59733876-0403-464a-b70b-435a4db5f40b",
+    "detail": "Debug docker container across all browsers",
+    "completed": false,
+    "created": "2026-03-10T15:50:02.542Z"
+  },
+  {
+    "id": "ffc2c394-7a9f-43e1-ae4c-bb8abebff251",
+    "detail": "Review payment system using the existing API",
+    "completed": true,
+    "created": "2026-03-10T15:50:02.542Z"
+  },
+  {
+    "id": "b263ec9f-c91a-4a43-9be2-7ecf080c17d5",
+    "detail": "Optimize cache layer using the existing API",
+    "completed": false,
+    "created": "2026-03-10T15:50:02.542Z"
+  },
+  {
+    "id": "e9df5f34-d544-4ce8-bae4-0bb4f5c4ad53",
+    "detail": "Build kubernetes cluster using React Server Components",
+    "completed": true,
+    "created": "2026-03-10T15:50:02.542Z"
+  },
+  {
+    "id": "5d3e8dcb-5473-4970-9f6f-083e5173bb10",
+    "detail": "Implement database schema with real-time sync",
+    "completed": false,
+    "created": "2026-03-09T15:50:02.542Z"
+  },
+  {
+    "id": "cfd364b3-afbb-47fd-a9b7-60d16510a0ec",
+    "detail": "Review file upload system for the production environment",
+    "completed": false,
+    "created": "2026-03-09T15:50:02.542Z"
+  },
+  {
+    "id": "05448083-955a-4ba6-8601-d631a0b92c55",
+    "detail": "Automate angularjs app and add proper logging",
+    "completed": true,
+    "created": "2026-03-08T15:50:02.542Z"
+  },
+  {
+    "id": "425becaf-7042-4466-a685-862b787cb346",
+    "detail": "Automate angularjs app using server-side rendering",
+    "completed": false,
+    "created": "2026-03-08T15:50:02.542Z"
+  },
+  {
+    "id": "828d376a-0b20-4418-95d0-61f9d95a962a",
+    "detail": "Implement REST API using React Server Components",
+    "completed": false,
+    "created": "2026-03-08T15:50:02.542Z"
+  },
+  {
+    "id": "e24cf7e7-e2c8-4c43-870c-e832830fc040",
+    "detail": "Optimize REST API before the sprint review",
+    "completed": false,
+    "created": "2026-03-07T15:50:02.542Z"
+  },
+  {
+    "id": "a7016785-177b-48b5-a972-b61148cfcd5e",
+    "detail": "Deploy file upload system with optimistic updates",
+    "completed": true,
+    "created": "2026-03-06T15:50:02.542Z"
+  },
+  {
+    "id": "3e612150-35cc-47d1-92ad-5768b5d2ee5a",
+    "detail": "Debug analytics dashboard before the sprint review",
+    "completed": true,
+    "created": "2026-03-06T15:50:02.542Z"
+  },
+  {
+    "id": "9328b1c6-8b9a-4216-92b4-09d0e6f27e9b",
+    "detail": "Test REST API using React Server Components",
+    "completed": false,
+    "created": "2026-03-06T15:50:02.542Z"
+  },
+  {
+    "id": "5acbd713-41d5-415c-a124-911c42956510",
+    "detail": "Design nextjs app for the beta release",
+    "completed": false,
+    "created": "2026-03-06T15:50:02.542Z"
+  },
+  {
+    "id": "a7b1e4a2-31c6-4c8a-8523-7b346b7cdbb3",
+    "detail": "Automate mobile app using the existing API",
+    "completed": false,
+    "created": "2026-03-06T15:50:02.542Z"
+  },
+  {
+    "id": "cefe73e6-e2bc-416a-b26d-e51420e9781c",
+    "detail": "Test admin panel using server-side rendering",
+    "completed": false,
+    "created": "2026-03-06T15:50:02.542Z"
+  },
+  {
+    "id": "12075c43-a817-4a39-9805-bf0ba01e0190",
+    "detail": "Optimize integration tests with optimistic updates",
+    "completed": false,
+    "created": "2026-03-06T15:50:02.542Z"
+  },
+  {
+    "id": "3b70e1bf-53a5-4b77-8313-2245086e8a0a",
+    "detail": "Optimize mobile app using the new design system",
+    "completed": false,
+    "created": "2026-03-06T15:50:02.542Z"
+  },
+  {
+    "id": "ee61ac6b-bc07-4eec-bfd1-9c8d48125a15",
+    "detail": "Automate kubernetes cluster using the existing API",
+    "completed": false,
+    "created": "2026-03-05T15:50:02.542Z"
+  },
+  {
+    "id": "0171d009-ca1f-4bc4-85dd-b1744d3f4e45",
+    "detail": "Review logging system and write unit tests",
+    "completed": false,
+    "created": "2026-03-05T15:50:02.542Z"
+  },
+  {
+    "id": "4b97a3b6-761c-4696-b3a1-54dd556491a2",
+    "detail": "Deploy frontend project before the sprint review",
+    "completed": false,
+    "created": "2026-03-05T15:50:02.542Z"
+  },
+  {
+    "id": "c036e4f1-ef48-426f-b8de-7cfe5b44dedf",
+    "detail": "Implement unit tests with accessibility support",
+    "completed": false,
+    "created": "2026-03-04T15:50:02.542Z"
+  },
+  {
+    "id": "e9d0c5b4-70f9-4d28-b996-2f68aa0adabd",
+    "detail": "Implement websocket server using the existing API",
+    "completed": false,
+    "created": "2026-03-04T15:50:02.542Z"
+  },
+  {
+    "id": "67138a3c-d962-4783-9150-f5b25c932609",
+    "detail": "Automate payment system with accessibility support",
+    "completed": false,
+    "created": "2026-03-04T15:50:02.542Z"
+  },
+  {
+    "id": "30755e72-3233-4cb5-b0cd-4a1445ea9a08",
+    "detail": "Test rate limiter before the sprint review",
+    "completed": true,
+    "created": "2026-03-04T15:50:02.542Z"
+  },
+  {
+    "id": "c5b2e5c5-f584-44ce-90ce-772d1d39c684",
+    "detail": "Migrate user dashboard using the new design system",
+    "completed": false,
+    "created": "2026-03-03T15:50:02.542Z"
+  },
+  {
+    "id": "dae44e58-a7e0-499e-bf41-6d43275db527",
+    "detail": "Document nextjs app and add integration tests",
+    "completed": true,
+    "created": "2026-03-03T15:50:02.542Z"
+  },
+  {
+    "id": "3dc719ff-5528-41d1-84d5-b8006923f876",
+    "detail": "Refactor error tracking across all browsers",
+    "completed": false,
+    "created": "2026-03-02T15:50:02.542Z"
+  },
+  {
+    "id": "68d8a594-404a-4ab1-8255-d4a4c83b4a75",
+    "detail": "Review angularjs app for the beta release",
+    "completed": true,
+    "created": "2026-03-02T15:50:02.542Z"
+  },
+  {
+    "id": "05477d05-edba-4943-8222-3afa559d3f63",
+    "detail": "Document logging system and write unit tests",
+    "completed": true,
+    "created": "2026-03-02T15:50:02.542Z"
+  },
+  {
+    "id": "25a4b232-775a-494b-a338-6dfe0ad46ad6",
+    "detail": "Document mobile app with full documentation",
+    "completed": false,
+    "created": "2026-03-02T15:50:02.542Z"
+  },
+  {
+    "id": "60a74791-0a30-405a-ae20-1783839022fd",
+    "detail": "Design websocket server with proper error handling",
+    "completed": true,
+    "created": "2026-02-28T15:50:02.542Z"
+  },
+  {
+    "id": "21bf8bc9-d454-4c7d-89dc-6ee38d508159",
+    "detail": "Design logging system across all browsers",
+    "completed": false,
+    "created": "2026-02-28T15:50:02.542Z"
+  },
+  {
+    "id": "6f6a93a2-59c2-426b-aa59-ae57550eddc4",
+    "detail": "Automate cache layer using React Server Components",
+    "completed": false,
+    "created": "2026-02-28T15:50:02.542Z"
+  },
+  {
+    "id": "72d60237-b84e-411d-9581-9ab6e202a792",
+    "detail": "Debug logging system and add integration tests",
+    "completed": false,
+    "created": "2026-02-28T15:50:02.542Z"
+  },
+  {
+    "id": "c9fd77ac-c5af-4d1b-b8a6-0c63924149b1",
+    "detail": "Automate REST API and add proper logging",
+    "completed": false,
+    "created": "2026-02-28T15:50:02.542Z"
+  },
+  {
+    "id": "094f5ced-61ea-41f3-a1c8-1e7465f91b0c",
+    "detail": "Implement admin panel using the existing API",
+    "completed": false,
+    "created": "2026-02-28T15:50:02.542Z"
+  },
+  {
+    "id": "bb735927-be0b-4ea7-83f5-a3cd5c6945d5",
+    "detail": "Design payment system for mobile responsiveness",
+    "completed": false,
+    "created": "2026-02-28T15:50:02.542Z"
+  },
+  {
+    "id": "6c05b8fc-823a-4859-8e05-49ac9426b0f2",
+    "detail": "Review frontend project using React Server Components",
+    "completed": true,
+    "created": "2026-02-26T15:50:02.542Z"
+  },
+  {
+    "id": "d764a70f-41c4-4bf2-b864-1c5bb1156fe1",
+    "detail": "Debug load balancer config with proper error handling",
+    "completed": false,
+    "created": "2026-02-26T15:50:02.542Z"
+  },
+  {
+    "id": "657fd53e-44bb-4649-bbc5-7d574633922b",
+    "detail": "Document GraphQL endpoint and add integration tests",
+    "completed": false,
+    "created": "2026-02-26T15:50:02.542Z"
+  },
+  {
+    "id": "9018054e-6f00-44bd-903a-c94f7c152af6",
+    "detail": "Automate unit tests with performance monitoring",
+    "completed": true,
+    "created": "2026-02-26T15:50:02.542Z"
+  },
+  {
+    "id": "313c9147-e171-4f9d-8041-141da239e8d6",
+    "detail": "Optimize database schema using the existing API",
+    "completed": false,
+    "created": "2026-02-24T15:50:02.542Z"
+  },
+  {
+    "id": "ede8a9c9-d06f-4544-a558-63d34a21285e",
+    "detail": "Deploy angularjs app using React Server Components",
+    "completed": false,
+    "created": "2026-02-24T15:50:02.542Z"
+  },
+  {
+    "id": "492a5bf8-2c21-4150-85ec-174b0340ec3e",
+    "detail": "Test database schema using server-side rendering",
+    "completed": false,
+    "created": "2026-02-23T15:50:02.542Z"
+  },
+  {
+    "id": "a0fd44f4-e406-4089-bd68-e23d6a37b31e",
+    "detail": "Review error tracking with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2026-02-21T15:50:02.542Z"
+  },
+  {
+    "id": "e53f11cc-6c9f-4fbd-873a-61f25f24c436",
+    "detail": "Optimize file upload system and add proper logging",
+    "completed": false,
+    "created": "2026-02-20T15:50:02.542Z"
+  },
+  {
+    "id": "117a9738-04c2-4bdb-b963-8bf6612b16e8",
+    "detail": "Document CI/CD pipeline with real-time sync",
+    "completed": false,
+    "created": "2026-02-20T15:50:02.542Z"
+  },
+  {
+    "id": "bc54f981-b7d2-4a42-879b-e02598b96b43",
+    "detail": "Document admin panel with accessibility support",
+    "completed": true,
+    "created": "2026-02-19T15:50:02.542Z"
+  },
+  {
+    "id": "f03f04c2-4d9c-4c8c-8695-bf921e4c7fcd",
+    "detail": "Create analytics dashboard for mobile responsiveness",
+    "completed": true,
+    "created": "2026-02-19T15:50:02.542Z"
+  },
+  {
+    "id": "4b654c03-b705-45eb-b764-8b7b67114ea3",
+    "detail": "Automate load balancer config for the production environment",
+    "completed": false,
+    "created": "2026-02-17T15:50:02.542Z"
+  },
+  {
+    "id": "796da952-28b9-4c52-9655-a0062e840d06",
+    "detail": "Refactor search functionality with performance monitoring",
+    "completed": false,
+    "created": "2026-02-17T15:50:02.542Z"
+  },
+  {
+    "id": "bfc3ec1a-1a08-4496-ae23-a026af8cf384",
+    "detail": "Optimize authentication flow using the existing API",
+    "completed": false,
+    "created": "2026-02-17T15:50:02.542Z"
+  },
+  {
+    "id": "04f7f464-4ed7-4331-aaad-395ef7ce0c54",
+    "detail": "Refactor notification service using the existing API",
+    "completed": false,
+    "created": "2026-02-17T15:50:02.542Z"
+  },
+  {
+    "id": "18641a6a-4e80-40ef-b1ce-e39cbe566b38",
+    "detail": "Implement integration tests using the new design system",
+    "completed": true,
+    "created": "2026-02-17T15:50:02.542Z"
+  },
+  {
+    "id": "08a98ac0-ccb4-465f-90d7-2de1a99fe0f5",
+    "detail": "Migrate angularjs app using the new design system",
+    "completed": false,
+    "created": "2026-02-17T15:50:02.542Z"
+  },
+  {
+    "id": "b242a4a9-3fc5-440b-b837-26688944b900",
+    "detail": "Design REST API for mobile responsiveness",
+    "completed": false,
+    "created": "2026-02-17T15:50:02.542Z"
+  },
+  {
+    "id": "d607425d-7508-4e54-8c69-b903e85418d0",
+    "detail": "Setup docker container and write unit tests",
+    "completed": false,
+    "created": "2026-02-16T15:50:02.542Z"
+  },
+  {
+    "id": "b3fee9c3-2d8c-41ac-9fe6-cfc62d995f31",
+    "detail": "Implement payment system for the production environment",
+    "completed": false,
+    "created": "2026-02-16T15:50:02.542Z"
+  },
+  {
+    "id": "418e169a-ce32-4761-abb4-5bda48bc6783",
+    "detail": "Review frontend project for the beta release",
+    "completed": false,
+    "created": "2026-02-14T15:50:02.542Z"
+  },
+  {
+    "id": "829ae748-860d-4aad-8fce-79ad2d5f8b04",
+    "detail": "Review authentication flow across all browsers",
+    "completed": true,
+    "created": "2026-02-12T15:50:02.542Z"
+  },
+  {
+    "id": "e256b00d-9f77-4227-a9c7-c3011f23f49a",
+    "detail": "Implement payment system using React Server Components",
+    "completed": false,
+    "created": "2026-02-12T15:50:02.542Z"
+  },
+  {
+    "id": "3055b2f7-f83b-41e0-bbb8-fc1995f7ac79",
+    "detail": "Review logging system with full documentation",
+    "completed": false,
+    "created": "2026-02-11T15:50:02.542Z"
+  },
+  {
+    "id": "fc8b18ae-399b-4394-9934-280b0191f23a",
+    "detail": "Design landing page and add proper logging",
+    "completed": false,
+    "created": "2026-02-11T15:50:02.542Z"
+  },
+  {
+    "id": "6bc8931d-18ae-4244-8c94-49318dd2b11e",
+    "detail": "Deploy notification service with optimistic updates",
+    "completed": true,
+    "created": "2026-02-09T15:50:02.542Z"
+  },
+  {
+    "id": "076ec5d2-12fe-4d99-a21c-801bcda8644d",
+    "detail": "Build database schema across all browsers",
+    "completed": false,
+    "created": "2026-02-09T15:50:02.542Z"
+  },
+  {
+    "id": "e0450b09-4f11-43ce-bb77-f8e3d824d184",
+    "detail": "Integrate CI/CD pipeline using server-side rendering",
+    "completed": true,
+    "created": "2026-02-09T15:50:02.542Z"
+  },
+  {
+    "id": "43019cd5-f962-4553-bc54-1c7bd16d7b88",
+    "detail": "Optimize nextjs app across all browsers",
+    "completed": false,
+    "created": "2026-02-09T15:50:02.542Z"
+  },
+  {
+    "id": "ef9c66c2-5771-411a-95e9-e156ea1f31c0",
+    "detail": "Test mobile app and add proper logging",
+    "completed": false,
+    "created": "2026-02-09T15:50:02.542Z"
+  },
+  {
+    "id": "b12539d7-2b8f-4c02-97a2-524bbce9fe20",
+    "detail": "Build authentication flow with dark mode support",
+    "completed": false,
+    "created": "2026-02-08T15:50:02.542Z"
+  },
+  {
+    "id": "6c5e4f95-80ef-49f5-9b69-89320ce6f15c",
+    "detail": "Implement authentication flow with proper error handling",
+    "completed": false,
+    "created": "2026-02-08T15:50:02.542Z"
+  },
+  {
+    "id": "9217414e-8f46-4606-af11-7f7f1fd02492",
+    "detail": "Setup admin panel with full documentation",
+    "completed": false,
+    "created": "2026-02-08T15:50:02.542Z"
+  },
+  {
+    "id": "f11276ce-95c0-4419-8b99-e4b996d994c5",
+    "detail": "Build load balancer config using server-side rendering",
+    "completed": true,
+    "created": "2026-02-08T15:50:02.542Z"
+  },
+  {
+    "id": "2b094de2-c13b-43af-b965-f5ae5921da02",
+    "detail": "Review admin panel and add integration tests",
+    "completed": false,
+    "created": "2026-02-08T15:50:02.542Z"
+  },
+  {
+    "id": "84a79c66-064f-4b1a-bec5-7a4c607e1b7f",
+    "detail": "Refactor nextjs app using server-side rendering",
+    "completed": false,
+    "created": "2026-02-08T15:50:02.542Z"
+  },
+  {
+    "id": "55fa88fa-f51a-4e6b-87a1-cbf197613ce1",
+    "detail": "Design docker container using the new design system",
+    "completed": false,
+    "created": "2026-02-08T15:50:02.542Z"
+  },
+  {
+    "id": "a160bbc3-d555-46f9-83ff-e652c815bcaa",
+    "detail": "Refactor payment system across all browsers",
+    "completed": true,
+    "created": "2026-02-07T15:50:02.542Z"
+  },
+  {
+    "id": "212b2ea1-a741-4618-8698-2f251caadfe7",
+    "detail": "Debug notification service using React Server Components",
+    "completed": false,
+    "created": "2026-02-07T15:50:02.542Z"
+  },
+  {
+    "id": "120b18df-9cd0-47cd-91dd-c664bb2ff855",
+    "detail": "Review docker container for the beta release",
+    "completed": false,
+    "created": "2026-02-07T15:50:02.542Z"
+  },
+  {
+    "id": "02fc6c1c-05da-4cda-a952-af7dac8b3c16",
+    "detail": "Integrate frontend project for the production environment",
+    "completed": false,
+    "created": "2026-02-06T15:50:02.542Z"
+  },
+  {
+    "id": "7dd578f5-abe1-4550-8116-818f1d371762",
+    "detail": "Integrate authentication flow with full documentation",
+    "completed": true,
+    "created": "2026-02-06T15:50:02.542Z"
+  },
+  {
+    "id": "36d1c66a-9175-4711-a79a-a9a8991070cb",
+    "detail": "Integrate mobile app with accessibility support",
+    "completed": false,
+    "created": "2026-02-06T15:50:02.542Z"
+  },
+  {
+    "id": "ecdd8fdb-cbdf-423c-a607-c6f8c51f9d88",
+    "detail": "Debug angularjs app for the production environment",
+    "completed": true,
+    "created": "2026-02-05T15:50:02.542Z"
+  },
+  {
+    "id": "5a4d40db-b02f-4319-bc28-a9806d923f37",
+    "detail": "Deploy cache layer for the beta release",
+    "completed": false,
+    "created": "2026-02-05T15:50:02.542Z"
+  },
+  {
+    "id": "b27d15c6-7d72-4761-b19d-9da4d907d9fc",
+    "detail": "Setup docker container for mobile responsiveness",
+    "completed": false,
+    "created": "2026-02-05T15:50:02.542Z"
+  },
+  {
+    "id": "5500ff7d-b960-460b-80ac-9d62e04bc33c",
+    "detail": "Deploy microservice with performance monitoring",
+    "completed": true,
+    "created": "2026-02-05T15:50:02.542Z"
+  },
+  {
+    "id": "5fc202c8-0bae-4635-814a-a400822e1ea1",
+    "detail": "Debug database schema and add proper logging",
+    "completed": true,
+    "created": "2026-02-05T15:50:02.542Z"
+  },
+  {
+    "id": "c79d1d19-b1e3-42c3-ac20-f83ab81b64cf",
+    "detail": "Automate REST API with optimistic updates",
+    "completed": true,
+    "created": "2026-02-05T15:50:02.542Z"
+  },
+  {
+    "id": "9a044b43-a087-4d46-b10c-5e339eca6fc2",
+    "detail": "Deploy nextjs app for mobile responsiveness",
+    "completed": true,
+    "created": "2026-02-05T15:50:02.542Z"
+  },
+  {
+    "id": "f4267f45-68f6-4fb5-bef1-3b67992bcd37",
+    "detail": "Setup nextjs app before the sprint review",
+    "completed": false,
+    "created": "2026-02-04T15:50:02.542Z"
+  },
+  {
+    "id": "af02b5c8-6b4a-4b92-93c4-8c04ed778055",
+    "detail": "Setup authentication flow and write unit tests",
+    "completed": false,
+    "created": "2026-02-04T15:50:02.542Z"
+  },
+  {
+    "id": "cc6c909b-a020-4158-9d9f-53c485074b5d",
+    "detail": "Refactor microservice with accessibility support",
+    "completed": false,
+    "created": "2026-02-03T15:50:02.542Z"
+  },
+  {
+    "id": "3b1de94e-3a6c-4227-b0d3-d3188f469d8c",
+    "detail": "Refactor kubernetes cluster and write unit tests",
+    "completed": false,
+    "created": "2026-02-02T15:50:02.542Z"
+  },
+  {
+    "id": "41f65a9f-7f1a-4aba-b77b-2c3b6dc4d0e5",
+    "detail": "Migrate mobile app for the production environment",
+    "completed": false,
+    "created": "2026-02-02T15:50:02.542Z"
+  },
+  {
+    "id": "26a131f1-5153-4300-add2-aee695a2c1b7",
+    "detail": "Review error tracking and add proper logging",
+    "completed": false,
+    "created": "2026-02-01T15:50:02.542Z"
+  },
+  {
+    "id": "1cecc502-368c-48e7-bb62-d90e244a419f",
+    "detail": "Implement authentication flow and add proper logging",
+    "completed": true,
+    "created": "2026-02-01T15:50:02.542Z"
+  },
+  {
+    "id": "ed49d688-77a8-4ca4-a9ec-938b22cf1291",
+    "detail": "Automate kubernetes cluster for the production environment",
+    "completed": false,
+    "created": "2026-02-01T15:50:02.542Z"
+  },
+  {
+    "id": "6ddbb92e-a955-4eda-bbe0-98eea3becd11",
+    "detail": "Test REST API with performance monitoring",
+    "completed": false,
+    "created": "2026-02-01T15:50:02.542Z"
+  },
+  {
+    "id": "cc398b47-43a4-49dc-9727-108ca43547de",
+    "detail": "Test search functionality and add integration tests",
+    "completed": false,
+    "created": "2026-02-01T15:50:02.542Z"
+  },
+  {
+    "id": "1af310eb-7eb5-40f9-a1aa-0bb2b5f8c8fe",
+    "detail": "Create mobile app with dark mode support",
+    "completed": false,
+    "created": "2026-02-01T15:50:02.542Z"
+  },
+  {
+    "id": "edc08b2c-0f31-48d2-b9dd-b781fa81c07e",
+    "detail": "Debug svelte app with proper error handling",
+    "completed": false,
+    "created": "2026-02-01T15:50:02.542Z"
+  },
+  {
+    "id": "e7adc4b6-c4d6-4fe2-8896-3792973fdcd6",
+    "detail": "Integrate cache layer using the new design system",
+    "completed": false,
+    "created": "2026-01-31T15:50:02.542Z"
+  },
+  {
+    "id": "61732fec-d38f-4a12-aaa4-d8ed4bd45712",
+    "detail": "Optimize notification service using the existing API",
+    "completed": true,
+    "created": "2026-01-31T15:50:02.542Z"
+  },
+  {
+    "id": "0684c8d8-1ffe-4b7d-a4e7-b9f11c7637b3",
+    "detail": "Document nextjs app with dark mode support",
+    "completed": false,
+    "created": "2026-01-31T15:50:02.542Z"
+  },
+  {
+    "id": "4cf9a948-1450-427e-ba6f-69ef761d6410",
+    "detail": "Test admin panel and add proper logging",
+    "completed": true,
+    "created": "2026-01-31T15:50:02.542Z"
+  },
+  {
+    "id": "6c7920a2-a4da-40ef-a2b2-7d82430b3fab",
+    "detail": "Design mobile app for the beta release",
+    "completed": true,
+    "created": "2026-01-30T15:50:02.542Z"
+  },
+  {
+    "id": "b655ff09-3c11-45c7-b68b-a07663d05d55",
+    "detail": "Review landing page with optimistic updates",
+    "completed": false,
+    "created": "2026-01-30T15:50:02.542Z"
+  },
+  {
+    "id": "ce82729a-7155-4e23-a123-b44cb8e86030",
+    "detail": "Test authentication flow with real-time sync",
+    "completed": false,
+    "created": "2026-01-30T15:50:02.542Z"
+  },
+  {
+    "id": "e900b38f-bfbc-473c-9df3-322595452025",
+    "detail": "Create unit tests and add integration tests",
+    "completed": false,
+    "created": "2026-01-29T15:50:02.542Z"
+  },
+  {
+    "id": "7b2653fd-36a3-42b2-8052-dcaa4e87ce51",
+    "detail": "Document nextjs app for the production environment",
+    "completed": false,
+    "created": "2026-01-29T15:50:02.542Z"
+  },
+  {
+    "id": "d862d283-b7ab-4785-880a-103d111d2cf4",
+    "detail": "Automate cache layer for the beta release",
+    "completed": false,
+    "created": "2026-01-29T15:50:02.542Z"
+  },
+  {
+    "id": "28d05ef7-6966-4080-a0aa-d1a5b78fb5b9",
+    "detail": "Optimize authentication flow with optimistic updates",
+    "completed": false,
+    "created": "2026-01-29T15:50:02.542Z"
+  },
+  {
+    "id": "b23ebd93-49d8-49e9-8d13-51c2025f127f",
+    "detail": "Automate authentication flow for the beta release",
+    "completed": false,
+    "created": "2026-01-29T15:50:02.542Z"
+  },
+  {
+    "id": "364a516d-a496-4f7a-8572-b4e145186fdc",
+    "detail": "Refactor svelte app and add integration tests",
+    "completed": false,
+    "created": "2026-01-29T15:50:02.542Z"
+  },
+  {
+    "id": "dff30604-1037-41ef-93de-b4702cea31b1",
+    "detail": "Create kubernetes cluster with full documentation",
+    "completed": false,
+    "created": "2026-01-29T15:50:02.542Z"
+  },
+  {
+    "id": "1eb8a81b-63c5-42df-a171-29feb8cbe7d6",
+    "detail": "Document GraphQL endpoint for the production environment",
+    "completed": true,
+    "created": "2026-01-29T15:50:02.542Z"
+  },
+  {
+    "id": "1eac199f-c583-4756-8b5c-c4d0093ef92b",
+    "detail": "Optimize database schema with dark mode support",
+    "completed": false,
+    "created": "2026-01-28T15:50:02.542Z"
+  },
+  {
+    "id": "94620536-dcd8-4b8d-8695-a3ec13366219",
+    "detail": "Implement error tracking with full documentation",
+    "completed": true,
+    "created": "2026-01-28T15:50:02.542Z"
+  },
+  {
+    "id": "cd12078d-b0aa-4e0b-bdfe-943be349c8ec",
+    "detail": "Migrate admin panel with accessibility support",
+    "completed": false,
+    "created": "2026-01-28T15:50:02.542Z"
+  },
+  {
+    "id": "ec8ddd64-5e9d-43f4-96e6-41c0a07ddfe0",
+    "detail": "Integrate docker container using the existing API",
+    "completed": true,
+    "created": "2026-01-27T15:50:02.542Z"
+  },
+  {
+    "id": "cd7a9be6-37f8-45e7-a7c5-704674871cd1",
+    "detail": "Implement docker container with dark mode support",
+    "completed": false,
+    "created": "2026-01-27T15:50:02.542Z"
+  },
+  {
+    "id": "3a358dab-8401-493b-b438-ccf6bdb97584",
+    "detail": "Build rate limiter before the sprint review",
+    "completed": true,
+    "created": "2026-01-27T15:50:02.542Z"
+  },
+  {
+    "id": "3edcdb45-46b5-4991-b826-79cc136f9c7e",
+    "detail": "Create docker container with dark mode support",
+    "completed": false,
+    "created": "2026-01-26T15:50:02.542Z"
+  },
+  {
+    "id": "2d21b75b-3600-46b5-acd2-300610d851ff",
+    "detail": "Automate websocket server for the production environment",
+    "completed": false,
+    "created": "2026-01-26T15:50:02.542Z"
+  },
+  {
+    "id": "31cdb382-f60e-45a5-a6fb-e206cf4f5ad1",
+    "detail": "Deploy error tracking with optimistic updates",
+    "completed": true,
+    "created": "2026-01-25T15:50:02.542Z"
+  },
+  {
+    "id": "4dc8aa36-6cef-427d-9909-13e8385484b8",
+    "detail": "Build search functionality for the production environment",
+    "completed": false,
+    "created": "2026-01-25T15:50:02.542Z"
+  },
+  {
+    "id": "4078e958-0378-48f8-a040-ad63489ed123",
+    "detail": "Setup database schema and write unit tests",
+    "completed": false,
+    "created": "2026-01-25T15:50:02.542Z"
+  },
+  {
+    "id": "9fc3ad16-fa60-4ead-84b1-3067b71f7620",
+    "detail": "Design nextjs app with proper error handling",
+    "completed": false,
+    "created": "2026-01-25T15:50:02.542Z"
+  },
+  {
+    "id": "c363ca8d-5814-4a21-b375-097a5bd9115e",
+    "detail": "Implement docker container with proper error handling",
+    "completed": false,
+    "created": "2026-01-24T15:50:02.542Z"
+  },
+  {
+    "id": "2029ccb5-1694-4f8b-b1c0-b97f4de08c3c",
+    "detail": "Integrate unit tests with optimistic updates",
+    "completed": false,
+    "created": "2026-01-24T15:50:02.542Z"
+  },
+  {
+    "id": "500e7763-824f-45c4-9431-904e7b7752f3",
+    "detail": "Setup REST API using server-side rendering",
+    "completed": false,
+    "created": "2026-01-23T15:50:02.542Z"
+  },
+  {
+    "id": "2929062b-49cf-462c-98da-dfa44ef127de",
+    "detail": "Setup nextjs app with full documentation",
+    "completed": false,
+    "created": "2026-01-23T15:50:02.542Z"
+  },
+  {
+    "id": "355a04b5-0f1d-498d-b580-cbdb6c4925db",
+    "detail": "Review rate limiter with proper error handling",
+    "completed": false,
+    "created": "2026-01-23T15:50:02.542Z"
+  },
+  {
+    "id": "36cff95c-c005-4769-8ebb-ef5db8ed984e",
+    "detail": "Implement GraphQL endpoint before the sprint review",
+    "completed": false,
+    "created": "2026-01-23T15:50:02.542Z"
+  },
+  {
+    "id": "768f1901-ede0-4883-8a70-e91b2c3222a0",
+    "detail": "Setup integration tests and write unit tests",
+    "completed": true,
+    "created": "2026-01-22T15:50:02.542Z"
+  },
+  {
+    "id": "24c2042b-ded2-4055-8448-86f9a7c952e8",
+    "detail": "Test GraphQL endpoint and add proper logging",
+    "completed": true,
+    "created": "2026-01-22T15:50:02.542Z"
+  },
+  {
+    "id": "4eb59fdd-f62e-4376-b273-9746baad4a72",
+    "detail": "Refactor cache layer for mobile responsiveness",
+    "completed": false,
+    "created": "2026-01-22T15:50:02.542Z"
+  },
+  {
+    "id": "dcc0d47e-291d-4145-a5c2-6d3ebda1f4f2",
+    "detail": "Refactor cache layer and write unit tests",
+    "completed": true,
+    "created": "2026-01-22T15:50:02.542Z"
+  },
+  {
+    "id": "cc03c0dd-6509-4e8f-a7a6-4eaf8f50bd88",
+    "detail": "Implement microservice with full documentation",
+    "completed": false,
+    "created": "2026-01-21T15:50:02.542Z"
+  },
+  {
+    "id": "f314b627-59d6-49de-a094-121458dd99f7",
+    "detail": "Design angularjs app with full documentation",
+    "completed": true,
+    "created": "2026-01-21T15:50:02.542Z"
+  },
+  {
+    "id": "630fd34b-5a5f-4764-9873-5b670a7e79c5",
+    "detail": "Migrate unit tests with accessibility support",
+    "completed": true,
+    "created": "2026-01-21T15:50:02.542Z"
+  },
+  {
+    "id": "f57d5105-ae70-4ce5-9530-f6e6dbca0a43",
+    "detail": "Integrate svelte app and write unit tests",
+    "completed": false,
+    "created": "2026-01-20T15:50:02.542Z"
+  },
+  {
+    "id": "c866d2f4-f650-46fb-b5bf-3ef92c25e74b",
+    "detail": "Refactor database schema with TypeScript and Tailwind CSS",
+    "completed": true,
+    "created": "2026-01-20T15:50:02.542Z"
+  },
+  {
+    "id": "45accc65-61d2-4fd1-920b-4220a31a07cc",
+    "detail": "Implement frontend project for the beta release",
+    "completed": true,
+    "created": "2026-01-18T15:50:02.542Z"
+  },
+  {
+    "id": "f50eeec2-2fa0-4f47-8c69-9e5b4f0bc670",
+    "detail": "Create analytics dashboard and add proper logging",
+    "completed": false,
+    "created": "2026-01-18T15:50:02.542Z"
+  },
+  {
+    "id": "cba18ff5-8447-4fb9-be45-dd1b8ebead5c",
+    "detail": "Integrate analytics dashboard with proper error handling",
+    "completed": false,
+    "created": "2026-01-18T15:50:02.542Z"
+  },
+  {
+    "id": "05a43216-42e7-4807-8005-23a0912252bf",
+    "detail": "Integrate nextjs app with TypeScript and Tailwind CSS",
+    "completed": true,
+    "created": "2026-01-17T15:50:02.542Z"
+  },
+  {
+    "id": "950e02e5-0491-450c-91f2-8dbf4b9ef3ed",
+    "detail": "Design unit tests before the sprint review",
+    "completed": true,
+    "created": "2026-01-17T15:50:02.542Z"
+  },
+  {
+    "id": "e8cbc001-9812-4577-812e-bcb68ae6dbb1",
+    "detail": "Create notification service for the beta release",
+    "completed": false,
+    "created": "2026-01-16T15:50:02.542Z"
+  },
+  {
+    "id": "6af0e96b-c32c-4541-90fd-4f357ee25ad8",
+    "detail": "Create cache layer and write unit tests",
+    "completed": true,
+    "created": "2026-01-16T15:50:02.542Z"
+  },
+  {
+    "id": "878e811a-8eb7-414e-8ed0-7a1de919dafe",
+    "detail": "Design frontend project and add integration tests",
+    "completed": false,
+    "created": "2026-01-15T15:50:02.542Z"
+  },
+  {
+    "id": "2b1b5d81-ed8e-4e71-b511-922deed1f6b6",
+    "detail": "Deploy error tracking across all browsers",
+    "completed": false,
+    "created": "2026-01-15T15:50:02.542Z"
+  },
+  {
+    "id": "099b99eb-3ef0-4e3e-8032-35ab9b8b602d",
+    "detail": "Create landing page across all browsers",
+    "completed": true,
+    "created": "2026-01-15T15:50:02.542Z"
+  },
+  {
+    "id": "b335ca44-47fb-405f-9d2a-d5f0382f55f5",
+    "detail": "Design unit tests using the new design system",
+    "completed": true,
+    "created": "2026-01-15T15:50:02.542Z"
+  },
+  {
+    "id": "15f80561-6492-46b4-8278-8400768e118e",
+    "detail": "Debug REST API using React Server Components",
+    "completed": false,
+    "created": "2026-01-14T15:50:02.542Z"
+  },
+  {
+    "id": "df85e3dc-fa69-46c2-9073-58115b902f35",
+    "detail": "Automate GraphQL endpoint and add integration tests",
+    "completed": true,
+    "created": "2026-01-14T15:50:02.542Z"
+  },
+  {
+    "id": "920a1b77-fd2a-4968-97ed-6c68c537ff12",
+    "detail": "Setup notification service using server-side rendering",
+    "completed": false,
+    "created": "2026-01-14T15:50:02.542Z"
+  },
+  {
+    "id": "5561b91e-72d4-4001-858f-51832d39da77",
+    "detail": "Integrate integration tests with optimistic updates",
+    "completed": false,
+    "created": "2026-01-13T15:50:02.542Z"
+  },
+  {
+    "id": "7a4faa4f-5580-41a2-84f7-dd2760e06c54",
+    "detail": "Setup GraphQL endpoint for mobile responsiveness",
+    "completed": false,
+    "created": "2026-01-13T15:50:02.542Z"
+  },
+  {
+    "id": "322c0940-c359-489c-9ba8-2370c89a5b49",
+    "detail": "Design landing page before the sprint review",
+    "completed": true,
+    "created": "2026-01-12T15:50:02.542Z"
+  },
+  {
+    "id": "c5f1f7ff-adf5-47b8-a0ab-73eaab49ca26",
+    "detail": "Optimize notification service using the existing API",
+    "completed": true,
+    "created": "2026-01-12T15:50:02.542Z"
+  },
+  {
+    "id": "d4b2807c-5c59-4087-90bd-14f6bc28dc20",
+    "detail": "Setup integration tests with TypeScript and Tailwind CSS",
+    "completed": true,
+    "created": "2026-01-12T15:50:02.542Z"
+  },
+  {
+    "id": "5b92ceec-f813-41c7-9b70-dea95301a06b",
+    "detail": "Setup database schema with performance monitoring",
+    "completed": true,
+    "created": "2026-01-11T15:50:02.542Z"
+  },
+  {
+    "id": "a4e36497-a86d-4fa6-a9ba-cad87d8e6ef9",
+    "detail": "Migrate landing page and add integration tests",
+    "completed": false,
+    "created": "2026-01-11T15:50:02.542Z"
+  },
+  {
+    "id": "effac77f-f11d-4f39-9cf1-11e75d00fed8",
+    "detail": "Optimize file upload system using React Server Components",
+    "completed": false,
+    "created": "2026-01-10T15:50:02.542Z"
+  },
+  {
+    "id": "e4adfea4-f209-4030-9b70-0c289f2af713",
+    "detail": "Review kubernetes cluster and add integration tests",
+    "completed": false,
+    "created": "2026-01-10T15:50:02.542Z"
+  },
+  {
+    "id": "a805674c-619f-4803-8c01-6ffcfaa30fe2",
+    "detail": "Setup database schema and write unit tests",
+    "completed": false,
+    "created": "2026-01-09T15:50:02.542Z"
+  },
+  {
+    "id": "322cda14-6b33-44bf-a797-00455de934c3",
+    "detail": "Integrate authentication flow with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2026-01-09T15:50:02.542Z"
+  },
+  {
+    "id": "1ed73a0a-f8f6-422e-b5ba-d26da4df6d24",
+    "detail": "Refactor landing page with dark mode support",
+    "completed": true,
+    "created": "2026-01-09T15:50:02.542Z"
+  },
+  {
+    "id": "7f1f03c1-e342-40c7-ba95-c6284f8dcda0",
+    "detail": "Build GraphQL endpoint across all browsers",
+    "completed": false,
+    "created": "2026-01-08T15:50:02.542Z"
+  },
+  {
+    "id": "e8074335-b990-4320-bd1f-b7e5b9a8900f",
+    "detail": "Refactor unit tests for mobile responsiveness",
+    "completed": true,
+    "created": "2026-01-08T15:50:02.542Z"
+  },
+  {
+    "id": "133845f6-6521-4c70-b460-8b4b5f4a5045",
+    "detail": "Build CI/CD pipeline for the beta release",
+    "completed": false,
+    "created": "2026-01-08T15:50:02.542Z"
+  },
+  {
+    "id": "3d359bd1-223d-4528-b51e-bffa4eb98ad1",
+    "detail": "Optimize frontend project with real-time sync",
+    "completed": false,
+    "created": "2026-01-08T15:50:02.542Z"
+  },
+  {
+    "id": "03df0239-512f-4aa5-8304-949cd348e3f9",
+    "detail": "Automate mobile app using the existing API",
+    "completed": false,
+    "created": "2026-01-08T15:50:02.542Z"
+  },
+  {
+    "id": "cd15f7b1-5fe9-44ab-a83b-f5ba818d6cc2",
+    "detail": "Review analytics dashboard with real-time sync",
+    "completed": false,
+    "created": "2026-01-08T15:50:02.542Z"
+  },
+  {
+    "id": "c31427f6-6d07-42aa-a497-32bdb9958070",
+    "detail": "Refactor angularjs app with dark mode support",
+    "completed": false,
+    "created": "2026-01-06T15:50:02.542Z"
+  },
+  {
+    "id": "49166039-6a7b-4770-b395-895527594ea2",
+    "detail": "Build websocket server across all browsers",
+    "completed": false,
+    "created": "2026-01-06T15:50:02.542Z"
+  },
+  {
+    "id": "1d311b23-54a8-4c76-bdeb-ca4575221c62",
+    "detail": "Design user dashboard across all browsers",
+    "completed": false,
+    "created": "2026-01-05T15:50:02.542Z"
+  },
+  {
+    "id": "a09d5875-0d9a-4436-969e-e16f18e9677d",
+    "detail": "Review nextjs app and add proper logging",
+    "completed": true,
+    "created": "2026-01-05T15:50:02.542Z"
+  },
+  {
+    "id": "367231e4-5315-477e-8717-c6a4f6108cb0",
+    "detail": "Setup cache layer with real-time sync",
+    "completed": false,
+    "created": "2026-01-05T15:50:02.542Z"
+  },
+  {
+    "id": "ab2ad179-976b-44b8-bde9-9bf785808139",
+    "detail": "Debug cache layer for mobile responsiveness",
+    "completed": false,
+    "created": "2026-01-05T15:50:02.542Z"
+  },
+  {
+    "id": "278217c9-1174-47de-9c70-6efdd6db9ce8",
+    "detail": "Review load balancer config with performance monitoring",
+    "completed": false,
+    "created": "2026-01-05T15:50:02.542Z"
+  },
+  {
+    "id": "56b92b6d-3393-48ca-ad4a-e5a41fb8b701",
+    "detail": "Deploy GraphQL endpoint with optimistic updates",
+    "completed": false,
+    "created": "2026-01-05T15:50:02.542Z"
+  },
+  {
+    "id": "a37d0326-1d69-4811-957c-6fb210ec741c",
+    "detail": "Implement microservice and add integration tests",
+    "completed": true,
+    "created": "2026-01-04T15:50:02.542Z"
+  },
+  {
+    "id": "04350aa5-0c15-49fb-905f-cb44efa4cb21",
+    "detail": "Optimize admin panel with performance monitoring",
+    "completed": false,
+    "created": "2026-01-04T15:50:02.542Z"
+  },
+  {
+    "id": "fdc85237-6792-4601-932a-e80d893559f2",
+    "detail": "Refactor angularjs app using React Server Components",
+    "completed": false,
+    "created": "2026-01-04T15:50:02.542Z"
+  },
+  {
+    "id": "5b075f43-6131-44f0-86ef-bf5d5421671c",
+    "detail": "Test database schema with proper error handling",
+    "completed": true,
+    "created": "2026-01-03T15:50:02.542Z"
+  },
+  {
+    "id": "13cce19e-5826-433c-9da2-045079842e18",
+    "detail": "Test REST API and write unit tests",
+    "completed": false,
+    "created": "2026-01-03T15:50:02.542Z"
+  },
+  {
+    "id": "0d37a846-7812-4fd0-8784-01ad906df25b",
+    "detail": "Create notification service using the existing API",
+    "completed": true,
+    "created": "2026-01-03T15:50:02.542Z"
+  },
+  {
+    "id": "c8f06273-216c-474d-8a6e-71a950fdc6c0",
+    "detail": "Migrate CI/CD pipeline using React Server Components",
+    "completed": true,
+    "created": "2026-01-03T15:50:02.542Z"
+  },
+  {
+    "id": "9619582c-64df-43a9-a801-2e471585f380",
+    "detail": "Test logging system with dark mode support",
+    "completed": false,
+    "created": "2026-01-03T15:50:02.542Z"
+  },
+  {
+    "id": "91596af5-8e5d-473b-9247-471a46e2d0f5",
+    "detail": "Build authentication flow using the existing API",
+    "completed": true,
+    "created": "2026-01-02T15:50:02.542Z"
+  },
+  {
+    "id": "321b94d1-f8f0-40b9-badf-d14c56f68e80",
+    "detail": "Test microservice and add proper logging",
+    "completed": false,
+    "created": "2026-01-02T15:50:02.542Z"
+  },
+  {
+    "id": "f7812119-df54-44fc-a9e3-3718cade5fcd",
+    "detail": "Optimize error tracking with accessibility support",
+    "completed": true,
+    "created": "2026-01-02T15:50:02.542Z"
+  },
+  {
+    "id": "be2b1d83-ab26-4539-a0b4-18678de7ac0e",
+    "detail": "Create load balancer config with real-time sync",
+    "completed": false,
+    "created": "2026-01-02T15:50:02.542Z"
+  },
+  {
+    "id": "58094550-bf5e-4785-a9ad-8bf63da9daba",
+    "detail": "Implement rate limiter with full documentation",
+    "completed": false,
+    "created": "2026-01-01T15:50:02.542Z"
+  },
+  {
+    "id": "2c544b17-a980-4f89-b509-35602364bf7c",
+    "detail": "Integrate file upload system with real-time sync",
+    "completed": true,
+    "created": "2026-01-01T15:50:02.542Z"
+  },
+  {
+    "id": "3516ad06-9a95-49cc-a7c2-23427a3c2a88",
+    "detail": "Design admin panel using server-side rendering",
+    "completed": false,
+    "created": "2026-01-01T15:50:02.542Z"
+  },
+  {
+    "id": "95dc20b9-7cef-48dc-9e8b-db1678c4b8c4",
+    "detail": "Review svelte app with dark mode support",
+    "completed": true,
+    "created": "2026-01-01T15:50:02.542Z"
+  },
+  {
+    "id": "a510a209-6241-4651-b186-b2965e551f7c",
+    "detail": "Integrate unit tests for mobile responsiveness",
+    "completed": true,
+    "created": "2026-01-01T15:50:02.542Z"
+  },
+  {
+    "id": "359b9f8c-a0c8-45a5-902e-1834fa694f78",
+    "detail": "Refactor websocket server with dark mode support",
+    "completed": false,
+    "created": "2026-01-01T15:50:02.542Z"
+  },
+  {
+    "id": "8f2bcf4e-d884-4b41-9908-513a35d0d621",
+    "detail": "Integrate unit tests with dark mode support",
+    "completed": false,
+    "created": "2026-01-01T15:50:02.542Z"
+  },
+  {
+    "id": "71fdd39c-b76d-49ae-8340-37edcbe59c60",
+    "detail": "Document integration tests using React Server Components",
+    "completed": false,
+    "created": "2026-01-01T15:50:02.542Z"
+  },
+  {
+    "id": "9e58a067-8466-4357-9754-27b015e40c67",
+    "detail": "Debug integration tests using React Server Components",
+    "completed": true,
+    "created": "2025-12-31T15:50:02.542Z"
+  },
+  {
+    "id": "032625b6-8816-49db-9b11-f68f7604597e",
+    "detail": "Build landing page for the beta release",
+    "completed": false,
+    "created": "2025-12-31T15:50:02.542Z"
+  },
+  {
+    "id": "4271b9e5-d9f1-44ab-ba78-117d4fdddecb",
+    "detail": "Automate integration tests for the production environment",
+    "completed": false,
+    "created": "2025-12-31T15:50:02.542Z"
+  },
+  {
+    "id": "57c618a6-2c69-4a4a-9be2-eda206693499",
+    "detail": "Document analytics dashboard for the beta release",
+    "completed": false,
+    "created": "2025-12-31T15:50:02.542Z"
+  },
+  {
+    "id": "48a8c9b5-10da-4238-8cee-1f24e709691f",
+    "detail": "Create notification service using the new design system",
+    "completed": true,
+    "created": "2025-12-31T15:50:02.542Z"
+  },
+  {
+    "id": "aef2799d-5681-4044-bfd5-9684ce4ae57c",
+    "detail": "Setup payment system with TypeScript and Tailwind CSS",
+    "completed": true,
+    "created": "2025-12-30T15:50:02.542Z"
+  },
+  {
+    "id": "f7723d11-611e-4634-962f-4615a20546cf",
+    "detail": "Debug websocket server with performance monitoring",
+    "completed": false,
+    "created": "2025-12-30T15:50:02.542Z"
+  },
+  {
+    "id": "4a236c8e-6556-45f0-b7c5-9fbd94a5a19b",
+    "detail": "Optimize CI/CD pipeline using server-side rendering",
+    "completed": false,
+    "created": "2025-12-30T15:50:02.542Z"
+  },
+  {
+    "id": "61724c61-dd7c-4b22-86ff-9cdd1c8a0e6e",
+    "detail": "Automate cache layer and write unit tests",
+    "completed": false,
+    "created": "2025-12-30T15:50:02.542Z"
+  },
+  {
+    "id": "a0fd116c-86a4-4903-ba49-019e09fb99b6",
+    "detail": "Create docker container with full documentation",
+    "completed": false,
+    "created": "2025-12-28T15:50:02.542Z"
+  },
+  {
+    "id": "3edd1ec9-8181-4dfa-8f9b-5e40837d487d",
+    "detail": "Refactor load balancer config for the production environment",
+    "completed": false,
+    "created": "2025-12-28T15:50:02.542Z"
+  },
+  {
+    "id": "90c3512c-c10f-481d-a339-dfd4fe7225a8",
+    "detail": "Optimize CI/CD pipeline using server-side rendering",
+    "completed": true,
+    "created": "2025-12-28T15:50:02.542Z"
+  },
+  {
+    "id": "96b14968-59d9-4d90-9714-cf00cd306f4d",
+    "detail": "Automate payment system with proper error handling",
+    "completed": false,
+    "created": "2025-12-27T15:50:02.542Z"
+  },
+  {
+    "id": "7e742fe6-5ab8-41d2-a357-636175e43669",
+    "detail": "Debug analytics dashboard with proper error handling",
+    "completed": false,
+    "created": "2025-12-27T15:50:02.542Z"
+  },
+  {
+    "id": "48116850-4196-4388-b11d-315b404f1f08",
+    "detail": "Refactor svelte app for the production environment",
+    "completed": true,
+    "created": "2025-12-27T15:50:02.542Z"
+  },
+  {
+    "id": "1bc312ad-1907-4ec2-87a9-6c67db53ac11",
+    "detail": "Deploy analytics dashboard with performance monitoring",
+    "completed": false,
+    "created": "2025-12-27T15:50:02.542Z"
+  },
+  {
+    "id": "bc976099-0b3a-48c9-8442-24c98eed8528",
+    "detail": "Implement kubernetes cluster and add integration tests",
+    "completed": true,
+    "created": "2025-12-27T15:50:02.542Z"
+  },
+  {
+    "id": "45e4f61f-b360-4740-a6e0-3b79773c164e",
+    "detail": "Build logging system for mobile responsiveness",
+    "completed": true,
+    "created": "2025-12-26T15:50:02.542Z"
+  },
+  {
+    "id": "c564015c-bcf4-4aa7-aa11-77b363284bdf",
+    "detail": "Debug load balancer config with real-time sync",
+    "completed": false,
+    "created": "2025-12-26T15:50:02.542Z"
+  },
+  {
+    "id": "f29845f8-b60a-4c70-92b8-7c0204fbd01f",
+    "detail": "Create websocket server using React Server Components",
+    "completed": false,
+    "created": "2025-12-26T15:50:02.542Z"
+  },
+  {
+    "id": "4c82a4b2-d5a1-4c69-af22-8fe03e863de4",
+    "detail": "Document frontend project with performance monitoring",
+    "completed": true,
+    "created": "2025-12-26T15:50:02.542Z"
+  },
+  {
+    "id": "e38b8ed7-271a-4f29-b364-f01313293695",
+    "detail": "Debug kubernetes cluster with TypeScript and Tailwind CSS",
+    "completed": true,
+    "created": "2025-12-25T15:50:02.542Z"
+  },
+  {
+    "id": "2b5bccc2-96b2-4b3a-a03b-365abb45b8f0",
+    "detail": "Document nextjs app for the production environment",
+    "completed": true,
+    "created": "2025-12-25T15:50:02.542Z"
+  },
+  {
+    "id": "294383de-6115-48e1-bda8-7207d5c0534c",
+    "detail": "Optimize payment system with performance monitoring",
+    "completed": false,
+    "created": "2025-12-25T15:50:02.542Z"
+  },
+  {
+    "id": "ba8b6fb4-07ee-484a-9b96-98cb876737c8",
+    "detail": "Document analytics dashboard with real-time sync",
+    "completed": true,
+    "created": "2025-12-25T15:50:02.542Z"
+  },
+  {
+    "id": "ab4ba35c-3218-417c-af9d-e43fbef72d9a",
+    "detail": "Refactor docker container and write unit tests",
+    "completed": false,
+    "created": "2025-12-24T15:50:02.542Z"
+  },
+  {
+    "id": "39e66675-1607-46cf-8793-350dc564ca17",
+    "detail": "Create file upload system with full documentation",
+    "completed": true,
+    "created": "2025-12-24T15:50:02.542Z"
+  },
+  {
+    "id": "66a97a4e-4d24-4521-ad28-c574973ad13e",
+    "detail": "Optimize kubernetes cluster for the production environment",
+    "completed": false,
+    "created": "2025-12-23T15:50:02.542Z"
+  },
+  {
+    "id": "d5582bb8-788f-4596-a3a0-2f1a442165fe",
+    "detail": "Review load balancer config with TypeScript and Tailwind CSS",
+    "completed": true,
+    "created": "2025-12-21T15:50:02.542Z"
+  },
+  {
+    "id": "8f5caeef-0bc3-42a7-ab96-fb5f6dcbebc9",
+    "detail": "Review svelte app with accessibility support",
+    "completed": false,
+    "created": "2025-12-21T15:50:02.542Z"
+  },
+  {
+    "id": "183282ac-2187-40b2-a2de-a2d0956cd684",
+    "detail": "Automate unit tests using React Server Components",
+    "completed": false,
+    "created": "2025-12-20T15:50:02.542Z"
+  },
+  {
+    "id": "8d0d8a59-3342-42ad-968a-13bdab2b47cf",
+    "detail": "Automate logging system using React Server Components",
+    "completed": false,
+    "created": "2025-12-20T15:50:02.542Z"
+  },
+  {
+    "id": "feeddb41-09f6-471b-9bdf-be20002e1592",
+    "detail": "Setup REST API for the production environment",
+    "completed": false,
+    "created": "2025-12-19T15:50:02.542Z"
+  },
+  {
+    "id": "78574ad8-ffdb-4690-b7a2-e44c6c479efa",
+    "detail": "Debug svelte app across all browsers",
+    "completed": false,
+    "created": "2025-12-19T15:50:02.542Z"
+  },
+  {
+    "id": "c67c4cd8-57c7-46de-99de-c98d4c625497",
+    "detail": "Integrate mobile app with dark mode support",
+    "completed": true,
+    "created": "2025-12-19T15:50:02.542Z"
+  },
+  {
+    "id": "71695bd6-1777-4266-804f-f041e62396ba",
+    "detail": "Integrate analytics dashboard for mobile responsiveness",
+    "completed": false,
+    "created": "2025-12-17T15:50:02.542Z"
+  },
+  {
+    "id": "366d67d8-d853-4c33-9560-574401de5a77",
+    "detail": "Refactor kubernetes cluster across all browsers",
+    "completed": true,
+    "created": "2025-12-17T15:50:02.542Z"
+  },
+  {
+    "id": "a5c599a0-1ff1-4f06-85f2-0a137b00cd82",
+    "detail": "Migrate email template using server-side rendering",
+    "completed": false,
+    "created": "2025-12-17T15:50:02.542Z"
+  },
+  {
+    "id": "41d9085a-b66f-4620-a552-a0d813a49a03",
+    "detail": "Implement websocket server using the existing API",
+    "completed": false,
+    "created": "2025-12-17T15:50:02.542Z"
+  },
+  {
+    "id": "25f31967-585c-4c34-bfb3-2307eb65bce7",
+    "detail": "Deploy integration tests with proper error handling",
+    "completed": true,
+    "created": "2025-12-16T15:50:02.542Z"
+  },
+  {
+    "id": "64a55047-9437-4e7e-ad64-86b7fec2e58a",
+    "detail": "Automate email template with performance monitoring",
+    "completed": false,
+    "created": "2025-12-16T15:50:02.542Z"
+  },
+  {
+    "id": "6777d863-6b36-4347-a698-c5db63dd07a4",
+    "detail": "Automate websocket server for the production environment",
+    "completed": true,
+    "created": "2025-12-16T15:50:02.542Z"
+  },
+  {
+    "id": "1155d0cd-8ea9-4fcc-9d97-6b6abd099ae0",
+    "detail": "Design load balancer config and add proper logging",
+    "completed": true,
+    "created": "2025-12-15T15:50:02.542Z"
+  },
+  {
+    "id": "21904ed7-a967-4d9c-b3ab-abdaf5e73323",
+    "detail": "Implement svelte app with performance monitoring",
+    "completed": false,
+    "created": "2025-12-15T15:50:02.542Z"
+  },
+  {
+    "id": "bc257ba6-f4ac-4f09-ac3b-2a07833caa6b",
+    "detail": "Create svelte app using React Server Components",
+    "completed": false,
+    "created": "2025-12-15T15:50:02.542Z"
+  },
+  {
+    "id": "82fa70d7-eb41-4c82-8a83-7989a58e7afd",
+    "detail": "Debug REST API with optimistic updates",
+    "completed": false,
+    "created": "2025-12-15T15:50:02.542Z"
+  },
+  {
+    "id": "c3a998b1-f3dd-4a8c-be40-7f02de5fb0a5",
+    "detail": "Design svelte app with dark mode support",
+    "completed": false,
+    "created": "2025-12-14T15:50:02.542Z"
+  },
+  {
+    "id": "73313183-b160-4363-ade6-8c17be64e918",
+    "detail": "Optimize CI/CD pipeline with dark mode support",
+    "completed": false,
+    "created": "2025-12-14T15:50:02.542Z"
+  },
+  {
+    "id": "e46f63e9-3ec8-473b-8382-e391c8d8df71",
+    "detail": "Build cache layer and add integration tests",
+    "completed": false,
+    "created": "2025-12-14T15:50:02.542Z"
+  },
+  {
+    "id": "02ef34e1-fc42-47fc-a306-4627dc2c3459",
+    "detail": "Design load balancer config using the existing API",
+    "completed": true,
+    "created": "2025-12-13T15:50:02.542Z"
+  },
+  {
+    "id": "e51a0f5e-dc5f-4b85-8fe5-773ff3875ee1",
+    "detail": "Optimize authentication flow using server-side rendering",
+    "completed": false,
+    "created": "2025-12-13T15:50:02.542Z"
+  },
+  {
+    "id": "8cdaa256-0da6-4b70-bc66-a247d049f214",
+    "detail": "Debug frontend project with accessibility support",
+    "completed": false,
+    "created": "2025-12-13T15:50:02.542Z"
+  },
+  {
+    "id": "aedfbfbb-39cf-460d-818e-f4314fcfa68d",
+    "detail": "Debug GraphQL endpoint with real-time sync",
+    "completed": true,
+    "created": "2025-12-13T15:50:02.542Z"
+  },
+  {
+    "id": "4343b391-4b26-4c0c-93a7-fcbab96023ce",
+    "detail": "Deploy user dashboard using the new design system",
+    "completed": false,
+    "created": "2025-12-12T15:50:02.542Z"
+  },
+  {
+    "id": "3716e479-e797-434b-ab84-13582f013cfc",
+    "detail": "Migrate mobile app using the new design system",
+    "completed": true,
+    "created": "2025-12-12T15:50:02.542Z"
+  },
+  {
+    "id": "3693fd8e-09a3-4f56-a963-060ad2357ce6",
+    "detail": "Refactor CI/CD pipeline and add integration tests",
+    "completed": false,
+    "created": "2025-12-11T15:50:02.542Z"
+  },
+  {
+    "id": "12dc30ef-4e5b-4246-816e-180e5f36e191",
+    "detail": "Debug angularjs app with performance monitoring",
+    "completed": true,
+    "created": "2025-12-11T15:50:02.542Z"
+  },
+  {
+    "id": "9d7cb424-d7ef-4ea7-9b26-1033fdbc46ee",
+    "detail": "Integrate cache layer for the production environment",
+    "completed": false,
+    "created": "2025-12-11T15:50:02.542Z"
+  },
+  {
+    "id": "e45d4526-4978-4804-b35e-fb76f803c613",
+    "detail": "Review notification service across all browsers",
+    "completed": true,
+    "created": "2025-12-11T15:50:02.542Z"
+  },
+  {
+    "id": "edf6b74c-7202-4e55-824d-ed18956b7b61",
+    "detail": "Integrate rate limiter and add proper logging",
+    "completed": false,
+    "created": "2025-12-10T15:50:02.542Z"
+  },
+  {
+    "id": "7b870f68-a209-4023-aded-bbaf72a8ee7b",
+    "detail": "Review docker container with real-time sync",
+    "completed": false,
+    "created": "2025-12-10T15:50:02.542Z"
+  },
+  {
+    "id": "5205e7d1-3e6b-4914-a313-14da3bcf69c1",
+    "detail": "Optimize load balancer config for the beta release",
+    "completed": true,
+    "created": "2025-12-10T15:50:02.542Z"
+  },
+  {
+    "id": "6d6008df-9571-4612-9fd2-4c26ce81e0ba",
+    "detail": "Debug kubernetes cluster and add proper logging",
+    "completed": false,
+    "created": "2025-12-09T15:50:02.542Z"
+  },
+  {
+    "id": "fec77dea-b750-42ba-bbdb-aef63a88bbd3",
+    "detail": "Review notification service with proper error handling",
+    "completed": false,
+    "created": "2025-12-09T15:50:02.542Z"
+  },
+  {
+    "id": "47f274bd-48f8-42c2-a026-e83ddae1388e",
+    "detail": "Setup file upload system before the sprint review",
+    "completed": true,
+    "created": "2025-12-09T15:50:02.542Z"
+  },
+  {
+    "id": "086ec7b9-71ad-4779-8129-dd5075f3d3e6",
+    "detail": "Optimize angularjs app for the beta release",
+    "completed": true,
+    "created": "2025-12-08T15:50:02.542Z"
+  },
+  {
+    "id": "7130d323-f5d8-4d7c-98d9-504bda215cbe",
+    "detail": "Deploy email template before the sprint review",
+    "completed": false,
+    "created": "2025-12-08T15:50:02.542Z"
+  },
+  {
+    "id": "3496b9e2-f432-474c-b9fe-c83abefcbee0",
+    "detail": "Automate docker container using the existing API",
+    "completed": false,
+    "created": "2025-12-08T15:50:02.542Z"
+  },
+  {
+    "id": "04e90c99-dbdc-4dc3-b161-635cc71c3ae3",
+    "detail": "Integrate analytics dashboard and write unit tests",
+    "completed": false,
+    "created": "2025-12-08T15:50:02.542Z"
+  },
+  {
+    "id": "f855c33a-3971-4599-9d03-da605ada76c9",
+    "detail": "Document load balancer config using React Server Components",
+    "completed": false,
+    "created": "2025-12-08T15:50:02.542Z"
+  },
+  {
+    "id": "896a63c3-a6a6-40f2-bbe0-f6a8bb2a0150",
+    "detail": "Setup GraphQL endpoint for mobile responsiveness",
+    "completed": true,
+    "created": "2025-12-07T15:50:02.542Z"
+  },
+  {
+    "id": "a176c805-c707-4ee5-a317-6bd176ba0689",
+    "detail": "Test rate limiter with proper error handling",
+    "completed": false,
+    "created": "2025-12-07T15:50:02.542Z"
+  },
+  {
+    "id": "fac56f33-3a00-43f8-8f3d-3bfa7127cacd",
+    "detail": "Create logging system using server-side rendering",
+    "completed": true,
+    "created": "2025-12-06T15:50:02.542Z"
+  },
+  {
+    "id": "2697666f-9f0a-4c37-ab17-c4be2ba8bed0",
+    "detail": "Refactor payment system before the sprint review",
+    "completed": true,
+    "created": "2025-12-06T15:50:02.542Z"
+  },
+  {
+    "id": "1d09028a-8cc1-4da1-a1f5-201848564d75",
+    "detail": "Build mobile app using the new design system",
+    "completed": false,
+    "created": "2025-12-06T15:50:02.542Z"
+  },
+  {
+    "id": "e65b391b-4030-463f-bdc8-6a79ce80495f",
+    "detail": "Deploy websocket server before the sprint review",
+    "completed": false,
+    "created": "2025-12-05T15:50:02.542Z"
+  },
+  {
+    "id": "b2f847b1-9bd2-4e8e-aaf9-e8eee04ad650",
+    "detail": "Review GraphQL endpoint using React Server Components",
+    "completed": false,
+    "created": "2025-12-04T15:50:02.542Z"
+  },
+  {
+    "id": "05817b7f-ec47-4d25-875b-62317cdc774c",
+    "detail": "Optimize user dashboard for mobile responsiveness",
+    "completed": false,
+    "created": "2025-12-04T15:50:02.542Z"
+  },
+  {
+    "id": "12a43544-903d-49da-9c40-404dd6753df9",
+    "detail": "Review integration tests using the new design system",
+    "completed": true,
+    "created": "2025-12-03T15:50:02.542Z"
+  },
+  {
+    "id": "40f017c5-ec2c-4421-a843-ee368deb2052",
+    "detail": "Create logging system across all browsers",
+    "completed": false,
+    "created": "2025-12-03T15:50:02.542Z"
+  },
+  {
+    "id": "5c7fec2b-365f-4464-a64c-4398ced7d53e",
+    "detail": "Migrate authentication flow with full documentation",
+    "completed": false,
+    "created": "2025-12-02T15:50:02.542Z"
+  },
+  {
+    "id": "8278943d-0425-4f69-b437-190a8e192c1a",
+    "detail": "Setup websocket server for the beta release",
+    "completed": true,
+    "created": "2025-12-02T15:50:02.542Z"
+  },
+  {
+    "id": "abf9b77f-b83a-48bb-be88-704f744f242e",
+    "detail": "Document error tracking before the sprint review",
+    "completed": false,
+    "created": "2025-12-01T15:50:02.542Z"
+  },
+  {
+    "id": "83520c94-c352-48da-82b7-b154273a97a9",
+    "detail": "Debug file upload system with proper error handling",
+    "completed": true,
+    "created": "2025-12-01T15:50:02.542Z"
+  },
+  {
+    "id": "7690fae6-36ab-459c-9e3f-47bc078bf4d6",
+    "detail": "Create svelte app across all browsers",
+    "completed": false,
+    "created": "2025-12-01T15:50:02.542Z"
+  },
+  {
+    "id": "04e7b2ef-c83b-48dd-a769-e55eccbd08a9",
+    "detail": "Automate cache layer with full documentation",
+    "completed": true,
+    "created": "2025-12-01T15:50:02.542Z"
+  },
+  {
+    "id": "efb9d2f2-1a9e-4179-b4e6-5d6566c0ed7b",
+    "detail": "Optimize docker container for the production environment",
+    "completed": true,
+    "created": "2025-12-01T15:50:02.542Z"
+  },
+  {
+    "id": "1f303048-0d55-409b-a03e-aa808f360635",
+    "detail": "Review user dashboard with proper error handling",
+    "completed": false,
+    "created": "2025-12-01T15:50:02.542Z"
+  },
+  {
+    "id": "4b9e68ab-277b-48ac-b361-630dd6e1765c",
+    "detail": "Build kubernetes cluster across all browsers",
+    "completed": false,
+    "created": "2025-12-01T15:50:02.542Z"
+  },
+  {
+    "id": "779d6a29-0780-494c-95c3-147ce70a9807",
+    "detail": "Test load balancer config with accessibility support",
+    "completed": false,
+    "created": "2025-12-01T15:50:02.542Z"
+  },
+  {
+    "id": "c8480f46-2d9e-4c40-9a5b-71120d42fafa",
+    "detail": "Deploy load balancer config with dark mode support",
+    "completed": false,
+    "created": "2025-12-01T15:50:02.542Z"
+  },
+  {
+    "id": "350620e3-c189-40d5-ab23-7249c7fef63e",
+    "detail": "Deploy mobile app with proper error handling",
+    "completed": false,
+    "created": "2025-12-01T15:50:02.542Z"
+  },
+  {
+    "id": "debacfa0-791a-4c1f-b96f-3864fb90d60b",
+    "detail": "Review payment system with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-11-30T15:50:02.542Z"
+  },
+  {
+    "id": "dff1813b-0d86-4677-8cdd-e4c0b69d269e",
+    "detail": "Design database schema and write unit tests",
+    "completed": true,
+    "created": "2025-11-30T15:50:02.542Z"
+  },
+  {
+    "id": "b76d651c-0e77-4839-9200-cc8515c9921d",
+    "detail": "Migrate angularjs app with dark mode support",
+    "completed": false,
+    "created": "2025-11-30T15:50:02.542Z"
+  },
+  {
+    "id": "f34bf55b-4360-4380-905a-2be84c25606d",
+    "detail": "Create REST API with performance monitoring",
+    "completed": false,
+    "created": "2025-11-29T15:50:02.542Z"
+  },
+  {
+    "id": "97200eda-fffd-4857-adb2-cdd4dc435fe1",
+    "detail": "Test search functionality with performance monitoring",
+    "completed": false,
+    "created": "2025-11-29T15:50:02.542Z"
+  },
+  {
+    "id": "3a2d7d18-c26b-4f3f-b168-ac050774dc66",
+    "detail": "Design cache layer and add proper logging",
+    "completed": false,
+    "created": "2025-11-28T15:50:02.542Z"
+  },
+  {
+    "id": "ce9a1f28-f66f-41b6-8994-b4ec80b6aab5",
+    "detail": "Refactor angularjs app using server-side rendering",
+    "completed": false,
+    "created": "2025-11-27T15:50:02.542Z"
+  },
+  {
+    "id": "6b5b35d3-3254-4466-9139-aa79167f3f70",
+    "detail": "Debug database schema with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-11-27T15:50:02.542Z"
+  },
+  {
+    "id": "55c329e7-4985-4c42-b972-7aba8f6eb367",
+    "detail": "Review microservice with full documentation",
+    "completed": false,
+    "created": "2025-11-27T15:50:02.542Z"
+  },
+  {
+    "id": "f0425ce1-d0f0-4773-a8e3-6e9167ff2c72",
+    "detail": "Deploy file upload system with performance monitoring",
+    "completed": false,
+    "created": "2025-11-26T15:50:02.542Z"
+  },
+  {
+    "id": "2c693043-fe28-4325-ab2a-6f38bf8e5abc",
+    "detail": "Setup search functionality with performance monitoring",
+    "completed": false,
+    "created": "2025-11-26T15:50:02.542Z"
+  },
+  {
+    "id": "ee11d5bc-eb81-46e8-a737-2afc26ce8d4e",
+    "detail": "Setup admin panel with accessibility support",
+    "completed": true,
+    "created": "2025-11-26T15:50:02.542Z"
+  },
+  {
+    "id": "bdcbae8a-4a7d-4093-a99c-bc8cd8107ea1",
+    "detail": "Design user dashboard with accessibility support",
+    "completed": true,
+    "created": "2025-11-25T15:50:02.542Z"
+  },
+  {
+    "id": "cea0b331-6f0c-4dc8-8e81-f58e87a5d84d",
+    "detail": "Migrate search functionality for the production environment",
+    "completed": false,
+    "created": "2025-11-24T15:50:02.542Z"
+  },
+  {
+    "id": "0cc77e51-fbf8-45ad-b5ca-69200b44a412",
+    "detail": "Design payment system with optimistic updates",
+    "completed": false,
+    "created": "2025-11-24T15:50:02.542Z"
+  },
+  {
+    "id": "36f001be-7f2c-4a81-8e83-119c018db02a",
+    "detail": "Automate mobile app with dark mode support",
+    "completed": false,
+    "created": "2025-11-24T15:50:02.542Z"
+  },
+  {
+    "id": "da31bfb3-6566-45dc-aab0-74ad70fb3fdd",
+    "detail": "Create frontend project for mobile responsiveness",
+    "completed": true,
+    "created": "2025-11-24T15:50:02.542Z"
+  },
+  {
+    "id": "bda229c2-38ce-4735-b336-f3625f1b812b",
+    "detail": "Setup payment system with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-11-24T15:50:02.542Z"
+  },
+  {
+    "id": "485bcb5e-b6b5-4605-b142-edb7d5cbb59c",
+    "detail": "Review notification service with full documentation",
+    "completed": false,
+    "created": "2025-11-23T15:50:02.542Z"
+  },
+  {
+    "id": "84a9d66c-dd22-46b6-89c6-b5c8d2ce799e",
+    "detail": "Deploy websocket server using the existing API",
+    "completed": false,
+    "created": "2025-11-23T15:50:02.542Z"
+  },
+  {
+    "id": "19bebb83-5450-420e-a9de-92421772c1c3",
+    "detail": "Debug frontend project using React Server Components",
+    "completed": true,
+    "created": "2025-11-22T15:50:02.542Z"
+  },
+  {
+    "id": "8e7788b0-45c4-4bf0-8d58-3ea57a1ff4a6",
+    "detail": "Refactor nextjs app with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-11-22T15:50:02.542Z"
+  },
+  {
+    "id": "cff5279c-a14e-4a77-9fee-47ce6a02ba24",
+    "detail": "Refactor landing page with performance monitoring",
+    "completed": false,
+    "created": "2025-11-21T15:50:02.542Z"
+  },
+  {
+    "id": "05ac91e8-6550-48f9-9490-ea459d4e7473",
+    "detail": "Document payment system and add proper logging",
+    "completed": true,
+    "created": "2025-11-21T15:50:02.542Z"
+  },
+  {
+    "id": "4727eac0-4f44-4dee-9828-9d4b22c12684",
+    "detail": "Implement nextjs app and write unit tests",
+    "completed": true,
+    "created": "2025-11-21T15:50:02.542Z"
+  },
+  {
+    "id": "0437739d-a451-4a41-8871-1087447ba5dc",
+    "detail": "Test svelte app with dark mode support",
+    "completed": true,
+    "created": "2025-11-21T15:50:02.542Z"
+  },
+  {
+    "id": "2be3f495-a5cf-4836-821d-6d5e3c104c2a",
+    "detail": "Integrate mobile app with dark mode support",
+    "completed": true,
+    "created": "2025-11-21T15:50:02.542Z"
+  },
+  {
+    "id": "cf5f5b89-2b32-4a7d-9a6c-debe00691b3f",
+    "detail": "Create logging system before the sprint review",
+    "completed": false,
+    "created": "2025-11-20T15:50:02.542Z"
+  },
+  {
+    "id": "a27d4d71-5577-4d76-8a7b-d030c772c5f1",
+    "detail": "Refactor file upload system for mobile responsiveness",
+    "completed": false,
+    "created": "2025-11-20T15:50:02.542Z"
+  },
+  {
+    "id": "3645c57b-ffed-45ca-b1e7-00ba10c8a628",
+    "detail": "Setup logging system using server-side rendering",
+    "completed": false,
+    "created": "2025-11-20T15:50:02.542Z"
+  },
+  {
+    "id": "e7459edb-aad3-4612-806a-d989d9ca7ced",
+    "detail": "Deploy database schema with performance monitoring",
+    "completed": true,
+    "created": "2025-11-20T15:50:02.542Z"
+  },
+  {
+    "id": "41e7ab7c-fb4b-4e5f-9205-b5b88c477b23",
+    "detail": "Automate angularjs app with full documentation",
+    "completed": true,
+    "created": "2025-11-20T15:50:02.542Z"
+  },
+  {
+    "id": "c6a80e63-a945-472e-a7a2-939ef847ea7b",
+    "detail": "Deploy search functionality and write unit tests",
+    "completed": true,
+    "created": "2025-11-19T15:50:02.542Z"
+  },
+  {
+    "id": "30edfabe-fec8-4fbc-b958-fce78692ddc8",
+    "detail": "Build unit tests and add integration tests",
+    "completed": false,
+    "created": "2025-11-19T15:50:02.542Z"
+  },
+  {
+    "id": "0c6483fc-a6fa-464c-878e-fb5413d66ea2",
+    "detail": "Document file upload system for the production environment",
+    "completed": false,
+    "created": "2025-11-19T15:50:02.542Z"
+  },
+  {
+    "id": "0a837c6b-94bb-42f8-936a-86ddc160769e",
+    "detail": "Design websocket server with accessibility support",
+    "completed": false,
+    "created": "2025-11-18T15:50:02.542Z"
+  },
+  {
+    "id": "f4793575-f96b-4162-97d6-d4dee9e83cb5",
+    "detail": "Automate svelte app with optimistic updates",
+    "completed": true,
+    "created": "2025-11-18T15:50:02.542Z"
+  },
+  {
+    "id": "a87cd2bd-e622-4f3c-8f9d-1d0673304a03",
+    "detail": "Design frontend project with optimistic updates",
+    "completed": false,
+    "created": "2025-11-17T15:50:02.542Z"
+  },
+  {
+    "id": "c6b8a447-1d94-4e66-a66f-8cb4d2a84cd1",
+    "detail": "Test REST API using server-side rendering",
+    "completed": false,
+    "created": "2025-11-17T15:50:02.542Z"
+  },
+  {
+    "id": "c3309798-98b6-44b0-82b0-a3d4739ae680",
+    "detail": "Automate svelte app with full documentation",
+    "completed": false,
+    "created": "2025-11-17T15:50:02.542Z"
+  },
+  {
+    "id": "3e40c2a7-9e41-4a17-91b7-c9eb721853de",
+    "detail": "Refactor email template with performance monitoring",
+    "completed": false,
+    "created": "2025-11-17T15:50:02.542Z"
+  },
+  {
+    "id": "2a69e670-7f41-498e-8ea4-f85c7abfe56d",
+    "detail": "Deploy load balancer config using React Server Components",
+    "completed": false,
+    "created": "2025-11-17T15:50:02.542Z"
+  },
+  {
+    "id": "47c24517-3a60-43b2-84ca-9fddef5064f7",
+    "detail": "Test search functionality using the existing API",
+    "completed": false,
+    "created": "2025-11-17T15:50:02.542Z"
+  },
+  {
+    "id": "c429c270-e3e5-4952-85d3-508638133e03",
+    "detail": "Implement authentication flow and add integration tests",
+    "completed": false,
+    "created": "2025-11-16T15:50:02.542Z"
+  },
+  {
+    "id": "2614aa74-00c6-4266-a185-5e8cfe1f9db8",
+    "detail": "Setup analytics dashboard across all browsers",
+    "completed": true,
+    "created": "2025-11-16T15:50:02.542Z"
+  },
+  {
+    "id": "430c4de7-23d5-4fa0-b125-50fe3a688357",
+    "detail": "Setup angularjs app with dark mode support",
+    "completed": true,
+    "created": "2025-11-15T15:50:02.542Z"
+  },
+  {
+    "id": "47f55d22-cb93-4c47-9d61-4e3ac9baf117",
+    "detail": "Automate payment system before the sprint review",
+    "completed": false,
+    "created": "2025-11-15T15:50:02.542Z"
+  },
+  {
+    "id": "82f49219-a759-4732-9dc1-e8f538858adf",
+    "detail": "Setup CI/CD pipeline with real-time sync",
+    "completed": false,
+    "created": "2025-11-14T15:50:02.542Z"
+  },
+  {
+    "id": "1646d023-4910-4e93-aed6-45e2a1e38307",
+    "detail": "Create admin panel for mobile responsiveness",
+    "completed": false,
+    "created": "2025-11-14T15:50:02.542Z"
+  },
+  {
+    "id": "e1c1396b-c8ee-43ea-801c-069434cd8782",
+    "detail": "Migrate CI/CD pipeline for mobile responsiveness",
+    "completed": false,
+    "created": "2025-11-13T15:50:02.542Z"
+  },
+  {
+    "id": "9a88571c-dd49-4977-9ade-2d7cec8708a9",
+    "detail": "Integrate rate limiter with dark mode support",
+    "completed": false,
+    "created": "2025-11-13T15:50:02.542Z"
+  },
+  {
+    "id": "ff7145d8-2b8a-4ecd-8232-4a0910c9fb3e",
+    "detail": "Migrate email template before the sprint review",
+    "completed": false,
+    "created": "2025-11-12T15:50:02.542Z"
+  },
+  {
+    "id": "9a94d7ab-6469-4100-b018-cb0dddec103f",
+    "detail": "Refactor database schema with full documentation",
+    "completed": false,
+    "created": "2025-11-12T15:50:02.542Z"
+  },
+  {
+    "id": "ee55e181-480c-4a7f-8c01-a5090953650d",
+    "detail": "Document integration tests with dark mode support",
+    "completed": false,
+    "created": "2025-11-12T15:50:02.542Z"
+  },
+  {
+    "id": "f2fbe9f5-d10b-43df-97cb-dd3b7a1271d1",
+    "detail": "Optimize database schema for mobile responsiveness",
+    "completed": false,
+    "created": "2025-11-10T15:50:02.542Z"
+  },
+  {
+    "id": "f4bcdd66-8c84-4989-9908-82b8fecd36bf",
+    "detail": "Review file upload system for the beta release",
+    "completed": false,
+    "created": "2025-11-10T15:50:02.542Z"
+  },
+  {
+    "id": "b940d5eb-e52d-4861-9516-613bd0ea8080",
+    "detail": "Integrate rate limiter with accessibility support",
+    "completed": true,
+    "created": "2025-11-10T15:50:02.542Z"
+  },
+  {
+    "id": "08b6a31d-9fdb-4699-a896-f485c4a85988",
+    "detail": "Deploy cache layer using the new design system",
+    "completed": true,
+    "created": "2025-11-09T15:50:02.542Z"
+  },
+  {
+    "id": "3bfb40f7-41ad-4162-8b20-6df63a6e3fb3",
+    "detail": "Build frontend project for mobile responsiveness",
+    "completed": true,
+    "created": "2025-11-09T15:50:02.542Z"
+  },
+  {
+    "id": "008b55a0-3ad4-41f3-bde4-9015d04fcadb",
+    "detail": "Document rate limiter with TypeScript and Tailwind CSS",
+    "completed": true,
+    "created": "2025-11-08T15:50:02.542Z"
+  },
+  {
+    "id": "5b8ae473-8b88-4cc2-b540-56236aac0ffa",
+    "detail": "Deploy email template with full documentation",
+    "completed": false,
+    "created": "2025-11-07T15:50:02.542Z"
+  },
+  {
+    "id": "9cf58aa5-b81f-4cba-8a31-b029ac7406ab",
+    "detail": "Review mobile app with proper error handling",
+    "completed": false,
+    "created": "2025-11-05T15:50:02.542Z"
+  },
+  {
+    "id": "a4ef6c9b-5b5c-44bf-ac1b-6faf65e710e9",
+    "detail": "Optimize cache layer before the sprint review",
+    "completed": false,
+    "created": "2025-11-05T15:50:02.542Z"
+  },
+  {
+    "id": "09f9664c-de67-4460-aa94-4deeaa565f5a",
+    "detail": "Document frontend project for the production environment",
+    "completed": false,
+    "created": "2025-11-05T15:50:02.542Z"
+  },
+  {
+    "id": "70a87f87-aa33-45bd-8fa9-dc6b43ef7058",
+    "detail": "Debug REST API with full documentation",
+    "completed": false,
+    "created": "2025-11-05T15:50:02.542Z"
+  },
+  {
+    "id": "98bbeac9-070b-4b49-9b26-ebe820a56155",
+    "detail": "Refactor landing page using the new design system",
+    "completed": true,
+    "created": "2025-11-04T15:50:02.542Z"
+  },
+  {
+    "id": "23b6d009-93fe-4162-87de-4f5e5ee00fd4",
+    "detail": "Review rate limiter with full documentation",
+    "completed": false,
+    "created": "2025-11-04T15:50:02.542Z"
+  },
+  {
+    "id": "bd018824-213a-42c6-90a2-7237fe88256b",
+    "detail": "Deploy frontend project with dark mode support",
+    "completed": false,
+    "created": "2025-11-03T15:50:02.542Z"
+  },
+  {
+    "id": "3a212a0c-9af4-4a04-97df-38204514e719",
+    "detail": "Deploy file upload system and write unit tests",
+    "completed": true,
+    "created": "2025-11-02T15:50:02.542Z"
+  },
+  {
+    "id": "e7d97b80-7942-4e0d-b942-1159376f8cc8",
+    "detail": "Optimize logging system before the sprint review",
+    "completed": true,
+    "created": "2025-11-02T15:50:02.542Z"
+  },
+  {
+    "id": "f443ead1-5d59-4f5a-ae53-8855615c2e67",
+    "detail": "Automate notification service with proper error handling",
+    "completed": true,
+    "created": "2025-11-01T15:50:02.542Z"
+  },
+  {
+    "id": "cedafccc-58d2-4961-a1b7-91422593de5b",
+    "detail": "Optimize admin panel using React Server Components",
+    "completed": true,
+    "created": "2025-10-31T15:50:02.542Z"
+  },
+  {
+    "id": "e603e848-1ecc-4fae-a945-752c30763c2b",
+    "detail": "Setup GraphQL endpoint with real-time sync",
+    "completed": false,
+    "created": "2025-10-31T15:50:02.542Z"
+  },
+  {
+    "id": "4142a972-c35a-4071-a5ff-0ad53e3b09ac",
+    "detail": "Test payment system using the new design system",
+    "completed": false,
+    "created": "2025-10-31T15:50:02.542Z"
+  },
+  {
+    "id": "86b84c76-0ec3-47e0-921b-b21d4137390d",
+    "detail": "Setup logging system and write unit tests",
+    "completed": true,
+    "created": "2025-10-30T15:50:02.542Z"
+  },
+  {
+    "id": "c19c02bd-240d-42aa-9552-b6b96382bb99",
+    "detail": "Review database schema with dark mode support",
+    "completed": true,
+    "created": "2025-10-29T15:50:02.542Z"
+  },
+  {
+    "id": "709b84cf-f300-4ef0-95d2-70fc4858d632",
+    "detail": "Document CI/CD pipeline with full documentation",
+    "completed": true,
+    "created": "2025-10-29T15:50:02.542Z"
+  },
+  {
+    "id": "5df26d27-e29f-4cee-9438-75e31f8614e8",
+    "detail": "Document authentication flow with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-10-29T15:50:02.542Z"
+  },
+  {
+    "id": "304f7adb-46d3-4e0b-8a67-502b9a92bde1",
+    "detail": "Deploy file upload system using server-side rendering",
+    "completed": true,
+    "created": "2025-10-29T15:50:02.542Z"
+  },
+  {
+    "id": "f6cb96de-5847-45e8-86ef-f4e50ec998fc",
+    "detail": "Refactor REST API across all browsers",
+    "completed": true,
+    "created": "2025-10-28T15:50:02.542Z"
+  },
+  {
+    "id": "16c33512-34cc-43f3-a91e-7f9d351f1b07",
+    "detail": "Setup kubernetes cluster and write unit tests",
+    "completed": true,
+    "created": "2025-10-28T15:50:02.542Z"
+  },
+  {
+    "id": "8f56b55f-b36f-4cfb-8042-5f59f7eb6169",
+    "detail": "Debug rate limiter using the existing API",
+    "completed": false,
+    "created": "2025-10-28T15:50:02.542Z"
+  },
+  {
+    "id": "f9607bd9-4c4c-44c7-955c-f8862a12a0a8",
+    "detail": "Review database schema for mobile responsiveness",
+    "completed": false,
+    "created": "2025-10-28T15:50:02.542Z"
+  },
+  {
+    "id": "2b25ed8d-af5f-43a4-9c12-7ef35ec37971",
+    "detail": "Test kubernetes cluster and write unit tests",
+    "completed": true,
+    "created": "2025-10-28T15:50:02.542Z"
+  },
+  {
+    "id": "442ea645-1cb8-4a46-8c47-08c499ba7e18",
+    "detail": "Review notification service for the beta release",
+    "completed": false,
+    "created": "2025-10-27T15:50:02.542Z"
+  },
+  {
+    "id": "6dcbf8c2-6e9d-4345-9012-6f0190702490",
+    "detail": "Implement search functionality using the existing API",
+    "completed": false,
+    "created": "2025-10-27T15:50:02.542Z"
+  },
+  {
+    "id": "2d601b55-4ec9-4838-bab0-8c8315a83d10",
+    "detail": "Document file upload system for mobile responsiveness",
+    "completed": true,
+    "created": "2025-10-27T15:50:02.542Z"
+  },
+  {
+    "id": "20cca7f2-46a9-48ff-9ddd-0d48470529da",
+    "detail": "Setup email template with real-time sync",
+    "completed": false,
+    "created": "2025-10-26T15:50:02.542Z"
+  },
+  {
+    "id": "84d7cd6c-e3a8-4e9f-8134-631296c70643",
+    "detail": "Debug authentication flow before the sprint review",
+    "completed": false,
+    "created": "2025-10-26T15:50:02.542Z"
+  },
+  {
+    "id": "506e7143-807f-4c87-b73d-274e9d941304",
+    "detail": "Automate docker container across all browsers",
+    "completed": false,
+    "created": "2025-10-25T15:50:02.542Z"
+  },
+  {
+    "id": "809f3cc1-5902-4c13-b18b-f2e37fa6fd2d",
+    "detail": "Design admin panel with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-10-25T15:50:02.542Z"
+  },
+  {
+    "id": "510f630e-5156-442f-ac03-73b469e68fb6",
+    "detail": "Optimize CI/CD pipeline with dark mode support",
+    "completed": false,
+    "created": "2025-10-24T15:50:02.542Z"
+  },
+  {
+    "id": "fec24a49-1665-40f6-9947-42648d82c327",
+    "detail": "Setup search functionality with performance monitoring",
+    "completed": true,
+    "created": "2025-10-24T15:50:02.542Z"
+  },
+  {
+    "id": "74747cb5-688d-421f-b509-bf2159f07b7b",
+    "detail": "Document CI/CD pipeline using the new design system",
+    "completed": false,
+    "created": "2025-10-24T15:50:02.542Z"
+  },
+  {
+    "id": "34df7658-008e-4ff5-acbe-19247c4c4762",
+    "detail": "Integrate integration tests with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-10-23T15:50:02.542Z"
+  },
+  {
+    "id": "ec91f3eb-2c48-4db5-991e-c19764814a14",
+    "detail": "Document analytics dashboard with TypeScript and Tailwind CSS",
+    "completed": true,
+    "created": "2025-10-23T15:50:02.542Z"
+  },
+  {
+    "id": "799ae93d-c999-4503-beaf-8007f9d0f50c",
+    "detail": "Implement payment system with performance monitoring",
+    "completed": false,
+    "created": "2025-10-22T15:50:02.542Z"
+  },
+  {
+    "id": "4bd89bfb-332f-48b0-81f7-afd849677537",
+    "detail": "Integrate integration tests across all browsers",
+    "completed": true,
+    "created": "2025-10-22T15:50:02.542Z"
+  },
+  {
+    "id": "83536d7f-bf90-471a-9275-ce1c036d6006",
+    "detail": "Test landing page across all browsers",
+    "completed": false,
+    "created": "2025-10-21T15:50:02.542Z"
+  },
+  {
+    "id": "1dfa64b9-ff5d-4da3-b3ce-51b94f240803",
+    "detail": "Design analytics dashboard for the production environment",
+    "completed": true,
+    "created": "2025-10-20T15:50:02.542Z"
+  },
+  {
+    "id": "ae0255d8-1ddd-4d05-89e0-e58027531ae5",
+    "detail": "Implement CI/CD pipeline for mobile responsiveness",
+    "completed": false,
+    "created": "2025-10-20T15:50:02.542Z"
+  },
+  {
+    "id": "be26c9fe-f756-40cb-b9fd-a2fa02e376f5",
+    "detail": "Migrate analytics dashboard with proper error handling",
+    "completed": true,
+    "created": "2025-10-20T15:50:02.542Z"
+  },
+  {
+    "id": "699906ed-d445-4e95-938b-9d60cc4db4d9",
+    "detail": "Refactor search functionality using React Server Components",
+    "completed": false,
+    "created": "2025-10-20T15:50:02.542Z"
+  },
+  {
+    "id": "a2fe4ea4-0fc6-4cd2-b140-423a89da5f49",
+    "detail": "Debug REST API with performance monitoring",
+    "completed": false,
+    "created": "2025-10-19T15:50:02.542Z"
+  },
+  {
+    "id": "f1b9bb1e-e63e-45ba-9437-298f6bb6f692",
+    "detail": "Setup websocket server with full documentation",
+    "completed": false,
+    "created": "2025-10-19T15:50:02.542Z"
+  },
+  {
+    "id": "f4604923-11ae-41f9-9e47-aebbda96ea3c",
+    "detail": "Implement kubernetes cluster with real-time sync",
+    "completed": false,
+    "created": "2025-10-18T15:50:02.542Z"
+  },
+  {
+    "id": "73d743fa-0827-493f-ae90-0860f5b95ba4",
+    "detail": "Optimize unit tests and write unit tests",
+    "completed": true,
+    "created": "2025-10-17T15:50:02.542Z"
+  },
+  {
+    "id": "210fdd4e-480b-410d-8449-b118b5b52bec",
+    "detail": "Test user dashboard with full documentation",
+    "completed": false,
+    "created": "2025-10-17T15:50:02.542Z"
+  },
+  {
+    "id": "200fa723-7139-4959-a755-c0f3ccba64b7",
+    "detail": "Optimize payment system with accessibility support",
+    "completed": true,
+    "created": "2025-10-17T15:50:02.542Z"
+  },
+  {
+    "id": "aa021292-42aa-4d3b-bf73-aec9085bf278",
+    "detail": "Implement angularjs app with optimistic updates",
+    "completed": false,
+    "created": "2025-10-16T15:50:02.542Z"
+  },
+  {
+    "id": "8de9c535-d365-47c5-bf43-02580574a285",
+    "detail": "Review docker container with accessibility support",
+    "completed": false,
+    "created": "2025-10-16T15:50:02.542Z"
+  },
+  {
+    "id": "61865fb0-2b0a-477b-9320-b06d84aeffe1",
+    "detail": "Review load balancer config across all browsers",
+    "completed": false,
+    "created": "2025-10-16T15:50:02.542Z"
+  },
+  {
+    "id": "e4a3d977-d9b9-4334-804a-a9682cdbbc22",
+    "detail": "Refactor database schema using server-side rendering",
+    "completed": false,
+    "created": "2025-10-15T15:50:02.542Z"
+  },
+  {
+    "id": "b759018d-e290-4b35-b467-57c028a0842e",
+    "detail": "Debug kubernetes cluster with full documentation",
+    "completed": false,
+    "created": "2025-10-15T15:50:02.542Z"
+  },
+  {
+    "id": "3fa150da-4227-4016-a691-69bb89be58e4",
+    "detail": "Build microservice with dark mode support",
+    "completed": false,
+    "created": "2025-10-15T15:50:02.542Z"
+  },
+  {
+    "id": "43972988-48a5-4961-922f-cb08e6cd857e",
+    "detail": "Debug landing page for the beta release",
+    "completed": false,
+    "created": "2025-10-14T15:50:02.542Z"
+  },
+  {
+    "id": "d6438d5d-0d61-4f22-8fd9-6c23a0d44783",
+    "detail": "Setup unit tests for mobile responsiveness",
+    "completed": false,
+    "created": "2025-10-14T15:50:02.542Z"
+  },
+  {
+    "id": "c81e67bb-606e-4f72-8d44-e4b8e769518a",
+    "detail": "Debug REST API for the beta release",
+    "completed": false,
+    "created": "2025-10-14T15:50:02.542Z"
+  },
+  {
+    "id": "07e96414-56df-4be9-8221-eb3c817287ab",
+    "detail": "Optimize integration tests with real-time sync",
+    "completed": true,
+    "created": "2025-10-14T15:50:02.542Z"
+  },
+  {
+    "id": "2fd39fc9-9240-49e9-a0aa-9a9739c67a4f",
+    "detail": "Debug email template and write unit tests",
+    "completed": false,
+    "created": "2025-10-13T15:50:02.542Z"
+  },
+  {
+    "id": "4a75486e-9494-4feb-95b2-70c2a36bbb0b",
+    "detail": "Build unit tests for the production environment",
+    "completed": false,
+    "created": "2025-10-13T15:50:02.542Z"
+  },
+  {
+    "id": "bd1b8e68-ec20-4229-afbe-1da7336c151a",
+    "detail": "Review logging system and add proper logging",
+    "completed": false,
+    "created": "2025-10-12T15:50:02.542Z"
+  },
+  {
+    "id": "d9cbcd94-bd0e-422c-a235-bd1b8363695c",
+    "detail": "Integrate mobile app before the sprint review",
+    "completed": false,
+    "created": "2025-10-12T15:50:02.542Z"
+  },
+  {
+    "id": "3aba2d0e-cf7b-4f08-a802-9e308bec3b39",
+    "detail": "Debug database schema using React Server Components",
+    "completed": false,
+    "created": "2025-10-12T15:50:02.542Z"
+  },
+  {
+    "id": "3ebb707b-0528-4690-a1b5-4baa289078c4",
+    "detail": "Integrate notification service before the sprint review",
+    "completed": false,
+    "created": "2025-10-11T15:50:02.542Z"
+  },
+  {
+    "id": "015f6e11-9028-4275-b8ba-3ccc8917038c",
+    "detail": "Review websocket server with full documentation",
+    "completed": false,
+    "created": "2025-10-11T15:50:02.542Z"
+  },
+  {
+    "id": "474fb2bc-e215-45d9-b24b-4e978e98be05",
+    "detail": "Design kubernetes cluster across all browsers",
+    "completed": false,
+    "created": "2025-10-10T15:50:02.542Z"
+  },
+  {
+    "id": "a1cd66fc-6694-4662-8b36-deb59e20f035",
+    "detail": "Automate analytics dashboard with optimistic updates",
+    "completed": false,
+    "created": "2025-10-09T15:50:02.542Z"
+  },
+  {
+    "id": "b5e8883f-c2ec-4983-8a39-2706673d6a23",
+    "detail": "Optimize docker container before the sprint review",
+    "completed": true,
+    "created": "2025-10-09T15:50:02.542Z"
+  },
+  {
+    "id": "255ed93c-7853-4b9b-bfe8-62512b6ff9fe",
+    "detail": "Setup email template across all browsers",
+    "completed": true,
+    "created": "2025-10-09T15:50:02.542Z"
+  },
+  {
+    "id": "86645cbf-ed3a-43f8-bfdc-54e4767de876",
+    "detail": "Deploy analytics dashboard before the sprint review",
+    "completed": true,
+    "created": "2025-10-08T15:50:02.542Z"
+  },
+  {
+    "id": "57732f83-3ada-4433-aeb4-39035bebe6a3",
+    "detail": "Migrate database schema with accessibility support",
+    "completed": true,
+    "created": "2025-10-08T15:50:02.542Z"
+  },
+  {
+    "id": "c2607c94-3afe-4cd1-8dcf-1beefd98a459",
+    "detail": "Document frontend project with proper error handling",
+    "completed": false,
+    "created": "2025-10-08T15:50:02.542Z"
+  },
+  {
+    "id": "4f9d9186-4664-43c1-8d52-85185b3e1f93",
+    "detail": "Review file upload system using server-side rendering",
+    "completed": true,
+    "created": "2025-10-08T15:50:02.542Z"
+  },
+  {
+    "id": "395633f2-f172-463e-b421-c3302a33637d",
+    "detail": "Create load balancer config and add integration tests",
+    "completed": false,
+    "created": "2025-10-07T15:50:02.542Z"
+  },
+  {
+    "id": "2ba84f81-efb8-4916-bc30-dea4d2294a5c",
+    "detail": "Implement admin panel for mobile responsiveness",
+    "completed": false,
+    "created": "2025-10-07T15:50:02.542Z"
+  },
+  {
+    "id": "f938a744-69de-4639-a8d3-66ad0238dd46",
+    "detail": "Design user dashboard for the beta release",
+    "completed": false,
+    "created": "2025-10-06T15:50:02.542Z"
+  },
+  {
+    "id": "7e1d9104-a39d-406e-83c6-d90a0914c9b8",
+    "detail": "Build svelte app with proper error handling",
+    "completed": true,
+    "created": "2025-10-06T15:50:02.542Z"
+  },
+  {
+    "id": "756cec56-5d4a-467f-8178-bae682a06bd9",
+    "detail": "Review notification service using the new design system",
+    "completed": true,
+    "created": "2025-10-05T15:50:02.542Z"
+  },
+  {
+    "id": "cf40399e-11dd-4091-88d0-245d4d079fb3",
+    "detail": "Deploy unit tests for the production environment",
+    "completed": true,
+    "created": "2025-10-05T15:50:02.542Z"
+  },
+  {
+    "id": "97fddb4e-d631-4765-9d37-063d30baa24a",
+    "detail": "Document search functionality across all browsers",
+    "completed": false,
+    "created": "2025-10-04T15:50:02.542Z"
+  },
+  {
+    "id": "8ba1b192-6f26-4109-bc39-2db7d08b4e5b",
+    "detail": "Design mobile app with dark mode support",
+    "completed": false,
+    "created": "2025-10-03T15:50:02.542Z"
+  },
+  {
+    "id": "16bcd33d-fd5e-4d5d-8ae7-c0c7255eb4b8",
+    "detail": "Build landing page using the existing API",
+    "completed": false,
+    "created": "2025-10-03T15:50:02.542Z"
+  },
+  {
+    "id": "08406cd8-c702-4c4d-8f87-493a54ac432e",
+    "detail": "Implement unit tests with real-time sync",
+    "completed": false,
+    "created": "2025-10-02T15:50:02.542Z"
+  },
+  {
+    "id": "defac82f-adc4-4f74-86e3-1ab5b5b71b6a",
+    "detail": "Design REST API using the existing API",
+    "completed": false,
+    "created": "2025-10-01T15:50:02.542Z"
+  },
+  {
+    "id": "5b4dfeec-63e4-4bfe-b9fd-c4819b37f12e",
+    "detail": "Implement mobile app for mobile responsiveness",
+    "completed": false,
+    "created": "2025-10-01T15:50:02.542Z"
+  },
+  {
+    "id": "dba241de-b6a3-4f62-b27b-ae409cc649ed",
+    "detail": "Debug load balancer config with optimistic updates",
+    "completed": false,
+    "created": "2025-09-30T15:50:02.542Z"
+  },
+  {
+    "id": "3981d99e-64cb-437e-bf1a-f0ebc3c2df30",
+    "detail": "Document landing page for the production environment",
+    "completed": false,
+    "created": "2025-09-30T15:50:02.542Z"
+  },
+  {
+    "id": "b5d3e1f6-9c02-4941-87a9-475671865615",
+    "detail": "Setup websocket server with dark mode support",
+    "completed": false,
+    "created": "2025-09-30T15:50:02.542Z"
+  },
+  {
+    "id": "192c391d-77de-4f01-bc94-c1d6bf88078d",
+    "detail": "Design logging system with optimistic updates",
+    "completed": false,
+    "created": "2025-09-30T15:50:02.542Z"
+  },
+  {
+    "id": "b1f102c8-b358-4582-b39b-7bbb12f8671e",
+    "detail": "Setup nextjs app and add integration tests",
+    "completed": false,
+    "created": "2025-09-29T15:50:02.542Z"
+  },
+  {
+    "id": "0a82cb3d-e75a-4235-9d5e-e8c6c1570741",
+    "detail": "Test logging system for the beta release",
+    "completed": false,
+    "created": "2025-09-29T15:50:02.542Z"
+  },
+  {
+    "id": "a5b58efc-bbd0-4e53-9328-f5fbd77263a9",
+    "detail": "Setup microservice using server-side rendering",
+    "completed": false,
+    "created": "2025-09-27T15:50:02.542Z"
+  },
+  {
+    "id": "38477063-3a82-42ea-9115-72aed37d620e",
+    "detail": "Integrate websocket server with proper error handling",
+    "completed": false,
+    "created": "2025-09-27T15:50:02.542Z"
+  },
+  {
+    "id": "b7ec5999-1714-46a4-ba5e-d7a95f6e2568",
+    "detail": "Document file upload system for the production environment",
+    "completed": false,
+    "created": "2025-09-27T15:50:02.542Z"
+  },
+  {
+    "id": "61582877-ba72-4629-bbfd-696268a92f97",
+    "detail": "Implement svelte app with dark mode support",
+    "completed": true,
+    "created": "2025-09-26T15:50:02.542Z"
+  },
+  {
+    "id": "9f8b4fb8-b574-42e7-a4b0-ced7fb7602b0",
+    "detail": "Create frontend project across all browsers",
+    "completed": false,
+    "created": "2025-09-26T15:50:02.542Z"
+  },
+  {
+    "id": "06f26fe3-9ae3-45a3-bf44-e1f628256f69",
+    "detail": "Implement cache layer across all browsers",
+    "completed": true,
+    "created": "2025-09-26T15:50:02.542Z"
+  },
+  {
+    "id": "3699333f-5439-47ed-8b43-279ebb366406",
+    "detail": "Create docker container with dark mode support",
+    "completed": true,
+    "created": "2025-09-26T15:50:02.542Z"
+  },
+  {
+    "id": "f1c586aa-b684-4077-9187-3ba38c49c499",
+    "detail": "Deploy integration tests with optimistic updates",
+    "completed": false,
+    "created": "2025-09-25T15:50:02.542Z"
+  },
+  {
+    "id": "f9ad75dd-98cc-4939-a2d9-31de77501bfa",
+    "detail": "Refactor admin panel using the existing API",
+    "completed": true,
+    "created": "2025-09-25T15:50:02.542Z"
+  },
+  {
+    "id": "e6db21ec-6100-47d8-ad98-8e5b6a836320",
+    "detail": "Integrate rate limiter with optimistic updates",
+    "completed": true,
+    "created": "2025-09-25T15:50:02.542Z"
+  },
+  {
+    "id": "12e8ca75-29ea-4883-8b8c-9799eb6f7766",
+    "detail": "Build search functionality for the production environment",
+    "completed": false,
+    "created": "2025-09-24T15:50:02.542Z"
+  },
+  {
+    "id": "ae4d71f6-70d3-4bdd-934e-b3cd5ea331b2",
+    "detail": "Document REST API across all browsers",
+    "completed": false,
+    "created": "2025-09-24T15:50:02.542Z"
+  },
+  {
+    "id": "46fac26e-a5f6-4aa9-86d4-bdcb9576177c",
+    "detail": "Migrate unit tests for the beta release",
+    "completed": false,
+    "created": "2025-09-24T15:50:02.542Z"
+  },
+  {
+    "id": "41740b74-7c42-498f-9f83-b9a9a863f9c9",
+    "detail": "Refactor database schema using the existing API",
+    "completed": false,
+    "created": "2025-09-24T15:50:02.542Z"
+  },
+  {
+    "id": "15682464-c70c-4b62-a83b-c34e833a7c3f",
+    "detail": "Create svelte app for the production environment",
+    "completed": true,
+    "created": "2025-09-23T15:50:02.542Z"
+  },
+  {
+    "id": "2d605171-75c5-4588-a9ae-dd68b5a9e0bb",
+    "detail": "Create file upload system using the existing API",
+    "completed": false,
+    "created": "2025-09-22T15:50:02.542Z"
+  },
+  {
+    "id": "6154e27c-ba05-41e2-a180-a6ad4b818ceb",
+    "detail": "Test microservice and add integration tests",
+    "completed": true,
+    "created": "2025-09-21T15:50:02.542Z"
+  },
+  {
+    "id": "c25d2b72-9107-4e34-bb4d-2178f7cb9c0b",
+    "detail": "Document microservice using the existing API",
+    "completed": false,
+    "created": "2025-09-21T15:50:02.542Z"
+  },
+  {
+    "id": "d8021fb7-4785-4c95-9ef9-2fec6d6dd164",
+    "detail": "Debug mobile app across all browsers",
+    "completed": false,
+    "created": "2025-09-21T15:50:02.542Z"
+  },
+  {
+    "id": "169d7502-7a3e-49a1-945c-9d2b10969029",
+    "detail": "Create angularjs app with dark mode support",
+    "completed": false,
+    "created": "2025-09-21T15:50:02.542Z"
+  },
+  {
+    "id": "d7b4deb8-aef2-4b38-8845-0abe7959b953",
+    "detail": "Test file upload system with optimistic updates",
+    "completed": false,
+    "created": "2025-09-21T15:50:02.542Z"
+  },
+  {
+    "id": "d3aa47ba-542d-41fe-a09f-41e2eda2e53e",
+    "detail": "Integrate authentication flow with proper error handling",
+    "completed": false,
+    "created": "2025-09-21T15:50:02.542Z"
+  },
+  {
+    "id": "42fabecd-4f0f-4275-a30e-edd7e6a712f9",
+    "detail": "Design search functionality with optimistic updates",
+    "completed": false,
+    "created": "2025-09-20T15:50:02.542Z"
+  },
+  {
+    "id": "bac1929c-78b8-49e3-85a2-d3d16b895747",
+    "detail": "Automate logging system for the beta release",
+    "completed": true,
+    "created": "2025-09-20T15:50:02.542Z"
+  },
+  {
+    "id": "fadd1783-0459-424f-bedd-27cce3a9b691",
+    "detail": "Migrate admin panel with dark mode support",
+    "completed": false,
+    "created": "2025-09-19T15:50:02.542Z"
+  },
+  {
+    "id": "0e2eac80-7324-422f-a3c2-7ac16104f383",
+    "detail": "Test notification service with accessibility support",
+    "completed": false,
+    "created": "2025-09-19T15:50:02.542Z"
+  },
+  {
+    "id": "4e125d4b-bdfd-425b-b2e4-ea5215633b54",
+    "detail": "Create kubernetes cluster with performance monitoring",
+    "completed": false,
+    "created": "2025-09-18T15:50:02.542Z"
+  },
+  {
+    "id": "931d7164-ad35-4980-abbf-1e149156425c",
+    "detail": "Automate frontend project and add integration tests",
+    "completed": false,
+    "created": "2025-09-18T15:50:02.542Z"
+  },
+  {
+    "id": "ad40bed2-df8b-494f-95f8-f9cf9b8eb7aa",
+    "detail": "Deploy unit tests with real-time sync",
+    "completed": false,
+    "created": "2025-09-17T15:50:02.542Z"
+  },
+  {
+    "id": "381f81b4-2bb5-48d2-a86c-946985e04e61",
+    "detail": "Debug authentication flow using server-side rendering",
+    "completed": false,
+    "created": "2025-09-17T15:50:02.542Z"
+  },
+  {
+    "id": "cd1d47cf-f744-416b-bfd0-3380d00fbc2e",
+    "detail": "Migrate error tracking with real-time sync",
+    "completed": false,
+    "created": "2025-09-16T15:50:02.542Z"
+  },
+  {
+    "id": "311a6b94-363e-4549-9b9d-81b02ae6ea10",
+    "detail": "Setup load balancer config with dark mode support",
+    "completed": false,
+    "created": "2025-09-16T15:50:02.542Z"
+  },
+  {
+    "id": "c5b5193e-1160-4e29-a840-c59d0eabb2a2",
+    "detail": "Migrate load balancer config with real-time sync",
+    "completed": false,
+    "created": "2025-09-16T15:50:02.542Z"
+  },
+  {
+    "id": "91d0a94c-c8ae-4085-b946-0e3a372799d7",
+    "detail": "Debug GraphQL endpoint with proper error handling",
+    "completed": true,
+    "created": "2025-09-15T15:50:02.542Z"
+  },
+  {
+    "id": "13432f31-ac51-43f1-bab2-0bdce763a522",
+    "detail": "Optimize file upload system with performance monitoring",
+    "completed": true,
+    "created": "2025-09-15T15:50:02.542Z"
+  },
+  {
+    "id": "4019977f-642d-4735-8ee1-ff10f1ccc954",
+    "detail": "Design search functionality with real-time sync",
+    "completed": false,
+    "created": "2025-09-15T15:50:02.542Z"
+  },
+  {
+    "id": "ebd0d9fa-78fb-4565-858b-2b01b7c51e5a",
+    "detail": "Test svelte app for mobile responsiveness",
+    "completed": false,
+    "created": "2025-09-13T15:50:02.542Z"
+  },
+  {
+    "id": "5a298182-94e2-4645-8ca0-f015c27e77d2",
+    "detail": "Integrate user dashboard for mobile responsiveness",
+    "completed": false,
+    "created": "2025-09-13T15:50:02.542Z"
+  },
+  {
+    "id": "68f1a345-9ab2-4482-b3fa-8dca4cd0a083",
+    "detail": "Integrate payment system with performance monitoring",
+    "completed": false,
+    "created": "2025-09-12T15:50:02.542Z"
+  },
+  {
+    "id": "903e3c19-57c6-4f73-80e6-f5b28a884731",
+    "detail": "Document file upload system and add integration tests",
+    "completed": false,
+    "created": "2025-09-10T15:50:02.542Z"
+  },
+  {
+    "id": "15fcb8ab-c9a2-4169-bbd5-5f74f3037b4b",
+    "detail": "Deploy websocket server using the new design system",
+    "completed": false,
+    "created": "2025-09-10T15:50:02.542Z"
+  },
+  {
+    "id": "c22db1b3-74a4-4996-8188-5ff154682fd7",
+    "detail": "Deploy payment system with proper error handling",
+    "completed": false,
+    "created": "2025-09-10T15:50:02.542Z"
+  },
+  {
+    "id": "e0316df5-c35b-493e-bce2-d9bd17a46456",
+    "detail": "Review analytics dashboard before the sprint review",
+    "completed": false,
+    "created": "2025-09-10T15:50:02.542Z"
+  },
+  {
+    "id": "b3f08b94-2c31-412f-a355-4ef8a44beb1b",
+    "detail": "Test notification service with accessibility support",
+    "completed": true,
+    "created": "2025-09-09T15:50:02.542Z"
+  },
+  {
+    "id": "66d86025-df16-4a53-acc6-499218480d29",
+    "detail": "Build kubernetes cluster with accessibility support",
+    "completed": false,
+    "created": "2025-09-09T15:50:02.542Z"
+  },
+  {
+    "id": "e95809f9-3c3e-4cf3-9917-b8daabe6bb8b",
+    "detail": "Implement websocket server and add proper logging",
+    "completed": true,
+    "created": "2025-09-09T15:50:02.542Z"
+  },
+  {
+    "id": "d41f49f8-617d-4c8a-996f-5704a3faa16d",
+    "detail": "Integrate cache layer with performance monitoring",
+    "completed": false,
+    "created": "2025-09-08T15:50:02.542Z"
+  },
+  {
+    "id": "519d04c9-c1a3-4775-bab0-80368ab7a1ad",
+    "detail": "Design angularjs app for the beta release",
+    "completed": false,
+    "created": "2025-09-08T15:50:02.542Z"
+  },
+  {
+    "id": "bd24e120-d725-4f9c-967a-aa9a28ea6119",
+    "detail": "Automate mobile app before the sprint review",
+    "completed": false,
+    "created": "2025-09-08T15:50:02.542Z"
+  },
+  {
+    "id": "c635422e-e662-4b36-a706-7f316057ae99",
+    "detail": "Document frontend project with dark mode support",
+    "completed": true,
+    "created": "2025-09-07T15:50:02.542Z"
+  },
+  {
+    "id": "bd07448c-5794-4ff3-b46c-2477d482721d",
+    "detail": "Create analytics dashboard with proper error handling",
+    "completed": false,
+    "created": "2025-09-07T15:50:02.542Z"
+  },
+  {
+    "id": "42ba12a8-cec6-4339-a12e-7630eec56a2c",
+    "detail": "Design frontend project and write unit tests",
+    "completed": false,
+    "created": "2025-09-06T15:50:02.542Z"
+  },
+  {
+    "id": "e711db83-7824-49dd-9bc5-20d188dc9700",
+    "detail": "Migrate websocket server and add integration tests",
+    "completed": false,
+    "created": "2025-09-06T15:50:02.542Z"
+  },
+  {
+    "id": "3a1f961c-208c-4332-bd88-174e1d4c86a9",
+    "detail": "Build file upload system and add proper logging",
+    "completed": true,
+    "created": "2025-09-06T15:50:02.542Z"
+  },
+  {
+    "id": "e92a508c-9c9b-45eb-897a-64bac53b5d9d",
+    "detail": "Test microservice using the existing API",
+    "completed": false,
+    "created": "2025-09-06T15:50:02.542Z"
+  },
+  {
+    "id": "c865e6ef-bc0c-415c-8fac-db91426de834",
+    "detail": "Integrate analytics dashboard using the existing API",
+    "completed": false,
+    "created": "2025-09-06T15:50:02.542Z"
+  },
+  {
+    "id": "8b5ec2c8-66f2-41e8-bd8a-7308fe5cccb1",
+    "detail": "Deploy analytics dashboard with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-09-06T15:50:02.542Z"
+  },
+  {
+    "id": "510e7713-1c65-4d53-9a53-496d9647a13c",
+    "detail": "Deploy docker container with dark mode support",
+    "completed": true,
+    "created": "2025-09-06T15:50:02.542Z"
+  },
+  {
+    "id": "35172fce-4306-46bc-acf9-4b49c0efbf35",
+    "detail": "Implement kubernetes cluster and add proper logging",
+    "completed": true,
+    "created": "2025-09-06T15:50:02.542Z"
+  },
+  {
+    "id": "e8e366c5-e305-4124-8b31-250fd20bfac6",
+    "detail": "Refactor error tracking with proper error handling",
+    "completed": false,
+    "created": "2025-09-05T15:50:02.542Z"
+  },
+  {
+    "id": "3c541575-afcf-4270-a10e-5626da13130e",
+    "detail": "Create email template before the sprint review",
+    "completed": true,
+    "created": "2025-09-05T15:50:02.542Z"
+  },
+  {
+    "id": "ddaf6b23-1bf4-40a7-9257-d4a8c4e8f4fd",
+    "detail": "Build docker container using React Server Components",
+    "completed": false,
+    "created": "2025-09-05T15:50:02.542Z"
+  },
+  {
+    "id": "3761272a-7a19-47b2-a56f-1e05dd4168dc",
+    "detail": "Review notification service with dark mode support",
+    "completed": false,
+    "created": "2025-09-05T15:50:02.542Z"
+  },
+  {
+    "id": "4c1c4141-4012-4e53-93f5-68b95ef84810",
+    "detail": "Design landing page before the sprint review",
+    "completed": false,
+    "created": "2025-09-05T15:50:02.542Z"
+  },
+  {
+    "id": "73e74a88-8b18-43d8-ade0-f0ce0a2ea54d",
+    "detail": "Document mobile app using the existing API",
+    "completed": true,
+    "created": "2025-09-05T15:50:02.542Z"
+  },
+  {
+    "id": "6d519ea9-d099-4c80-9149-92d5c2ce825b",
+    "detail": "Refactor search functionality with performance monitoring",
+    "completed": false,
+    "created": "2025-09-05T15:50:02.542Z"
+  },
+  {
+    "id": "e1ede65c-b22e-4af4-a447-e5eb1d6fab7f",
+    "detail": "Implement REST API with real-time sync",
+    "completed": false,
+    "created": "2025-09-04T15:50:02.542Z"
+  },
+  {
+    "id": "bced06ac-2c7c-4238-9e82-35f839a86ab3",
+    "detail": "Migrate kubernetes cluster with performance monitoring",
+    "completed": false,
+    "created": "2025-09-04T15:50:02.542Z"
+  },
+  {
+    "id": "38d04e1b-bc53-4eee-89d9-cf9393c210cc",
+    "detail": "Design angularjs app with accessibility support",
+    "completed": false,
+    "created": "2025-09-04T15:50:02.542Z"
+  },
+  {
+    "id": "6bc98110-6ab9-4f82-b1fe-84a5f1cfb403",
+    "detail": "Debug REST API for mobile responsiveness",
+    "completed": false,
+    "created": "2025-09-04T15:50:02.542Z"
+  },
+  {
+    "id": "9d1ef2f0-bf5f-4418-9bab-946137f62330",
+    "detail": "Debug notification service with optimistic updates",
+    "completed": true,
+    "created": "2025-09-03T15:50:02.542Z"
+  },
+  {
+    "id": "cd33e9c2-b1df-47c9-a0b7-fe73ae3ea8d5",
+    "detail": "Optimize notification service and write unit tests",
+    "completed": false,
+    "created": "2025-09-02T15:50:02.542Z"
+  },
+  {
+    "id": "55b2b0dc-4f40-4023-8073-a3947b6e7f7e",
+    "detail": "Build rate limiter with real-time sync",
+    "completed": true,
+    "created": "2025-09-02T15:50:02.542Z"
+  },
+  {
+    "id": "a9ce1ff4-43d5-4a8b-8db6-fbff45d77f63",
+    "detail": "Test svelte app with dark mode support",
+    "completed": false,
+    "created": "2025-09-02T15:50:02.542Z"
+  },
+  {
+    "id": "08e2a911-0a54-4e97-b383-8e9509bbf416",
+    "detail": "Refactor payment system before the sprint review",
+    "completed": true,
+    "created": "2025-09-01T15:50:02.542Z"
+  },
+  {
+    "id": "15d6cffb-923d-479b-88ba-8ed94c3274cd",
+    "detail": "Setup user dashboard using the existing API",
+    "completed": false,
+    "created": "2025-08-31T15:50:02.542Z"
+  },
+  {
+    "id": "9e76b475-59e6-49b6-9c32-2010d38a2d52",
+    "detail": "Migrate CI/CD pipeline for the beta release",
+    "completed": false,
+    "created": "2025-08-31T15:50:02.542Z"
+  },
+  {
+    "id": "1a5a0250-258b-4209-bdde-ed7374a8a383",
+    "detail": "Build svelte app and add proper logging",
+    "completed": false,
+    "created": "2025-08-31T15:50:02.542Z"
+  },
+  {
+    "id": "43ddb0d8-b98a-43fb-bb4e-96c7842c43d4",
+    "detail": "Build database schema with dark mode support",
+    "completed": false,
+    "created": "2025-08-30T15:50:02.542Z"
+  },
+  {
+    "id": "eeaad1a4-137b-47b0-863c-9cddc3cd3116",
+    "detail": "Create database schema with full documentation",
+    "completed": false,
+    "created": "2025-08-30T15:50:02.542Z"
+  },
+  {
+    "id": "fd7ada16-6061-4722-aece-c3ddbe4ea9f4",
+    "detail": "Migrate rate limiter with proper error handling",
+    "completed": false,
+    "created": "2025-08-30T15:50:02.542Z"
+  },
+  {
+    "id": "d2f20a5a-c66d-4c28-8184-7bacbdc57dbf",
+    "detail": "Integrate docker container and add proper logging",
+    "completed": true,
+    "created": "2025-08-29T15:50:02.542Z"
+  },
+  {
+    "id": "b0ab0ec3-6603-4907-a570-f96b72d2dd29",
+    "detail": "Debug rate limiter with full documentation",
+    "completed": false,
+    "created": "2025-08-28T15:50:02.542Z"
+  },
+  {
+    "id": "49e294d8-05b7-4715-8ef7-03ac3b6c452c",
+    "detail": "Integrate payment system using the existing API",
+    "completed": false,
+    "created": "2025-08-27T15:50:02.542Z"
+  },
+  {
+    "id": "d00196ea-615f-4e9d-a8ee-5a5626a8f942",
+    "detail": "Integrate angularjs app using React Server Components",
+    "completed": false,
+    "created": "2025-08-27T15:50:02.542Z"
+  },
+  {
+    "id": "859450ef-ef79-4e24-a5fb-5e74b439a64d",
+    "detail": "Document notification service using the new design system",
+    "completed": false,
+    "created": "2025-08-27T15:50:02.542Z"
+  },
+  {
+    "id": "448e313c-53df-47e5-be1d-bc6d350343b9",
+    "detail": "Build svelte app before the sprint review",
+    "completed": true,
+    "created": "2025-08-27T15:50:02.542Z"
+  },
+  {
+    "id": "f7a0f476-9823-47fc-8eb6-e7edd434f4f5",
+    "detail": "Debug logging system and add integration tests",
+    "completed": false,
+    "created": "2025-08-26T15:50:02.542Z"
+  },
+  {
+    "id": "f88d1f33-27bb-4c68-8a26-c250f28b855a",
+    "detail": "Automate error tracking with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-08-26T15:50:02.542Z"
+  },
+  {
+    "id": "9245bdad-05ef-4e16-98e1-03f0e8fe7711",
+    "detail": "Debug admin panel with dark mode support",
+    "completed": true,
+    "created": "2025-08-26T15:50:02.542Z"
+  },
+  {
+    "id": "bd3a1378-03cc-49ce-ab1c-9043a5e9bd94",
+    "detail": "Test frontend project with optimistic updates",
+    "completed": false,
+    "created": "2025-08-26T15:50:02.542Z"
+  },
+  {
+    "id": "08ff2cbb-7f1c-41b8-8b71-d779583aeae3",
+    "detail": "Create authentication flow for the production environment",
+    "completed": false,
+    "created": "2025-08-25T15:50:02.542Z"
+  },
+  {
+    "id": "c54c6150-76f4-4cc6-948e-1fc190a3cd9b",
+    "detail": "Document unit tests with accessibility support",
+    "completed": false,
+    "created": "2025-08-24T15:50:02.542Z"
+  },
+  {
+    "id": "3672d54d-8c70-405e-b235-2008bbb137f6",
+    "detail": "Optimize websocket server with full documentation",
+    "completed": false,
+    "created": "2025-08-23T15:50:02.542Z"
+  },
+  {
+    "id": "a863a84f-fcef-4f9d-8e78-ea139d35943a",
+    "detail": "Optimize user dashboard using the existing API",
+    "completed": false,
+    "created": "2025-08-22T15:50:02.542Z"
+  },
+  {
+    "id": "1c0ae06c-4b0c-4b08-bc99-7804aa813301",
+    "detail": "Integrate database schema across all browsers",
+    "completed": false,
+    "created": "2025-08-22T15:50:02.542Z"
+  },
+  {
+    "id": "34271758-1ee7-4f40-9fc0-422e5d05efd9",
+    "detail": "Implement frontend project using server-side rendering",
+    "completed": false,
+    "created": "2025-08-22T15:50:02.542Z"
+  },
+  {
+    "id": "04ddb968-7588-4ad0-a2b0-5c68b60c2b56",
+    "detail": "Create search functionality with proper error handling",
+    "completed": false,
+    "created": "2025-08-22T15:50:02.542Z"
+  },
+  {
+    "id": "ebe78fc8-180f-496f-9d0f-8dee6429e169",
+    "detail": "Optimize database schema for the production environment",
+    "completed": false,
+    "created": "2025-08-21T15:50:02.542Z"
+  },
+  {
+    "id": "9f2fac8b-2d0a-420c-a515-900896bfb0e6",
+    "detail": "Implement microservice with dark mode support",
+    "completed": false,
+    "created": "2025-08-20T15:50:02.542Z"
+  },
+  {
+    "id": "1a370bd5-7321-4deb-a5f8-e232446b70f5",
+    "detail": "Create svelte app with performance monitoring",
+    "completed": false,
+    "created": "2025-08-20T15:50:02.542Z"
+  },
+  {
+    "id": "7123c6a2-b607-4c19-9e3f-740a0d6bb768",
+    "detail": "Optimize cache layer before the sprint review",
+    "completed": false,
+    "created": "2025-08-20T15:50:02.542Z"
+  },
+  {
+    "id": "098498d6-3aa5-4815-8556-a0b6fc478146",
+    "detail": "Integrate CI/CD pipeline across all browsers",
+    "completed": true,
+    "created": "2025-08-20T15:50:02.542Z"
+  },
+  {
+    "id": "ebd525b3-341c-45c2-ad1a-51afeacfd2b6",
+    "detail": "Review analytics dashboard with proper error handling",
+    "completed": false,
+    "created": "2025-08-19T15:50:02.542Z"
+  },
+  {
+    "id": "6d0b1735-9739-46df-b823-92965ecb5bea",
+    "detail": "Design authentication flow for the beta release",
+    "completed": false,
+    "created": "2025-08-19T15:50:02.542Z"
+  },
+  {
+    "id": "6f3f63ce-27ed-4f5e-bf89-992416364e3d",
+    "detail": "Implement microservice with TypeScript and Tailwind CSS",
+    "completed": true,
+    "created": "2025-08-19T15:50:02.542Z"
+  },
+  {
+    "id": "62476ecf-f2d0-4be3-a96a-bb1705d6a39b",
+    "detail": "Automate mobile app before the sprint review",
+    "completed": false,
+    "created": "2025-08-19T15:50:02.542Z"
+  },
+  {
+    "id": "99446248-2dd3-4524-863f-a2ae29b1e94a",
+    "detail": "Deploy kubernetes cluster using React Server Components",
+    "completed": false,
+    "created": "2025-08-18T15:50:02.542Z"
+  },
+  {
+    "id": "14360fd7-0e11-4be5-8ac1-a6ac3e5b7d9f",
+    "detail": "Optimize rate limiter using server-side rendering",
+    "completed": false,
+    "created": "2025-08-18T15:50:02.542Z"
+  },
+  {
+    "id": "91231162-5c14-4959-917a-7f65a22dcbef",
+    "detail": "Optimize load balancer config for the beta release",
+    "completed": false,
+    "created": "2025-08-18T15:50:02.542Z"
+  },
+  {
+    "id": "af44498e-ec18-4101-a4fd-79fc58774e41",
+    "detail": "Optimize cache layer using server-side rendering",
+    "completed": true,
+    "created": "2025-08-18T15:50:02.542Z"
+  },
+  {
+    "id": "b46e00a5-9144-4fca-92c7-71257653513c",
+    "detail": "Automate error tracking using the new design system",
+    "completed": true,
+    "created": "2025-08-18T15:50:02.542Z"
+  },
+  {
+    "id": "6e57ce6b-a3d8-49bd-975f-a207aa7a7d67",
+    "detail": "Test error tracking with proper error handling",
+    "completed": false,
+    "created": "2025-08-18T15:50:02.542Z"
+  },
+  {
+    "id": "8be862e7-3b71-4a93-9d08-e906f3e973b4",
+    "detail": "Automate frontend project using the new design system",
+    "completed": false,
+    "created": "2025-08-17T15:50:02.542Z"
+  },
+  {
+    "id": "f9d1ab53-0569-498c-9481-31f7a0af455b",
+    "detail": "Implement load balancer config using the existing API",
+    "completed": false,
+    "created": "2025-08-17T15:50:02.542Z"
+  },
+  {
+    "id": "958024f8-c78a-4574-9e2d-7e3ce232dc11",
+    "detail": "Implement GraphQL endpoint using the existing API",
+    "completed": false,
+    "created": "2025-08-17T15:50:02.542Z"
+  },
+  {
+    "id": "ee79678a-8e44-469e-be2a-926e27f93274",
+    "detail": "Implement frontend project for the production environment",
+    "completed": false,
+    "created": "2025-08-17T15:50:02.542Z"
+  },
+  {
+    "id": "db077545-73a4-4518-adff-226102b1c679",
+    "detail": "Review error tracking with proper error handling",
+    "completed": true,
+    "created": "2025-08-17T15:50:02.542Z"
+  },
+  {
+    "id": "303be0f5-7ba0-4045-8b77-10704cdb4289",
+    "detail": "Optimize file upload system across all browsers",
+    "completed": false,
+    "created": "2025-08-17T15:50:02.542Z"
+  },
+  {
+    "id": "3d161d7b-9ba4-43c9-b3e4-64b3f4942d96",
+    "detail": "Create database schema across all browsers",
+    "completed": true,
+    "created": "2025-08-16T15:50:02.542Z"
+  },
+  {
+    "id": "ae89b18f-326f-4f33-b299-4d549c2189c7",
+    "detail": "Automate CI/CD pipeline with optimistic updates",
+    "completed": false,
+    "created": "2025-08-16T15:50:02.542Z"
+  },
+  {
+    "id": "b13b85e9-8513-4ebc-aa97-66c7e7d504f1",
+    "detail": "Automate unit tests with full documentation",
+    "completed": false,
+    "created": "2025-08-15T15:50:02.542Z"
+  },
+  {
+    "id": "3bbd4ace-1680-4c52-8455-ef20310053e3",
+    "detail": "Deploy CI/CD pipeline and write unit tests",
+    "completed": true,
+    "created": "2025-08-15T15:50:02.542Z"
+  },
+  {
+    "id": "91b5bcae-98f6-476e-9800-3bd66efd1207",
+    "detail": "Migrate notification service with TypeScript and Tailwind CSS",
+    "completed": true,
+    "created": "2025-08-14T15:50:02.542Z"
+  },
+  {
+    "id": "a762901f-9983-4b49-892e-071e885fc572",
+    "detail": "Design user dashboard and write unit tests",
+    "completed": true,
+    "created": "2025-08-14T15:50:02.542Z"
+  },
+  {
+    "id": "463f00e5-4932-4254-9d69-fb2f08aa43e6",
+    "detail": "Document search functionality with real-time sync",
+    "completed": false,
+    "created": "2025-08-14T15:50:02.542Z"
+  },
+  {
+    "id": "dd2e235d-a1b4-45de-8a65-79cb5a1f24ca",
+    "detail": "Refactor docker container and add proper logging",
+    "completed": true,
+    "created": "2025-08-13T15:50:02.542Z"
+  },
+  {
+    "id": "b740e73c-aba8-4df5-a8bd-4c4fb91cbd71",
+    "detail": "Review nextjs app using server-side rendering",
+    "completed": false,
+    "created": "2025-08-13T15:50:02.542Z"
+  },
+  {
+    "id": "6968f547-9710-479f-b2b9-8039c278b6f3",
+    "detail": "Review user dashboard and add proper logging",
+    "completed": false,
+    "created": "2025-08-12T15:50:02.542Z"
+  },
+  {
+    "id": "b8c0fbe7-3d6e-47bb-9c12-6427787b39e2",
+    "detail": "Document logging system using the new design system",
+    "completed": false,
+    "created": "2025-08-12T15:50:02.542Z"
+  },
+  {
+    "id": "1126e91f-3f38-46d3-a3ce-8a94d8639e51",
+    "detail": "Deploy integration tests and add integration tests",
+    "completed": true,
+    "created": "2025-08-12T15:50:02.542Z"
+  },
+  {
+    "id": "a5a2069b-ee55-4195-958b-3dc594aff754",
+    "detail": "Deploy authentication flow with accessibility support",
+    "completed": false,
+    "created": "2025-08-12T15:50:02.542Z"
+  },
+  {
+    "id": "26479913-6c48-4dbd-b048-e5c2cef453c1",
+    "detail": "Deploy email template using the new design system",
+    "completed": true,
+    "created": "2025-08-11T15:50:02.542Z"
+  },
+  {
+    "id": "eb7ad1ee-4a41-47b1-b87e-7208f6139759",
+    "detail": "Test kubernetes cluster before the sprint review",
+    "completed": true,
+    "created": "2025-08-11T15:50:02.542Z"
+  },
+  {
+    "id": "5c03b543-1540-4a0d-aace-c41096fc1bfa",
+    "detail": "Design email template with real-time sync",
+    "completed": true,
+    "created": "2025-08-10T15:50:02.542Z"
+  },
+  {
+    "id": "f5f7117a-b9b1-467a-9f1f-89242ea1a738",
+    "detail": "Refactor svelte app with optimistic updates",
+    "completed": false,
+    "created": "2025-08-10T15:50:02.542Z"
+  },
+  {
+    "id": "2e7503a8-cd00-4629-8ced-0d457babcd49",
+    "detail": "Optimize logging system using React Server Components",
+    "completed": false,
+    "created": "2025-08-10T15:50:02.542Z"
+  },
+  {
+    "id": "d08b97d6-84b0-4700-9db0-a4e1c64f50ac",
+    "detail": "Refactor notification service with performance monitoring",
+    "completed": true,
+    "created": "2025-08-09T15:50:02.542Z"
+  },
+  {
+    "id": "534c6db5-e89a-454e-a95c-8800c65c5da1",
+    "detail": "Document REST API with full documentation",
+    "completed": false,
+    "created": "2025-08-09T15:50:02.542Z"
+  },
+  {
+    "id": "e68806b8-6098-4b1d-b8f3-87bdc58d0637",
+    "detail": "Debug nextjs app with optimistic updates",
+    "completed": false,
+    "created": "2025-08-09T15:50:02.542Z"
+  },
+  {
+    "id": "f9a69575-cc4a-48c1-bf81-f58226a3756c",
+    "detail": "Document REST API with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-08-09T15:50:02.542Z"
+  },
+  {
+    "id": "99f2bb7d-b97e-4ad4-b1ae-9df07036cbb3",
+    "detail": "Create logging system with optimistic updates",
+    "completed": false,
+    "created": "2025-08-08T15:50:02.542Z"
+  },
+  {
+    "id": "4df74667-4c93-4106-b563-1972f2c918d3",
+    "detail": "Document notification service and add integration tests",
+    "completed": true,
+    "created": "2025-08-08T15:50:02.542Z"
+  },
+  {
+    "id": "53943cbc-8c19-4a33-b793-46a94b7e8d6f",
+    "detail": "Refactor nextjs app and write unit tests",
+    "completed": false,
+    "created": "2025-08-08T15:50:02.542Z"
+  },
+  {
+    "id": "43421b61-c0b2-4e6e-986c-bbb5a4ce5432",
+    "detail": "Refactor websocket server before the sprint review",
+    "completed": false,
+    "created": "2025-08-07T15:50:02.542Z"
+  },
+  {
+    "id": "8665d680-5882-40a0-8877-81ccc93cb5ff",
+    "detail": "Setup analytics dashboard using the new design system",
+    "completed": false,
+    "created": "2025-08-07T15:50:02.542Z"
+  },
+  {
+    "id": "dccbfa7c-0c73-4c46-8f88-2f318e78feeb",
+    "detail": "Build kubernetes cluster and add proper logging",
+    "completed": false,
+    "created": "2025-08-07T15:50:02.542Z"
+  },
+  {
+    "id": "2b698b54-fa2b-4537-a0d9-13a9ea02c5c4",
+    "detail": "Create analytics dashboard using the new design system",
+    "completed": false,
+    "created": "2025-08-06T15:50:02.542Z"
+  },
+  {
+    "id": "535fe365-fef7-4ab2-b16a-eaf0599293dc",
+    "detail": "Document CI/CD pipeline for mobile responsiveness",
+    "completed": false,
+    "created": "2025-08-06T15:50:02.542Z"
+  },
+  {
+    "id": "2e40ba50-8972-4630-8f66-44d0bd43427c",
+    "detail": "Migrate rate limiter with proper error handling",
+    "completed": false,
+    "created": "2025-08-05T15:50:02.542Z"
+  },
+  {
+    "id": "f1f58d61-f4ff-45fe-a065-421af6fd340f",
+    "detail": "Migrate REST API using server-side rendering",
+    "completed": false,
+    "created": "2025-08-05T15:50:02.542Z"
+  },
+  {
+    "id": "db319dd1-64d2-4793-a427-5a21e1a2a94e",
+    "detail": "Design kubernetes cluster with accessibility support",
+    "completed": false,
+    "created": "2025-08-05T15:50:02.542Z"
+  },
+  {
+    "id": "87545c25-29bf-4470-960e-7d1914a98e58",
+    "detail": "Debug rate limiter using React Server Components",
+    "completed": false,
+    "created": "2025-08-03T15:50:02.542Z"
+  },
+  {
+    "id": "ae939cef-4cc9-49fc-8d51-37c10461c799",
+    "detail": "Create load balancer config and add integration tests",
+    "completed": true,
+    "created": "2025-08-02T15:50:02.542Z"
+  },
+  {
+    "id": "49c8c7e5-e780-412d-b1af-9c8a1368c39c",
+    "detail": "Optimize landing page with proper error handling",
+    "completed": true,
+    "created": "2025-08-02T15:50:02.542Z"
+  },
+  {
+    "id": "50d31450-d586-45cd-b504-74bf0d0bd3b0",
+    "detail": "Implement payment system for mobile responsiveness",
+    "completed": false,
+    "created": "2025-08-02T15:50:02.542Z"
+  },
+  {
+    "id": "316f62cc-58f7-4c6d-ac68-b9fa9f6bf0fc",
+    "detail": "Debug admin panel and write unit tests",
+    "completed": true,
+    "created": "2025-08-02T15:50:02.542Z"
+  },
+  {
+    "id": "d74ab31c-8ec0-470c-8572-dbd9d0035ed6",
+    "detail": "Deploy landing page and write unit tests",
+    "completed": false,
+    "created": "2025-08-02T15:50:02.542Z"
+  },
+  {
+    "id": "20c81bf2-40b0-403a-bc43-053b768623da",
+    "detail": "Optimize angularjs app using the new design system",
+    "completed": false,
+    "created": "2025-08-01T15:50:02.542Z"
+  },
+  {
+    "id": "ee136f68-5058-4db6-be3f-992b2885cf51",
+    "detail": "Design microservice for mobile responsiveness",
+    "completed": false,
+    "created": "2025-08-01T15:50:02.542Z"
+  },
+  {
+    "id": "2d227bee-b7d6-4f89-b15f-d29adc1610af",
+    "detail": "Optimize frontend project using server-side rendering",
+    "completed": true,
+    "created": "2025-07-31T15:50:02.542Z"
+  },
+  {
+    "id": "b61b0050-69b6-4d91-bd7f-2d9a48d0b89a",
+    "detail": "Review cache layer with full documentation",
+    "completed": true,
+    "created": "2025-07-31T15:50:02.542Z"
+  },
+  {
+    "id": "1dbf8ad2-7884-4ff9-965b-eeb491ef244c",
+    "detail": "Test email template with performance monitoring",
+    "completed": false,
+    "created": "2025-07-30T15:50:02.542Z"
+  },
+  {
+    "id": "9a409826-b88a-4e59-ad3e-a3475c285aef",
+    "detail": "Automate logging system with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-07-30T15:50:02.542Z"
+  },
+  {
+    "id": "cd6f58b5-ee87-4e5d-9361-e79d865d364e",
+    "detail": "Migrate rate limiter for the production environment",
+    "completed": false,
+    "created": "2025-07-30T15:50:02.542Z"
+  },
+  {
+    "id": "affb8e53-c811-47ea-80a7-09d37337cf0a",
+    "detail": "Implement admin panel with real-time sync",
+    "completed": false,
+    "created": "2025-07-29T15:50:02.542Z"
+  },
+  {
+    "id": "46d99b23-3b83-4aeb-be29-ec6d1785716e",
+    "detail": "Implement database schema using React Server Components",
+    "completed": true,
+    "created": "2025-07-29T15:50:02.542Z"
+  },
+  {
+    "id": "d0090643-487f-4568-8f21-a2fddb24a75c",
+    "detail": "Create rate limiter with optimistic updates",
+    "completed": false,
+    "created": "2025-07-29T15:50:02.542Z"
+  },
+  {
+    "id": "c8ccd98c-f0d0-4b29-ad86-b17badace18f",
+    "detail": "Optimize database schema and add integration tests",
+    "completed": false,
+    "created": "2025-07-29T15:50:02.542Z"
+  },
+  {
+    "id": "9c65140b-6ef1-4399-9ce7-a92381cd5bcd",
+    "detail": "Deploy kubernetes cluster with real-time sync",
+    "completed": false,
+    "created": "2025-07-29T15:50:02.542Z"
+  },
+  {
+    "id": "afafe9dc-8399-45d6-9190-8433ab4dfb21",
+    "detail": "Deploy rate limiter using the new design system",
+    "completed": true,
+    "created": "2025-07-28T15:50:02.542Z"
+  },
+  {
+    "id": "bccc1310-f130-4087-a043-592233bb266a",
+    "detail": "Document websocket server across all browsers",
+    "completed": false,
+    "created": "2025-07-28T15:50:02.542Z"
+  },
+  {
+    "id": "2bd38261-9307-4150-866d-239fb61d0dd9",
+    "detail": "Create error tracking using the existing API",
+    "completed": false,
+    "created": "2025-07-28T15:50:02.542Z"
+  },
+  {
+    "id": "d4f5448e-ba10-4a12-b827-edeaf0bbad0b",
+    "detail": "Setup user dashboard with optimistic updates",
+    "completed": true,
+    "created": "2025-07-27T15:50:02.542Z"
+  },
+  {
+    "id": "245ed099-4fae-4251-bbca-feae314d2053",
+    "detail": "Implement CI/CD pipeline and add proper logging",
+    "completed": true,
+    "created": "2025-07-27T15:50:02.542Z"
+  },
+  {
+    "id": "bd1ed7d7-2263-42f5-b55e-aaecd79c62cf",
+    "detail": "Debug logging system with optimistic updates",
+    "completed": false,
+    "created": "2025-07-27T15:50:02.542Z"
+  },
+  {
+    "id": "905f6c8a-50e4-4647-a17a-674351d8e1f9",
+    "detail": "Migrate user dashboard with performance monitoring",
+    "completed": true,
+    "created": "2025-07-26T15:50:02.542Z"
+  },
+  {
+    "id": "42c6ae6a-681f-4d44-819c-f56a7fd40c79",
+    "detail": "Debug payment system with performance monitoring",
+    "completed": false,
+    "created": "2025-07-26T15:50:02.542Z"
+  },
+  {
+    "id": "754b92af-ac53-4a4a-9b77-740bb630687a",
+    "detail": "Deploy angularjs app for mobile responsiveness",
+    "completed": true,
+    "created": "2025-07-26T15:50:02.542Z"
+  },
+  {
+    "id": "1ce25cd7-2216-4ad8-b9ac-b32b17efcd3b",
+    "detail": "Document REST API with proper error handling",
+    "completed": false,
+    "created": "2025-07-26T15:50:02.542Z"
+  },
+  {
+    "id": "2f37f198-9c26-46e3-9880-a5a7d4f234ae",
+    "detail": "Create angularjs app using the existing API",
+    "completed": false,
+    "created": "2025-07-26T15:50:02.542Z"
+  },
+  {
+    "id": "733b6e7a-abc4-4030-b144-e4f9e17ff7c4",
+    "detail": "Build CI/CD pipeline with accessibility support",
+    "completed": false,
+    "created": "2025-07-25T15:50:02.542Z"
+  },
+  {
+    "id": "55382a92-e0d5-428c-a587-ecde5be4e42f",
+    "detail": "Document REST API using the new design system",
+    "completed": true,
+    "created": "2025-07-25T15:50:02.542Z"
+  },
+  {
+    "id": "b1791291-d429-41a7-ad5b-11f3e39d2d57",
+    "detail": "Create integration tests using the new design system",
+    "completed": false,
+    "created": "2025-07-25T15:50:02.542Z"
+  },
+  {
+    "id": "bcea435e-9b95-4df8-858f-ad1cc2465932",
+    "detail": "Debug kubernetes cluster with real-time sync",
+    "completed": false,
+    "created": "2025-07-25T15:50:02.542Z"
+  },
+  {
+    "id": "ae1858e4-949c-454f-9972-744335225af9",
+    "detail": "Create analytics dashboard with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-07-25T15:50:02.542Z"
+  },
+  {
+    "id": "faf00e87-350c-4d38-a494-c80f5e82f993",
+    "detail": "Migrate rate limiter with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-07-25T15:50:02.542Z"
+  },
+  {
+    "id": "7bfbd64d-af23-4874-abd8-773704d13dcd",
+    "detail": "Automate admin panel with full documentation",
+    "completed": false,
+    "created": "2025-07-24T15:50:02.542Z"
+  },
+  {
+    "id": "7d39585c-961b-469a-b2df-cb566620db3e",
+    "detail": "Integrate GraphQL endpoint with full documentation",
+    "completed": false,
+    "created": "2025-07-23T15:50:02.542Z"
+  },
+  {
+    "id": "d5e591dd-003c-4a2f-895e-76916cf00205",
+    "detail": "Build landing page with performance monitoring",
+    "completed": false,
+    "created": "2025-07-23T15:50:02.542Z"
+  },
+  {
+    "id": "7ee3e888-5d87-4c31-990e-b69285913eab",
+    "detail": "Review websocket server using the existing API",
+    "completed": true,
+    "created": "2025-07-22T15:50:02.542Z"
+  },
+  {
+    "id": "47d088b2-ba21-4b1b-8e9b-28079b03e334",
+    "detail": "Implement microservice for mobile responsiveness",
+    "completed": true,
+    "created": "2025-07-22T15:50:02.542Z"
+  },
+  {
+    "id": "0c6e971e-9d40-462a-82a2-db0fcbf45d8a",
+    "detail": "Design logging system with dark mode support",
+    "completed": false,
+    "created": "2025-07-22T15:50:02.542Z"
+  },
+  {
+    "id": "b9cec50d-f18e-4bee-bfaa-0a28914a6b50",
+    "detail": "Implement authentication flow for the beta release",
+    "completed": true,
+    "created": "2025-07-21T15:50:02.542Z"
+  },
+  {
+    "id": "f2af1b29-a000-401f-88f1-600ddb11f2a3",
+    "detail": "Create angularjs app with full documentation",
+    "completed": true,
+    "created": "2025-07-21T15:50:02.542Z"
+  },
+  {
+    "id": "b4ed3ad0-4a25-4c17-b615-e53a8fa8290d",
+    "detail": "Create database schema with full documentation",
+    "completed": true,
+    "created": "2025-07-21T15:50:02.542Z"
+  },
+  {
+    "id": "d83b7d90-c354-4fe9-9d62-5cb8a12438c1",
+    "detail": "Implement file upload system for mobile responsiveness",
+    "completed": true,
+    "created": "2025-07-21T15:50:02.542Z"
+  },
+  {
+    "id": "df2405f8-8f7f-4840-9684-d5caf2495264",
+    "detail": "Document unit tests for the beta release",
+    "completed": true,
+    "created": "2025-07-21T15:50:02.542Z"
+  },
+  {
+    "id": "b49b9c02-5648-4d16-95d9-707f9b9e5bb6",
+    "detail": "Refactor logging system using the new design system",
+    "completed": false,
+    "created": "2025-07-21T15:50:02.542Z"
+  },
+  {
+    "id": "32c43122-7377-4533-a9ac-2add0999137c",
+    "detail": "Debug analytics dashboard with optimistic updates",
+    "completed": false,
+    "created": "2025-07-21T15:50:02.542Z"
+  },
+  {
+    "id": "0fbffacc-dbcf-41c5-aa04-3a01a5acaf35",
+    "detail": "Build cache layer with performance monitoring",
+    "completed": true,
+    "created": "2025-07-21T15:50:02.542Z"
+  },
+  {
+    "id": "beb9f1be-a356-469a-ac09-d8d453565fc0",
+    "detail": "Deploy payment system with accessibility support",
+    "completed": false,
+    "created": "2025-07-21T15:50:02.542Z"
+  },
+  {
+    "id": "8ec84187-4df3-4c6d-84cc-e9dbb1d1b38e",
+    "detail": "Test load balancer config and write unit tests",
+    "completed": false,
+    "created": "2025-07-20T15:50:02.542Z"
+  },
+  {
+    "id": "db445096-8b00-4f57-aa46-b4bf6b2906a5",
+    "detail": "Deploy database schema with full documentation",
+    "completed": false,
+    "created": "2025-07-20T15:50:02.542Z"
+  },
+  {
+    "id": "d516b7ba-547e-437d-ab69-293eff1f2024",
+    "detail": "Refactor CI/CD pipeline and write unit tests",
+    "completed": true,
+    "created": "2025-07-20T15:50:02.542Z"
+  },
+  {
+    "id": "9745306f-7726-481d-9309-b3d449e12798",
+    "detail": "Build integration tests across all browsers",
+    "completed": false,
+    "created": "2025-07-20T15:50:02.542Z"
+  },
+  {
+    "id": "e4cd932e-52be-4042-8c9d-7f20f12ecc0b",
+    "detail": "Review angularjs app across all browsers",
+    "completed": false,
+    "created": "2025-07-20T15:50:02.542Z"
+  },
+  {
+    "id": "528f2bae-0fb2-4805-b52b-495c71f062e7",
+    "detail": "Debug admin panel for the production environment",
+    "completed": false,
+    "created": "2025-07-18T15:50:02.542Z"
+  },
+  {
+    "id": "2cd4a7f6-3dc4-4113-8ebd-256f169d1142",
+    "detail": "Automate nextjs app and add proper logging",
+    "completed": false,
+    "created": "2025-07-16T15:50:02.542Z"
+  },
+  {
+    "id": "4b914775-7f11-464d-93be-4d389a9ee3fe",
+    "detail": "Test landing page with real-time sync",
+    "completed": true,
+    "created": "2025-07-16T15:50:02.542Z"
+  },
+  {
+    "id": "45e818e6-1511-4f9e-8f92-50f144e87e32",
+    "detail": "Create load balancer config with full documentation",
+    "completed": false,
+    "created": "2025-07-16T15:50:02.542Z"
+  },
+  {
+    "id": "c049182b-66ff-4d1b-b053-fdb69e0939de",
+    "detail": "Implement user dashboard using server-side rendering",
+    "completed": true,
+    "created": "2025-07-15T15:50:02.542Z"
+  },
+  {
+    "id": "63bfaa72-3878-408a-b4e9-2320169f5651",
+    "detail": "Deploy CI/CD pipeline with proper error handling",
+    "completed": true,
+    "created": "2025-07-15T15:50:02.542Z"
+  },
+  {
+    "id": "040c9273-42b3-41f6-ac33-7423e8ff7bec",
+    "detail": "Review database schema with optimistic updates",
+    "completed": false,
+    "created": "2025-07-14T15:50:02.542Z"
+  },
+  {
+    "id": "6bd9f8ad-004f-4ac3-b171-ef7d03437a16",
+    "detail": "Optimize mobile app with proper error handling",
+    "completed": false,
+    "created": "2025-07-14T15:50:02.542Z"
+  },
+  {
+    "id": "19b78a47-3bf0-4bab-a317-925bf0dbb04b",
+    "detail": "Create integration tests and add proper logging",
+    "completed": false,
+    "created": "2025-07-14T15:50:02.542Z"
+  },
+  {
+    "id": "28eb8d58-4ff8-4a7e-bfb9-36f828cf8555",
+    "detail": "Build email template for mobile responsiveness",
+    "completed": false,
+    "created": "2025-07-14T15:50:02.542Z"
+  },
+  {
+    "id": "910bc756-9820-4a35-9faa-051cffc12ec7",
+    "detail": "Review error tracking and add integration tests",
+    "completed": true,
+    "created": "2025-07-13T15:50:02.542Z"
+  },
+  {
+    "id": "adb7a4ba-0d2a-46fb-84de-1e71541d39bc",
+    "detail": "Implement notification service using the new design system",
+    "completed": true,
+    "created": "2025-07-12T15:50:02.542Z"
+  },
+  {
+    "id": "b823f610-f23f-4ef0-a58d-d6080d2d8f96",
+    "detail": "Deploy database schema for the beta release",
+    "completed": false,
+    "created": "2025-07-12T15:50:02.542Z"
+  },
+  {
+    "id": "bbce343f-6738-4b32-baff-dff1ed0d660c",
+    "detail": "Debug rate limiter using the existing API",
+    "completed": true,
+    "created": "2025-07-12T15:50:02.542Z"
+  },
+  {
+    "id": "46076759-ccbd-444a-913f-48a3144683b3",
+    "detail": "Create user dashboard for the production environment",
+    "completed": true,
+    "created": "2025-07-12T15:50:02.542Z"
+  },
+  {
+    "id": "7c64579a-f2ae-4da4-bd2a-1d34f17632df",
+    "detail": "Deploy rate limiter for mobile responsiveness",
+    "completed": false,
+    "created": "2025-07-12T15:50:02.542Z"
+  },
+  {
+    "id": "44c6a3c1-e1e0-4b8a-9f8e-4bf28178a617",
+    "detail": "Build angularjs app with optimistic updates",
+    "completed": true,
+    "created": "2025-07-11T15:50:02.542Z"
+  },
+  {
+    "id": "a22017e1-a0b5-4419-aee9-2a00a99f0968",
+    "detail": "Refactor mobile app with dark mode support",
+    "completed": false,
+    "created": "2025-07-11T15:50:02.542Z"
+  },
+  {
+    "id": "e698d6d7-44c1-492b-947a-556ed1512d6c",
+    "detail": "Refactor GraphQL endpoint using the new design system",
+    "completed": false,
+    "created": "2025-07-11T15:50:02.542Z"
+  },
+  {
+    "id": "aa4eb636-3a77-44df-8260-16be17eae019",
+    "detail": "Integrate admin panel with optimistic updates",
+    "completed": true,
+    "created": "2025-07-10T15:50:02.542Z"
+  },
+  {
+    "id": "b5210ab7-c3d7-47ee-82a8-daa4fa0fc43b",
+    "detail": "Test websocket server with dark mode support",
+    "completed": false,
+    "created": "2025-07-10T15:50:02.542Z"
+  },
+  {
+    "id": "c04a8957-f4e3-4ec8-b327-f1f091ad50cc",
+    "detail": "Create search functionality using server-side rendering",
+    "completed": false,
+    "created": "2025-07-10T15:50:02.542Z"
+  },
+  {
+    "id": "c97bad69-2c48-4563-83fd-2a3c4f1008f1",
+    "detail": "Setup file upload system for the production environment",
+    "completed": false,
+    "created": "2025-07-10T15:50:02.542Z"
+  },
+  {
+    "id": "19cb710f-1020-4899-9114-3de477697fb9",
+    "detail": "Design mobile app across all browsers",
+    "completed": false,
+    "created": "2025-07-09T15:50:02.542Z"
+  },
+  {
+    "id": "af7bac00-7b35-4318-b165-945a302ebf38",
+    "detail": "Test email template using React Server Components",
+    "completed": true,
+    "created": "2025-07-09T15:50:02.542Z"
+  },
+  {
+    "id": "b33f7dd7-c148-4059-b8be-5264312fe4c4",
+    "detail": "Optimize admin panel across all browsers",
+    "completed": false,
+    "created": "2025-07-08T15:50:02.542Z"
+  },
+  {
+    "id": "dee8bc85-acbc-4513-9718-d37ba85eaecc",
+    "detail": "Create REST API with performance monitoring",
+    "completed": false,
+    "created": "2025-07-08T15:50:02.542Z"
+  },
+  {
+    "id": "a0b5d6d2-5c45-45f6-89dc-6054b1a45cf0",
+    "detail": "Refactor load balancer config for mobile responsiveness",
+    "completed": false,
+    "created": "2025-07-08T15:50:02.542Z"
+  },
+  {
+    "id": "3b8bfd64-e4f2-4f69-968f-fcedc4f5b719",
+    "detail": "Debug database schema with dark mode support",
+    "completed": false,
+    "created": "2025-07-07T15:50:02.542Z"
+  },
+  {
+    "id": "480ff807-ed78-4fda-91bb-f281e7230166",
+    "detail": "Design cache layer and add proper logging",
+    "completed": false,
+    "created": "2025-07-07T15:50:02.542Z"
+  },
+  {
+    "id": "dac8f3f1-4db1-4c2a-9e34-547ab51651ad",
+    "detail": "Test REST API with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-07-07T15:50:02.542Z"
+  },
+  {
+    "id": "b28b803a-612e-4d74-a315-a10b1d4576fc",
+    "detail": "Migrate logging system across all browsers",
+    "completed": false,
+    "created": "2025-07-07T15:50:02.542Z"
+  },
+  {
+    "id": "bac969a7-bca3-4589-b742-bda5991f94b4",
+    "detail": "Refactor file upload system using React Server Components",
+    "completed": false,
+    "created": "2025-07-07T15:50:02.542Z"
+  },
+  {
+    "id": "62ddf43d-00ac-4efa-8f4e-dc9e2a0c5adf",
+    "detail": "Build unit tests with optimistic updates",
+    "completed": true,
+    "created": "2025-07-06T15:50:02.542Z"
+  },
+  {
+    "id": "54008991-993b-4726-8776-7f0d0fea668c",
+    "detail": "Automate frontend project with proper error handling",
+    "completed": false,
+    "created": "2025-07-06T15:50:02.542Z"
+  },
+  {
+    "id": "964b8231-6e2f-46dc-9091-1eae63a3b4e9",
+    "detail": "Optimize notification service using the existing API",
+    "completed": false,
+    "created": "2025-07-06T15:50:02.542Z"
+  },
+  {
+    "id": "8478f4c3-b4be-4e98-8693-8bf7044af777",
+    "detail": "Implement cache layer for the production environment",
+    "completed": false,
+    "created": "2025-07-06T15:50:02.542Z"
+  },
+  {
+    "id": "8af613db-0154-4f74-9b4c-3b363d55922f",
+    "detail": "Create user dashboard with performance monitoring",
+    "completed": false,
+    "created": "2025-07-06T15:50:02.542Z"
+  },
+  {
+    "id": "1f948f01-592e-4256-aa96-0445b1e7394a",
+    "detail": "Setup docker container with full documentation",
+    "completed": false,
+    "created": "2025-07-06T15:50:02.542Z"
+  },
+  {
+    "id": "ba7ce444-96dd-4f7c-bd83-1f557e2fff19",
+    "detail": "Optimize docker container with performance monitoring",
+    "completed": true,
+    "created": "2025-07-05T15:50:02.542Z"
+  },
+  {
+    "id": "cc71dcee-1dcd-4a59-a094-8bff73e01811",
+    "detail": "Document websocket server with real-time sync",
+    "completed": false,
+    "created": "2025-07-05T15:50:02.542Z"
+  },
+  {
+    "id": "384a668c-b60e-4fbf-968f-b2d545fc4da1",
+    "detail": "Review database schema with proper error handling",
+    "completed": true,
+    "created": "2025-07-05T15:50:02.542Z"
+  },
+  {
+    "id": "cfa545b5-37f6-415a-b423-e8ade73876c5",
+    "detail": "Deploy analytics dashboard with real-time sync",
+    "completed": true,
+    "created": "2025-07-04T15:50:02.542Z"
+  },
+  {
+    "id": "e8fc7a22-fd3f-4970-8486-1cbdd12a0c36",
+    "detail": "Design admin panel using React Server Components",
+    "completed": false,
+    "created": "2025-07-04T15:50:02.542Z"
+  },
+  {
+    "id": "0631ce1f-2ac0-4a58-af21-cf23f033f865",
+    "detail": "Automate rate limiter with full documentation",
+    "completed": false,
+    "created": "2025-07-03T15:50:02.542Z"
+  },
+  {
+    "id": "8d61614a-1963-4ac5-b176-1e38c3e675b3",
+    "detail": "Deploy load balancer config for the beta release",
+    "completed": false,
+    "created": "2025-07-02T15:50:02.542Z"
+  },
+  {
+    "id": "0161d211-78fc-4193-baed-7c57133f5d08",
+    "detail": "Optimize rate limiter with performance monitoring",
+    "completed": false,
+    "created": "2025-07-02T15:50:02.542Z"
+  },
+  {
+    "id": "fa82bcc7-d325-495a-9439-4917a727ef8a",
+    "detail": "Optimize payment system using server-side rendering",
+    "completed": false,
+    "created": "2025-07-01T15:50:02.542Z"
+  },
+  {
+    "id": "59dc60d3-360c-42e5-88bb-d79bd02149c3",
+    "detail": "Document database schema using React Server Components",
+    "completed": false,
+    "created": "2025-07-01T15:50:02.542Z"
+  },
+  {
+    "id": "7d691cd6-3566-4dbd-943d-f77e6a4763ef",
+    "detail": "Implement GraphQL endpoint using React Server Components",
+    "completed": true,
+    "created": "2025-07-01T15:50:02.542Z"
+  },
+  {
+    "id": "c2ab9717-b435-45ba-adcf-80f2c41bfe6f",
+    "detail": "Review frontend project and add proper logging",
+    "completed": false,
+    "created": "2025-06-30T15:50:02.542Z"
+  },
+  {
+    "id": "843fba5b-391f-4d8c-85b1-98f90adf7c3c",
+    "detail": "Build notification service with TypeScript and Tailwind CSS",
+    "completed": false,
+    "created": "2025-06-29T15:50:02.542Z"
+  },
+  {
+    "id": "2a3338ed-4b96-4bc5-a68c-647658b302ac",
+    "detail": "Refactor database schema and write unit tests",
+    "completed": false,
+    "created": "2025-06-29T15:50:02.542Z"
+  },
+  {
+    "id": "e5884bf5-88b2-4aad-b304-925c72132b2b",
+    "detail": "Create file upload system for the production environment",
+    "completed": false,
+    "created": "2025-06-29T15:50:02.542Z"
+  },
+  {
+    "id": "1f9c8e71-66c5-40a5-b03d-3e2c66ab74c4",
+    "detail": "Deploy file upload system for the beta release",
+    "completed": true,
+    "created": "2025-06-28T15:50:02.542Z"
+  },
+  {
+    "id": "baaa899f-3b22-4b92-91f4-be2b393ee051",
+    "detail": "Setup landing page for the production environment",
+    "completed": false,
+    "created": "2025-06-28T15:50:02.542Z"
+  },
+  {
+    "id": "8f4fecd3-de0a-43ae-9dbb-07aa677ec1d6",
+    "detail": "Automate REST API using React Server Components",
+    "completed": false,
+    "created": "2025-06-27T15:50:02.542Z"
+  },
+  {
+    "id": "93e08205-c85d-48a4-821a-f5adbb8c235d",
+    "detail": "Deploy analytics dashboard with proper error handling",
+    "completed": false,
+    "created": "2025-06-27T15:50:02.542Z"
+  },
+  {
+    "id": "c69f7740-9742-475b-a3db-174b7936fb7b",
+    "detail": "Build database schema with full documentation",
+    "completed": false,
+    "created": "2025-06-26T15:50:02.542Z"
+  },
+  {
+    "id": "e92f99e7-a080-4bbe-a603-8f30fe959180",
+    "detail": "Create database schema with dark mode support",
+    "completed": false,
+    "created": "2025-06-26T15:50:02.542Z"
+  },
+  {
+    "id": "885e110a-1997-4422-af25-6c8dc374e032",
+    "detail": "Review kubernetes cluster across all browsers",
+    "completed": true,
+    "created": "2025-06-26T15:50:02.542Z"
+  },
+  {
+    "id": "981bf5b5-967d-4577-ac29-b41386070c2e",
+    "detail": "Implement CI/CD pipeline for the production environment",
+    "completed": false,
+    "created": "2025-06-25T15:50:02.542Z"
+  },
+  {
+    "id": "e5be3aed-beab-4823-afdd-78bdb5eeee49",
+    "detail": "Refactor websocket server with accessibility support",
+    "completed": false,
+    "created": "2025-06-25T15:50:02.542Z"
+  },
+  {
+    "id": "9f497cc0-19d1-4b3e-92ff-792159a0117f",
+    "detail": "Test nextjs app and add proper logging",
+    "completed": false,
+    "created": "2025-06-24T15:50:02.542Z"
+  }
+]
