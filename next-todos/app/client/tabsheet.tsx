@@ -50,7 +50,13 @@ export default function TabSheet({ todos, on_toggle, on_filter, load_next, load_
 
   // Tab filtering is done server-side (see getTodos); here we only apply the
   // client-side search over the currently loaded window.
-  const filteredItems = debouncedSearch.trim()
+  const isSearching = debouncedSearch.trim().length > 0;
+
+  // for now search is over only whats is loaded but we can
+  // do better by moving it to the server and catch the search query
+  // then supply that unique queue to load_previous and load_next
+  // to indicate we want to load a specific set.
+  const filteredItems = isSearching
     ? todos.filter((item) => item.detail.toLowerCase().includes(debouncedSearch.toLowerCase()))
     : todos;
 
@@ -78,7 +84,8 @@ export default function TabSheet({ todos, on_toggle, on_filter, load_next, load_
           onChange={(e) => setSearchQuery(e.target.value)}
         />
       </div>
-      {/*Todo List*/}
+      {/* Todo List — search filters only the loaded window, so window loads are
+          paused while searching to avoid an endless loop chasing sparse matches. */}
       <div className="tab_content min-h-48 border border-t-0 bg-surface rounded-b-lg overflow-hidden">
         <TabContent>
           <VirtualTodoList
@@ -86,8 +93,8 @@ export default function TabSheet({ todos, on_toggle, on_filter, load_next, load_
             container_height={600}
             tasks={filteredItems}
             on_change={on_toggle}
-            load_next={load_next}
-            load_previous={load_previous}
+            load_next={isSearching ? undefined : load_next}
+            load_previous={isSearching ? undefined : load_previous}
           />
         </TabContent>
       </div>
