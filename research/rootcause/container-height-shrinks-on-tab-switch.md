@@ -5,6 +5,12 @@
 Switching tabs (e.g. **New → Pending**) made the scrollable list **collapse to a
 short height** instead of staying a full-size viewport.
 
+> This one was spotted by the author from direct observation while using the app —
+> noticing the container shrink on tab change — who also reasoned out the correct
+> fix: that tracking the height in `useState` was unnecessary since the height is
+> already known, and that the container should use a fixed height so it always
+> stays a full viewport. The investigation below confirms that diagnosis.
+
 Two things combined to cause it:
 
 1. **The viewport height was *measured* from the DOM and stored in state.** The
@@ -116,6 +122,9 @@ const visibleCount = Math.ceil(container_height / ITEM_HEIGHT) + BUFFER * 2;
 ---
 
 ## The fix
+
+This is exactly the solution the author proposed on observing the bug — remove the
+redundant measurement/state and pin the viewport to a fixed height:
 
 1. **Drop `containerHeight` state and the measuring `useEffect`.** Derive
    `visibleCount` from the `container_height` prop. Over-counting on short lists
