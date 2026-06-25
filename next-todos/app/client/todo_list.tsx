@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useLayoutEffect, useRef, useState } from "react";
+import { useLayoutEffect, useRef, useState } from "react";
 import { TodoData } from "../models/todo";
 import { Todo } from "./todo";
 import { useIntersectionObserver } from "../hooks/useIntersectionObserver";
@@ -25,17 +25,10 @@ export function VirtualTodoList({
 }: VirtualTodoListProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const [scrollTop, setScrollTop] = useState(0);
-  const [containerHeight, setContainerHeight] = useState(0);
   const loadingRef = useRef(false);
 
   // Previous task list, used to measure how the sliding window shifted.
   const prevTasksRef = useRef<TodoData[]>(tasks);
-
-  useEffect(() => {
-    if (containerRef.current) {
-      setContainerHeight(containerRef.current.clientHeight);
-    }
-  }, []);
 
   // Keep the viewport anchored on the same items when the window slides.
   // Items are fixed height, so the scroll delta is exactly the number of items
@@ -96,7 +89,10 @@ export function VirtualTodoList({
 
   // Virtualization math
   const totalHeight = tasks.length * ITEM_HEIGHT;
-  const visibleCount = Math.ceil(containerHeight / ITEM_HEIGHT) + BUFFER * 2;
+  // Viewport height is fixed by container_height, so derive how many rows to
+  // render directly from the prop — no need to measure clientHeight. endIndex is
+  // clamped to tasks.length, so over-counting on short lists is harmless.
+  const visibleCount = Math.ceil(container_height / ITEM_HEIGHT) + BUFFER * 2;
   const startIndex = Math.max(0, Math.floor(scrollTop / ITEM_HEIGHT) - BUFFER);
   const endIndex = Math.min(tasks.length, startIndex + visibleCount);
   const visibleTasks = tasks.slice(startIndex, endIndex);
@@ -121,10 +117,12 @@ export function VirtualTodoList({
   );
 
   return (
+    // Fixed height (not maxHeight): a stable scroll viewport that doesn't shrink
+    // to fit short lists or jump when switching tabs.
     <div
       ref={containerRef}
       className="overflow-y-auto"
-      style={{ maxHeight: `${container_height}px`, overflowAnchor: "auto" }}
+      style={{ height: `${container_height}px`, overflowAnchor: "auto" }}
       onScroll={(e) => setScrollTop(e.currentTarget.scrollTop)}
     >
       {/* Top sentinel */}
