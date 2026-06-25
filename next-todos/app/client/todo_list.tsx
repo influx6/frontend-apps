@@ -56,6 +56,12 @@ export function VirtualTodoList({
     const prepended = tasks.findIndex((t) => t.id === prev[0].id);
     if (prepended > 0) {
       container.scrollTop += prepended * ITEM_HEIGHT;
+      // Sync the virtualization state in this same commit. startIndex/paddingTop
+      // derive from `scrollTop` state, which otherwise only updates on the async
+      // onScroll event — leaving the rendered slice one frame behind the
+      // programmatic scroll and causing a visible flash. Updating it here keeps
+      // the slice and the DOM scroll in lockstep before paint.
+      setScrollTop(container.scrollTop);
       return;
     }
 
@@ -65,6 +71,7 @@ export function VirtualTodoList({
     const evicted = prev.findIndex((t) => t.id === tasks[0].id);
     if (evicted > 0) {
       container.scrollTop -= evicted * ITEM_HEIGHT;
+      setScrollTop(container.scrollTop);
     }
     // Otherwise (tab switch / search / reset) there's no shared anchor — leave
     // the scroll position alone.
